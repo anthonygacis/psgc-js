@@ -1,6 +1,10 @@
-# PSGC JS
+# PSGC JS *(Under Development)*
 
 A collection of philippine geographic data based on PSGC
+
+## Latest Update
+
+As of **2Q 2021**
 
 ## Features
 
