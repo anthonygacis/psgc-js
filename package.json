@@ -4,7 +4,8 @@
   "description": "A collection of philippine geographic data based on PSGC",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "extract": "node src/extract/extract.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/anthonygacis/psgc-js/issues"
   },
-  "homepage": "https://github.com/anthonygacis/psgc-js#readme"
+  "homepage": "https://github.com/anthonygacis/psgc-js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "lodash": "^4.17.21",
+    "xlsx": "^0.17.3"
+  }
 }
