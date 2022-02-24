@@ -28,7 +28,7 @@ As of **2Q 2021**
 Install psgs-js with npm
 
 ```bash
-  npm install psgc-js
+  npm install @ageesea/psgc-js
 ```
 
 ## Usage
@@ -39,9 +39,9 @@ A method that returns all regions in the Philippines
 
 ```js
 // example.js
-import {getAllRegions} from '@ageesea/psgc-js'
+import { psgc } from '@ageesea/psgc-js'
 
-const allRegions = getAllRegions()
+const allRegions = psgc().getAllRegions()
 ```
 
 Output:
@@ -94,9 +94,9 @@ Output:
 
 ```js
 // example.js
-import {getWithFilters} from '@ageesea/psgc-js'
+import { psgc } from '@ageesea/psgc-js'
 
-const output = getWithFilters({
+const output = psgc().getWithFilters({
   geographic_level: "Prov"
 })
 ```
