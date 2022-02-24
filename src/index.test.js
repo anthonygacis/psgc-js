@@ -1,8 +1,8 @@
 /**
  * @jest-environment jsdom
  */
-const { getAll } = require('.')
+const { psgc } = require('.')
 
 test('has an object', () => {
-    expect(getAll().length).toBeGreaterThan(0)
+    expect(psgc().getAllRegions().length).toBeGreaterThan(0)
 });
