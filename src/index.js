@@ -32,10 +32,7 @@ const getWithFilters = (region, filters) => {
                         } else {
                             for (let [bgyKey, bgyValue] of Object.entries(munValue.sub_locations)) {
                                 if (filters && filters.geographic_level && bgyValue.geographic_level == filters.geographic_level) {
-                                    delete bgyValue.sub_locations
                                     results.push(bgyValue)
-                                } else {
-
                                 }
                             }
                         }
