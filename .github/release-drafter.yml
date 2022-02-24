@@ -1,0 +1,54 @@
+name-template: 'v$RESOLVED_VERSION'
+
+tag-template: 'v$RESOLVED_VERSION'
+
+template: |
+  # What's Changed
+  $CHANGES
+categories:
+  - title: '💥 Breaking'
+    label: 'breaking'
+  - title: '🚀 New'
+    label: 'feature'
+  - title: '🐛 Bug Fixes'
+    label: 'bug'
+  - title: '🧰 Maintenance'
+    label: 'maintenance'
+  - title: '📄 Chore'
+    label: 'chore'
+  - title: '🤖 Dependency Updates'
+    label: 'dependencies'
+
+autolabeler:
+  - label: 'chore'
+    files:
+      - '*.md'
+    branch:
+      - '/docs\/.+/'
+      - '/chore\/.+/'
+  - label: 'bug'
+    branch:
+      - '/fix\/.+/'
+    title:
+      - '/fix/i'
+  - label: 'feature'
+    branch:
+      - '/feature\/.+/'
+
+version-resolver:
+  major:
+    labels:
+      - 'breaking'
+  minor:
+    labels:
+      - 'feature'
+  patch:
+    labels:
+      - 'bug'
+      - 'maintenance'
+      - 'docs'
+      - 'dependencies'
+      - 'security'
+
+exclude-labels:
+  - 'skip-changelog'
