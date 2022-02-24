@@ -1,6 +1,6 @@
 {
   "name": "@ageesea/psgc-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A collection of philippine geographic data based on PSGC",
   "main": "src/index.js",
   "scripts": {
