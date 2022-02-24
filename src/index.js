@@ -47,10 +47,6 @@ const getWithFilters = (region, filters) => {
     return results
 }
 
-console.log(getWithFilters("05", {
-    geographic_level: 'Bgy'
-}))
-
 module.exports = exports = {
     getWithFilters
 }
