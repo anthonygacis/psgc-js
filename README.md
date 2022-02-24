@@ -28,7 +28,7 @@ As of **2Q 2021**
 Install psgs-js with npm
 
 ```bash
-  npm install psgc-js
+  npm install @ageesea/psgc-js
 ```
 
 ## Usage
