@@ -2,7 +2,7 @@
   "name": "psgc-js",
   "version": "0.0.1",
   "description": "A collection of philippine geographic data based on PSGC",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "extract": "node src/extract/extract.js",
     "test": "jest"
