@@ -1,5 +1,4 @@
-const fs = require('fs');
-const { filter } = require('lodash');
+import fs from 'fs'
 
 const getAllRegions = () => {
     let content = JSON.parse(fs.readFileSync(`./src/extract/geo-data.json`, 'utf8'));
@@ -45,5 +44,6 @@ const getWithFilters = (region, filters) => {
 }
 
 module.exports = exports = {
+    getAllRegions,
     getWithFilters
 }
