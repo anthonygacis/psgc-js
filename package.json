@@ -29,5 +29,10 @@
     "jest": "^27.3.1",
     "lodash": "^4.17.21",
     "xlsx": "^0.17.3"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
   }
 }
