@@ -1,6 +1,6 @@
 {
   "name": "@ageesea/psgc-js",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "A collection of philippine geographic data based on PSGC",
   "main": "src/index.js",
   "scripts": {
@@ -26,13 +26,9 @@
   "homepage": "https://github.com/anthonygacis/psgc-js#readme",
   "dependencies": {},
   "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.8",
     "jest": "^27.3.1",
     "lodash": "^4.17.21",
     "xlsx": "^0.17.3"
-  },
-  "browser": {
-    "fs": false,
-    "path": false,
-    "os": false
   }
 }
