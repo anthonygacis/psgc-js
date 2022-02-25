@@ -23,6 +23,8 @@ As of **2Q 2021**
   - Urban / Rural (based on 2015 population)
   - Population (2020)
 
+![sample](./demo/psgc-js-sample.gif)
+
 ## Installation
 
 Install psgs-js with npm
