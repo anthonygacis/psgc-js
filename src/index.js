@@ -16,7 +16,7 @@ const PSGC = {
                 if (obj.length > 0) {
                     for (let [index, item] of Object.entries(obj[0].options)) item.remove()
 
-                    obj[0].add(new Option("-- Please select a value --"));
+                    obj[0].add(new Option("-- Please select --"));
                 }
             }
 

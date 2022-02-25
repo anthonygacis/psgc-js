@@ -33,15 +33,56 @@ Install psgs-js with npm
 
 ## Usage
 
-### Method: getAllRegions()
+Create your html markup.
+
+```html
+  <!-- sample.html  -->
+  <body>
+    <select id="regions"></select>
+    <select id="provinces"></select>
+    <select id="municipality"></select>
+    <select id="barangay"></select>
+  </body>
+```
+
+Then initialize the object by passing the handler to _init_ function.
+
+```js
+  import PSGC from '@ageesea/psgc-js'
+
+  PSGC.init({
+      bind: {
+          region: "#regions",
+          province: "#provinces",
+          municipality: "#municipality",
+          barangay: "#barangay",
+      }
+  })
+```
+
+```js
+// required options
+{
+  bind: {
+    region: "id or class",
+    province: "id or class",
+    municipality: "id or class",
+    barangay: "id or class",
+  }
+}
+```
+
+## Available Methods
+
+### PSGC.getAllRegions()
 
 A method that returns all regions in the Philippines
 
 ```js
 // example.js
-import { psgc } from '@ageesea/psgc-js'
+import PSGC from '@ageesea/psgc-js'
 
-const allRegions = psgc().getAllRegions()
+const allRegions = PSGC.getAllRegions()
 ```
 
 Output:
@@ -66,7 +107,7 @@ Output:
 ]
 ```
 
-### Method: getWithFilters(region, filters)
+### PSGC.get(region, filters)
 
 <table>
   <tr>
@@ -82,11 +123,15 @@ Output:
     <td> filters </td>
     <td>
       A filter object
-      <pre>
+      <pre language='js'>
 {
   // available values: <i>Prov, Dist, Mun, SubMun and Bgy</i>
   geographic_level: "value"
-}  
+  search: {
+    code: "geo code",
+    type: 'value'
+  }
+}
       </pre>
     </td>
   </tr>
@@ -94,14 +139,24 @@ Output:
 
 ```js
 // example.js
-import { psgc } from '@ageesea/psgc-js'
+import PSGC from '@ageesea/psgc-js'
 
-const output = psgc().getWithFilters({
+// to get all of the region V provinces
+const output = PSGC.get("05", {
   geographic_level: "Prov"
 })
+
+// To get the municipality from a particular province, supply the search option
+const output = PSGC.get("05", {
+  search: {
+    code: "056200000", // the geo code of the province. e.g. Sorsogon
+    type: 'Mun' // same as the previously mentioned values
+  }
+})
+
 ```
 
-Output:
+Sample Output:
 
 ```obj
 [
