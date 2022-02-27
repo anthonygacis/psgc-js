@@ -33,6 +33,12 @@ Install psgs-js with npm
   npm install @ageesea/psgc-js
 ```
 
+Or via CDN
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/@ageesea/psgc-js@v1"></script>
+```
+
 ## Usage
 
 Create your html markup.

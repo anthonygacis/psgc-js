@@ -1,11 +1,13 @@
 {
   "name": "@ageesea/psgc-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of philippine geographic data based on PSGC",
+  "jsdelivr": "dist/psgc.min.js",
+  "unpkg": "dist/psgc.min.js",
   "main": "src/index.js",
   "scripts": {
     "extract": "node src/extract/extract.js",
-    "test": "jest"
+    "build": "rimraf dist && webpack"
   },
   "repository": {
     "type": "git",
@@ -26,9 +28,14 @@
   "homepage": "https://github.com/anthonygacis/psgc-js#readme",
   "dependencies": {},
   "devDependencies": {
+    "@babel/core": "^7.17.5",
     "@babel/plugin-transform-modules-commonjs": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.3",
     "jest": "^27.3.1",
     "lodash": "^4.17.21",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2",
     "xlsx": "^0.17.3"
   }
 }

@@ -1,5 +1,3 @@
-import geoData from './extract/geo-data.json'
-
 const PSGC = {
     /**
      * 
@@ -25,95 +23,113 @@ const PSGC = {
             clearOptions(objMunicipality)
             clearOptions(objBarangay)
 
-            const allRegions = PSGC.getAllRegions()
+            // const allRegions = PSGC.getAllRegions()
+            PSGC.getAllRegions().then(allRegions => {
+                objRegion.forEach(function (elem) {
+                    // attributes
+                    elem.dataset.level = "reg"
+                    allRegions.forEach(function (item, index) {
+                        elem.add(new Option(item.name, item.code));
+                    })
+                    elem.addEventListener('change', function (e) {
+                        if (e.target) {
+                            if (e.target.dataset.level = "reg") {
+                                if (objProvinces.length > 0) {
+                                    const regCode = e.target.value.substring(0, 2)
+                                    objProvinces[0].dataset.level = "prov"
 
-            objRegion.forEach(function (elem) {
-                // attributes
-                elem.dataset.level = "reg"
-                allRegions.forEach(function (item, index) {
-                    elem.add(new Option(item.name, item.code));
-                })
-                elem.addEventListener('change', function (e) {
-                    if (e.target) {
-                        if (e.target.dataset.level = "reg") {
-                            if (objProvinces.length > 0) {
-                                const regCode = e.target.value.substring(0, 2)
-                                objProvinces[0].dataset.level = "prov"
+                                    clearOptions(objProvinces)
+                                    clearOptions(objMunicipality)
+                                    clearOptions(objBarangay)
 
-                                clearOptions(objProvinces)
-                                clearOptions(objMunicipality)
-                                clearOptions(objBarangay)
+                                    if (regCode) {
+                                        const populateOptions = (filteredData) => {
+                                            filteredData.forEach(function (prov) {
+                                                objProvinces[0].add(new Option(prov.name, prov.code))
+                                            })
+                                            objProvinces[0].addEventListener('change', function (elemMItem) {
+                                                if (objMunicipality.length > 0) {
+                                                    objMunicipality[0].dataset.level = "Mun"
 
-                                if (regCode) {
-                                    const populateOptions = (filteredData) => {
-                                        filteredData.forEach(function (prov) {
-                                            objProvinces[0].add(new Option(prov.name, prov.code))
-                                        })
-                                        objProvinces[0].addEventListener('change', function (elemMItem) {
-                                            if (objMunicipality.length > 0) {
-                                                objMunicipality[0].dataset.level = "Mun"
+                                                    PSGC.get(regCode, {
+                                                        search: {
+                                                            code: elemMItem.target.value,
+                                                            type: 'Mun'
+                                                        }
+                                                    }).then(iData => {
+                                                        clearOptions(objMunicipality)
+                                                        clearOptions(objBarangay)
 
-                                                PSGC.get(regCode, {
-                                                    search: {
-                                                        code: elemMItem.target.value,
-                                                        type: 'Mun'
-                                                    }
-                                                }).then(iData => {
-                                                    clearOptions(objMunicipality)
-                                                    clearOptions(objBarangay)
+                                                        if (iData.length) {
+                                                            iData.forEach(function (item) {
+                                                                objMunicipality[0].add(new Option(item.name, item.code))
+                                                            })
+                                                            objMunicipality[0].addEventListener('change', function (mElement) {
+                                                                if (objBarangay.length > 0) {
+                                                                    objBarangay[0].dataset.level = "Bgy"
 
-                                                    if (iData.length) {
-                                                        iData.forEach(function (item) {
-                                                            objMunicipality[0].add(new Option(item.name, item.code))
-                                                        })
-                                                        objMunicipality[0].addEventListener('change', function (mElement) {
-                                                            if (objBarangay.length > 0) {
-                                                                objBarangay[0].dataset.level = "Bgy"
+                                                                    PSGC.get(regCode, {
+                                                                        search: {
+                                                                            code: mElement.target.value,
+                                                                            type: 'Bgy'
+                                                                        }
+                                                                    }).then(mData => {
+                                                                        clearOptions(objBarangay)
 
-                                                                PSGC.get(regCode, {
-                                                                    search: {
-                                                                        code: mElement.target.value,
-                                                                        type: 'Bgy'
-                                                                    }
-                                                                }).then(mData => {
-                                                                    clearOptions(objBarangay)
-
-                                                                    if (mData.length) {
-                                                                        mData.forEach(function (item) {
-                                                                            objBarangay[0].add(new Option(item.name, item.code))
-                                                                        })
-                                                                    }
-                                                                })
-                                                            }
-                                                        })
-                                                    }
-                                                })
+                                                                        if (mData.length) {
+                                                                            mData.forEach(function (item) {
+                                                                                objBarangay[0].add(new Option(item.name, item.code))
+                                                                            })
+                                                                        }
+                                                                    })
+                                                                }
+                                                            })
+                                                        }
+                                                    })
+                                                }
+                                            })
+                                        }
+                                        PSGC.get(regCode, { geographic_level: 'Prov' }).then(outData => {
+                                            if (outData.length == 0) {
+                                                PSGC.get(regCode, { geographic_level: 'Dist' }).then(inData => populateOptions(inData))
+                                            } else {
+                                                populateOptions(outData)
                                             }
                                         })
-                                    }
-                                    PSGC.get(regCode, { geographic_level: 'Prov' }).then(outData => {
-                                        if (outData.length == 0) {
-                                            PSGC.get(regCode, { geographic_level: 'Dist' }).then(inData => populateOptions(inData))
-                                        } else {
-                                            populateOptions(outData)
-                                        }
-                                    })
 
+                                    }
                                 }
                             }
                         }
-                    }
+                    })
                 })
             })
         }
     },
     getAllRegions: () => {
         // const content = require('./extract/geo-data.json')
-        return geoData.filter((item) => {
-            if (item.geographic_level) {
-                return item.geographic_level.includes('Reg')
+        let geoData = import('./extract/geo-regions.json')
+        // let fOutput = []
+        // for (let [index, item] of Object.entries(geoData)) {
+        //     if (item.geographic_level) {
+        //         fOutput.push(item)
+        //     }
+        // }
+
+        // fOutput.sort((a, b) => parseInt(a.code) - parseInt(b.code))
+        // return fOutput;
+
+        return geoData.then(data => {
+            let fOutput = []
+            for (let [index, item] of Object.entries(data)) {
+                if (item.geographic_level) {
+                    fOutput.push(item)
+                }
             }
-        }).sort((a, b) => parseInt(a.code) - parseInt(b.code))
+
+            fOutput.sort((a, b) => parseInt(a.code) - parseInt(b.code))
+            return Promise.resolve(fOutput)
+        })
     },
 
     /**
@@ -172,5 +188,5 @@ const PSGC = {
     }
 }
 
-// module.exports = exports = PSGC
+// module.exports = PSGC
 export default PSGC
