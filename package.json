@@ -7,7 +7,6 @@
   "main": "src/index.js",
   "scripts": {
     "extract": "node src/extract/extract.js",
-    "test": "jest",
     "build": "rimraf dist && webpack"
   },
   "repository": {
