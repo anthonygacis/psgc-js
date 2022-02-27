@@ -36,7 +36,7 @@ Install psgs-js with npm
 Or via CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@ageesea/psgc-js@v1"></script>
+<script src="https://cdn.jsdelivr.net/npm/@ageesea/psgc-js@latest"></script>
 ```
 
 ## Usage
