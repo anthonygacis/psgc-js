@@ -1,4 +1,5 @@
 const path = require("path")
+const pjson = require('./package.json');
 
 module.exports = {
     entry: path.resolve(__dirname, "src/index.js"),
@@ -12,7 +13,7 @@ module.exports = {
             export: 'default',
         },
         globalObject: 'this',
-        publicPath: 'https://cdn.jsdelivr.net/npm/@ageesea/psgc-js@1.x.x/dist/',
+        publicPath: 'https://cdn.jsdelivr.net/npm/@ageesea/psgc-js@' + pjson.version + '/dist/',
         chunkFilename: 'chunk-[id].js',
     },
     module: {
