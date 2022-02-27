@@ -11,7 +11,8 @@ module.exports = {
             type: 'umd',
             export: 'default',
         },
-        globalObject: 'this'
+        globalObject: 'this',
+        chunkFilename: 'chunk-[id].js',
     },
     module: {
         rules: [
