@@ -12,7 +12,7 @@ module.exports = {
             export: 'default',
         },
         globalObject: 'this',
-        publicPath: 'dist/',
+        publicPath: 'https://cdn.jsdelivr.net/npm/@ageesea/psgc-js@1.x.x/dist/',
         chunkFilename: 'chunk-[id].js',
     },
     module: {
