@@ -2,8 +2,8 @@
   "name": "@ageesea/psgc-js",
   "version": "1.0.1",
   "description": "A collection of philippine geographic data based on PSGC",
-  "jsdelivr": "dist/index.min.js",
-  "unpkg": "dist/index.min.js",
+  "jsdelivr": "dist/psgc.min.js",
+  "unpkg": "dist/psgc.min.js",
   "main": "src/index.js",
   "scripts": {
     "extract": "node src/extract/extract.js",
