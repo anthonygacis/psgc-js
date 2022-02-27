@@ -7,6 +7,7 @@ const ws = wb.Sheets['PSGC'];
 const data = xlsx.utils.sheet_to_json(ws).map(row => mapKeys(row, (value, key) => {
     return key.toLowerCase().replace(' ', '_');
 }));
+let regions = {}
 for (let index = 1; index <= 17; index++) {
     let fData = {}
 
@@ -19,6 +20,9 @@ for (let index = 1; index <= 17; index++) {
                 let tempCode = ''
                 if (item.geographic_level == 'Reg') {
                     tempCode = code.substring(0, 2)
+                    regions[tempCode] = {
+                        ...item
+                    }
                 }
                 if (item.geographic_level == 'Prov' || item.geographic_level == 'Dist') {
                     tempCode = code.substring(0, 4)
@@ -42,6 +46,6 @@ for (let index = 1; index <= 17; index++) {
     // console.log(fData)
     fs.writeFileSync('./src/extract/geo-reg-' + index + '.json', JSON.stringify(fData, null, 4));
 }
-// fs.writeFileSync('./src/extract/geo-data.json', JSON.stringify(data, null, 4));
+fs.writeFileSync('./src/extract/geo-regions.json', JSON.stringify(regions, null, 4));
 console.log('Extraction completed')
 console.log('Geo Data has been saved to ./extract directory')

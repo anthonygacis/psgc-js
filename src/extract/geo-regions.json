@@ -1,0 +1,121 @@
+{
+    "10": {
+        "code": "100000000",
+        "name": "Region X (Northern Mindanao)",
+        "geographic_level": "Reg",
+        "population_2015": 4689302,
+        "population_2020": 5022768
+    },
+    "11": {
+        "code": 110000000,
+        "name": "Region XI (Davao Region)",
+        "geographic_level": "Reg",
+        "population_2015": 4893318,
+        "population_2020": 5243536
+    },
+    "12": {
+        "code": 120000000,
+        "name": "Region XII (SOCCSKSARGEN)",
+        "geographic_level": "Reg",
+        "population_2015": 4545276,
+        "population_2020": 4901486
+    },
+    "13": {
+        "code": 130000000,
+        "name": "National Capital Region (NCR)",
+        "geographic_level": "Reg",
+        "population_2015": 12877253,
+        "population_2020": 13484462
+    },
+    "14": {
+        "code": 140000000,
+        "name": "Cordillera Administrative Region (CAR)",
+        "geographic_level": "Reg",
+        "population_2015": 1722006,
+        "population_2020": 1797660
+    },
+    "15": {
+        "code": 150000000,
+        "name": "Autonomous Region In Muslim Mindanao (ARMM)",
+        "geographic_level": "Reg",
+        "population_2015": 3781387,
+        "population_2020": 4404288
+    },
+    "16": {
+        "code": 160000000,
+        "name": "Region XIII (Caraga)",
+        "geographic_level": "Reg",
+        "population_2015": 2596709,
+        "population_2020": 2804788
+    },
+    "17": {
+        "code": 170000000,
+        "name": "MIMAROPA Region",
+        "geographic_level": "Reg",
+        "population_2015": 2963360,
+        "population_2020": 3228558
+    },
+    "01": {
+        "code": "010000000",
+        "name": "Region I (Ilocos Region)",
+        "geographic_level": "Reg",
+        "population_2015": 5026128,
+        "population_2020": 5301139
+    },
+    "02": {
+        "code": "020000000",
+        "name": "Region II (Cagayan Valley)",
+        "geographic_level": "Reg",
+        "population_2015": 3451410,
+        "population_2020": 3685744
+    },
+    "03": {
+        "code": "030000000",
+        "name": "Region III (Central Luzon)",
+        "geographic_level": "Reg",
+        "population_2015": 11218177,
+        "population_2020": 12422172
+    },
+    "04": {
+        "code": "040000000",
+        "name": "Region IV-A (CALABARZON)",
+        "geographic_level": "Reg",
+        "population_2015": 14414774,
+        "population_2020": 16195042
+    },
+    "05": {
+        "code": "050000000",
+        "name": "Region V (Bicol Region)",
+        "geographic_level": "Reg",
+        "population_2015": 5796989,
+        "population_2020": 6082165
+    },
+    "06": {
+        "code": "060000000",
+        "name": "Region VI (Western Visayas)",
+        "geographic_level": "Reg",
+        "population_2015": 7536383,
+        "population_2020": 7954723
+    },
+    "07": {
+        "code": "070000000",
+        "name": "Region VII (Central Visayas)",
+        "geographic_level": "Reg",
+        "population_2015": 7396898,
+        "population_2020": 8081988
+    },
+    "08": {
+        "code": "080000000",
+        "name": "Region VIII (Eastern Visayas)",
+        "geographic_level": "Reg",
+        "population_2015": 4440150,
+        "population_2020": 4547150
+    },
+    "09": {
+        "code": "090000000",
+        "name": "Region IX (Zamboanga Peninsula)",
+        "geographic_level": "Reg",
+        "population_2015": 3629783,
+        "population_2020": 3875576
+    }
+}
