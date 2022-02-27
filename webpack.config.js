@@ -12,6 +12,7 @@ module.exports = {
             export: 'default',
         },
         globalObject: 'this',
+        publicPath: 'dist/',
         chunkFilename: 'chunk-[id].js',
     },
     module: {
