@@ -2,6 +2,7 @@ let _objRegion
 let _objProvinces
 let _objMunicipality
 let _objBarangay
+let _addNameToKey = false
 
 const clearOptions = (...obj) => {
     if (obj instanceof Array) {
@@ -26,8 +27,12 @@ const onChangeElement = (elem) => {
                     const populateOptions = (filteredData) => {
                         filteredData.forEach(function (prov) {
                             let isDefault = _objProvinces[0].dataset?.defaultValue == prov.code
-                            _objProvinces[0].add(new Option(prov.name, prov.code, isDefault, isDefault))
-                            if (isDefault) onChangeElement(_objProvinces[0])
+                            let key = _addNameToKey ? prov.code + ':' + prov.name.replace(/\s/g, '-').toLowerCase() : prov.code
+                            _objProvinces[0].add(new Option(prov.name, key, isDefault, isDefault))
+                            if (isDefault) {
+                                onChangeElement(_objProvinces[0])
+                                delete _objProvinces[0].dataset.defaultValue
+                            }
                         })
                         _objProvinces[0].addEventListener('change', (e) => onChangeElement(e.target))
                     }
@@ -56,8 +61,12 @@ const onChangeElement = (elem) => {
                     if (iData.length) {
                         iData.forEach(function (item) {
                             let isDefault = _objMunicipality[0].dataset?.defaultValue == item.code
-                            _objMunicipality[0].add(new Option(item.name, item.code, isDefault, isDefault))
-                            if (isDefault) onChangeElement(_objMunicipality[0])
+                            let key = _addNameToKey ? item.code + ':' + item.name.replace(/\s/g, '-').toLowerCase() : item.code
+                            _objMunicipality[0].add(new Option(item.name, key, isDefault, isDefault))
+                            if (isDefault) {
+                                onChangeElement(_objMunicipality[0])
+                                delete _objMunicipality[0].dataset.defaultValue
+                            }
                         })
                         _objMunicipality[0].addEventListener('change', (e) => onChangeElement(e.target))
                     }
@@ -77,8 +86,12 @@ const onChangeElement = (elem) => {
                     if (mData.length) {
                         mData.forEach(function (item) {
                             let isDefault = _objBarangay[0].dataset?.defaultValue == item.code
-                            _objBarangay[0].add(new Option(item.name, item.code, isDefault, isDefault))
-                            if (isDefault) onChangeElement(_objBarangay[0])
+                            let key = _addNameToKey ? item.code + ':' + item.name.replace(/\s/g, '-').toLowerCase() : item.code
+                            _objBarangay[0].add(new Option(item.name, key, isDefault, isDefault))
+                            if (isDefault) {
+                                onChangeElement(_objBarangay[0])
+                                delete _objBarangay[0].dataset.defaultValue
+                            }
                         })
                     }
                 })
@@ -98,6 +111,7 @@ const PSGC = {
             _objProvinces = document.querySelectorAll(options.bind?.province)
             _objMunicipality = document.querySelectorAll(options.bind?.municipality)
             _objBarangay = document.querySelectorAll(options.bind?.barangay)
+            _addNameToKey = options?.addNameToKey
 
             clearOptions(_objRegion, _objProvinces, _objMunicipality, _objBarangay)
 
@@ -110,8 +124,12 @@ const PSGC = {
                     elem.dataset.level = "reg"
                     allRegions.forEach(function (item, index) {
                         let isDefault = regDefaultValue == item.code
-                        elem.add(new Option(item.name, item.code, isDefault, isDefault));
-                        if (isDefault) onChangeElement(elem)
+                        let key = _addNameToKey ? item.code + ':' + item.name.replace(/\s/g, '-').toLowerCase() : item.code
+                        elem.add(new Option(item.name, key, isDefault, isDefault));
+                        if (isDefault) {
+                            onChangeElement(elem)
+                            delete elem.dataset.defaultValue
+                        }
                     })
                     elem.addEventListener('change', (e) => onChangeElement(e.target))
                 })
