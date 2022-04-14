@@ -14,7 +14,7 @@ module.exports = {
         },
         globalObject: 'this',
         publicPath: 'https://cdn.jsdelivr.net/npm/@ageesea/psgc-js@' + pjson.version + '/dist/',
-        chunkFilename: 'chunk-[id].js',
+        chunkFilename: 'chunk-[id]-[contenthash].js',
     },
     module: {
         rules: [
