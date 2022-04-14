@@ -4,7 +4,8 @@ A collection of philippine geographic data based on PSGC
 
 ## Latest Update
 
-As of **2Q 2021**
+- As of **4Q 2021** publication
+- Addition of psgc 10-digit
 
 ## Features
 
@@ -288,3 +289,7 @@ You can all also get the region code by taking the first two digits of the code.
 <td>MIMAROPA</td>
 </tr>
 </table>
+
+## Reference
+
+- [PSGC Publication](https://psa.gov.ph/classification/psgc/)
