@@ -24,7 +24,7 @@ A collection of philippine geographic data based on PSGC
   - Urban / Rural (based on 2015 population)
   - Population (2020)
 
-![sample](./demo/psgc-js-sample.gif)
+![sample](.github/demo/psgc-js-sample.gif)
 
 ## Installation
 
