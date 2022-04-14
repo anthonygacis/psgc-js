@@ -1,0 +1,42 @@
+{
+    "1999901000": {
+        "psgc_10_digit": 1999901000,
+        "name": "Carmen Cluster",
+        "geographic_level": "SGU"
+    },
+    "1999902000": {
+        "psgc_10_digit": "1999902000",
+        "name": "Kabacan Cluster",
+        "geographic_level": "SGU"
+    },
+    "1999903000": {
+        "psgc_10_digit": "1999903000",
+        "name": "Midsayap Cluster I",
+        "geographic_level": "SGU"
+    },
+    "1999904000": {
+        "psgc_10_digit": "1999904000",
+        "name": "Midsayap Cluster II",
+        "geographic_level": "SGU"
+    },
+    "1999905000": {
+        "psgc_10_digit": "1999905000",
+        "name": "Pigcawayan Cluster",
+        "geographic_level": "SGU"
+    },
+    "1999906000": {
+        "psgc_10_digit": "1999906000",
+        "name": "Pikit Cluster I",
+        "geographic_level": "SGU"
+    },
+    "1999907000": {
+        "psgc_10_digit": "1999907000",
+        "name": "Pikit Cluster II",
+        "geographic_level": "SGU"
+    },
+    "1999908000": {
+        "psgc_10_digit": "1999908000",
+        "name": "Pikit Cluster III",
+        "geographic_level": "SGU"
+    }
+}

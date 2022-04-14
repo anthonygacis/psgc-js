@@ -4,7 +4,8 @@ A collection of philippine geographic data based on PSGC
 
 ## Latest Update
 
-As of **2Q 2021**
+- As of **4Q 2021** publication
+- Added psgc 10-digit code
 
 ## Features
 
@@ -23,7 +24,7 @@ As of **2Q 2021**
   - Urban / Rural (based on 2015 population)
   - Population (2020)
 
-![sample](./demo/psgc-js-sample.gif)
+![sample](.github/demo/psgc-js-sample.gif)
 
 ## Installation
 
@@ -288,3 +289,7 @@ You can all also get the region code by taking the first two digits of the code.
 <td>MIMAROPA</td>
 </tr>
 </table>
+
+## Reference
+
+- [PSGC Publication](https://psa.gov.ph/classification/psgc/)

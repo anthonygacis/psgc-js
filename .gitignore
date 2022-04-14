@@ -107,3 +107,4 @@ dist
 *.xlsx
 
 experiment.js
+demo-experiment/
