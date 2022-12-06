@@ -22,4 +22,4 @@ jobs:
           disable-autolabeler: false
           commitish: main
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTION_AUTH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
