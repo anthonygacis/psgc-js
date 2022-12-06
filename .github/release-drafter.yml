@@ -9,17 +9,17 @@ template: |
 
 categories:
   - title: '💥 Breaking'
-    label: 'breaking'
+    labels: ['breaking']
   - title: '🚀 New'
-    label: 'feature'
+    labels: ['feature']
   - title: '🐛 Bug Fixes'
-    label: 'bug'
+    labels: ['bug']
   - title: '🧰 Maintenance'
-    label: 'maintenance'
+    labels: ['maintenance']
   - title: '📄 Chore'
-    label: 'chore'
+    labels: ['chore']
   - title: '🤖 Dependency Updates'
-    label: 'dependencies'
+    labels: ['dependencies']
 
 
 version-resolver:
