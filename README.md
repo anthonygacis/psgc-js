@@ -4,8 +4,7 @@ A collection of philippine geographic data based on PSGC
 
 ## Latest Update
 
-- As of **4Q 2021** publication
-- Added psgc 10-digit code
+- As of **3Q 2022** publication
 
 ## Features
 
