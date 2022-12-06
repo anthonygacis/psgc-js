@@ -8,6 +8,8 @@ A collection of philippine geographic data based on PSGC
 
 ## Features
 
+- New PSGC 10-digit code
+
 - Collection of geographic data
   - Barangay
   - City
