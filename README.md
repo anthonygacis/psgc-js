@@ -293,4 +293,4 @@ You can all also get the region code by taking the first two digits of the code.
 
 ## Reference
 
-- [PSGC Publication](https://psa.gov.ph/classification/psgc/)
+- [PSA-PSGC Publications](https://psa.gov.ph/classification/psgc/)
