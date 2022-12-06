@@ -21,24 +21,6 @@ categories:
   - title: '🤖 Dependency Updates'
     label: 'dependencies'
 
-autolabeler:
-  - label: 'chore'
-    files:
-      - '*.md'
-    branch:
-      - '/docs\/.+/'
-      - '/chore\/.+/'
-  - label: 'bug'
-    branch:
-      - '/fix\/.+/'
-    title:
-      - '/fix/i'
-  - label: 'feature'
-    branch:
-      - '/feature\/.+/'
-  - label: 'breaking'
-    branch:
-      - '/breaking\/.+/'
 
 version-resolver:
   major:
