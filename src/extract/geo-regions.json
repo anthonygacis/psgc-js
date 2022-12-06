@@ -1,137 +1,153 @@
 {
-    "10": {
-        "psgc_10_digit": "1000000000",
+    "100": {
+        "code": "1000000000",
         "name": "Region X (Northern Mindanao)",
-        "code": 100000000,
+        "correspondence_code": 100000000,
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 4689302,
         "population_2020": 5022768
     },
-    "11": {
-        "psgc_10_digit": "1100000000",
+    "110": {
+        "code": "1100000000",
         "name": "Region XI (Davao Region)",
-        "code": 110000000,
+        "correspondence_code": 110000000,
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 4893318,
         "population_2020": 5243536
     },
-    "12": {
-        "psgc_10_digit": "1200000000",
+    "120": {
+        "code": "1200000000",
         "name": "Region XII (SOCCSKSARGEN)",
-        "code": 120000000,
+        "correspondence_code": 120000000,
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 4545276,
         "population_2020": 4901486
     },
-    "13": {
-        "psgc_10_digit": "1300000000",
+    "130": {
+        "code": "1300000000",
         "name": "National Capital Region (NCR)",
-        "code": 130000000,
+        "correspondence_code": 130000000,
         "geographic_level": "Reg",
         "population_2015": 12877253,
         "population_2020": 13484462
     },
-    "14": {
-        "psgc_10_digit": "1400000000",
+    "140": {
+        "code": "1400000000",
         "name": "Cordillera Administrative Region (CAR)",
-        "code": 140000000,
+        "correspondence_code": 140000000,
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 1722006,
         "population_2020": 1797660
     },
-    "15": {
-        "psgc_10_digit": "1900000000",
-        "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
-        "code": 150000000,
-        "geographic_level": "Reg",
-        "population_2015": 3781387,
-        "population_2020": 4404288
-    },
-    "16": {
-        "psgc_10_digit": "1600000000",
+    "160": {
+        "code": "1600000000",
         "name": "Region XIII (Caraga)",
-        "code": 160000000,
+        "correspondence_code": 160000000,
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 2596709,
         "population_2020": 2804788
     },
-    "17": {
-        "psgc_10_digit": "1700000000",
+    "170": {
+        "code": "1700000000",
         "name": "MIMAROPA Region",
-        "code": 170000000,
+        "correspondence_code": 170000000,
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 2963360,
         "population_2020": 3228558
     },
-    "01": {
-        "psgc_10_digit": "0100000000",
-        "name": "Region I (Ilocos Region)",
-        "code": "010000000",
+    "190": {
+        "code": "1900000000",
+        "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+        "correspondence_code": 150000000,
         "geographic_level": "Reg",
+        "urban_rural": "",
+        "population_2015": 3781387,
+        "population_2020": 4404288
+    },
+    "010": {
+        "code": "0100000000",
+        "name": "Region I (Ilocos Region)",
+        "correspondence_code": "010000000",
+        "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 5026128,
         "population_2020": 5301139
     },
-    "02": {
-        "psgc_10_digit": "0200000000",
+    "020": {
+        "code": "0200000000",
         "name": "Region II (Cagayan Valley)",
-        "code": "020000000",
+        "correspondence_code": "020000000",
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 3451410,
         "population_2020": 3685744
     },
-    "03": {
-        "psgc_10_digit": "0300000000",
+    "030": {
+        "code": "0300000000",
         "name": "Region III (Central Luzon)",
-        "code": "030000000",
+        "correspondence_code": "030000000",
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 11218177,
         "population_2020": 12422172
     },
-    "04": {
-        "psgc_10_digit": "0400000000",
+    "040": {
+        "code": "0400000000",
         "name": "Region IV-A (CALABARZON)",
-        "code": "040000000",
+        "correspondence_code": "040000000",
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 14414774,
         "population_2020": 16195042
     },
-    "05": {
-        "psgc_10_digit": "0500000000",
+    "050": {
+        "code": "0500000000",
         "name": "Region V (Bicol Region)",
-        "code": "050000000",
+        "correspondence_code": "050000000",
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 5796989,
         "population_2020": 6082165
     },
-    "06": {
-        "psgc_10_digit": "0600000000",
+    "060": {
+        "code": "0600000000",
         "name": "Region VI (Western Visayas)",
-        "code": "060000000",
+        "correspondence_code": "060000000",
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 7536383,
         "population_2020": 7954723
     },
-    "07": {
-        "psgc_10_digit": "0700000000",
+    "070": {
+        "code": "0700000000",
         "name": "Region VII (Central Visayas)",
-        "code": "070000000",
+        "correspondence_code": "070000000",
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 7396898,
         "population_2020": 8081988
     },
-    "08": {
-        "psgc_10_digit": "0800000000",
+    "080": {
+        "code": "0800000000",
         "name": "Region VIII (Eastern Visayas)",
-        "code": "080000000",
+        "correspondence_code": "080000000",
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 4440150,
         "population_2020": 4547150
     },
-    "09": {
-        "psgc_10_digit": "0900000000",
+    "090": {
+        "code": "0900000000",
         "name": "Region IX (Zamboanga Peninsula)",
-        "code": "090000000",
+        "correspondence_code": "090000000",
         "geographic_level": "Reg",
+        "urban_rural": "",
         "population_2015": 3629783,
         "population_2020": 3875576
     }

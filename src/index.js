@@ -148,10 +148,9 @@ const PSGC = {
 
         // fOutput.sort((a, b) => parseInt(a.code) - parseInt(b.code))
         // return fOutput;
-
-        return geoData.then(data => {
+        return geoData.then((data) => {
             let fOutput = []
-            for (let [index, item] of Object.entries(data)) {
+            for (let [index, item] of Object.entries(data.default)) {
                 if (item.geographic_level) {
                     fOutput.push(item)
                 }
@@ -174,11 +173,11 @@ const PSGC = {
             return data.then(content => {
                 let code = filters.search.code
                 let type = filters.search.type
-                let provCode = code.substring(0, 4)
-                let munCode = code.substring(0, 6)
+                let provCode = code.substring(0, 5)
+                let munCode = code.substring(0, 7)
                 let res = []
                 if (type == 'City' || type == 'Mun' || type == 'SubMun') {
-                    for (let [index, item] of Object.entries(content)) {
+                    for (let [index, item] of Object.entries(content.default)) {
                         if (item.geographic_level) {
                             if (item.geographic_level == 'City' || item.geographic_level == 'Mun' || item.geographic_level == 'SubMun') {
                                 if (item.code.toString().startsWith(provCode)) {
@@ -189,10 +188,11 @@ const PSGC = {
                     }
                 }
                 else if (type == 'Bgy') {
-                    for (let [index, item] of Object.entries(content)) {
+                    for (let [index, item] of Object.entries(content.default)) {
                         if (item.geographic_level) {
                             if (item.geographic_level == 'Bgy') {
                                 if (item.code.toString().startsWith(munCode)) {
+                                    console.log(item.code)
                                     res.push(item)
                                 }
                             }
@@ -207,7 +207,7 @@ const PSGC = {
             let res = import(`./extract/geo-reg-${parseInt(regionCode)}.json`)
             return res.then(content => {
                 let tempRes = []
-                for (let [key, value] of Object.entries(content)) {
+                for (let [key, value] of Object.entries(content.default)) {
                     if (value.geographic_level == filters.geographic_level) {
                         tempRes.push(value)
                     }

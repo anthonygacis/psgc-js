@@ -4,11 +4,26 @@
   "description": "A collection of philippine geographic data based on PSGC",
   "jsdelivr": "dist/psgc.min.js",
   "unpkg": "dist/psgc.min.js",
-  "main": "src/index.js",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/psgc-js.umd.cjs",
+  "module": "./dist/psgc-js.js",
+  "exports": {
+    ".": {
+      "import": "./dist/psgc-js.js",
+      "require": "./dist/psgc-js.umd.cjs"
+    }
+  },
   "scripts": {
     "extract": "node src/extract/extract.js",
-    "build": "rimraf dist && webpack",
-    "build:action": "webpack"
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "rimraf dist && vite build",
+    "build:action": "vite build",
+    "test": "vitest",
+    "test:run": "vitest run"
   },
   "repository": {
     "type": "git",
@@ -27,7 +42,6 @@
     "url": "https://github.com/anthonygacis/psgc-js/issues"
   },
   "homepage": "https://github.com/anthonygacis/psgc-js#readme",
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.17.5",
     "@babel/plugin-transform-modules-commonjs": "^7.16.8",
@@ -35,6 +49,8 @@
     "babel-loader": "^8.2.3",
     "jest": "^27.3.1",
     "lodash": "^4.17.21",
+    "vite": "^3.2.3",
+    "vitest": "^0.25.4",
     "webpack": "^5.69.1",
     "webpack-cli": "^4.9.2",
     "xlsx": "^0.17.3"
