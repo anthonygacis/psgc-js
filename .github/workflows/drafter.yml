@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: release-drafter/release-drafter@master
         with:
-          disable-autolabeler: false
+          disable-autolabeler: true
           commitish: main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
