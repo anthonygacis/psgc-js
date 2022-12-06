@@ -4,7 +4,9 @@ tag-template: 'v$RESOLVED_VERSION'
 
 template: |
   # What's Changed
+  
   $CHANGES
+
 categories:
   - title: '💥 Breaking'
     label: 'breaking'
