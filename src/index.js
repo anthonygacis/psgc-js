@@ -38,6 +38,7 @@ const onChangeElement = (elem) => {
                     }
                     // populate for province/district
                     PSGC.get(regCode, { geographic_level: 'Prov' }).then(outData => {
+                        console.log(outData)
                         if (outData.length == 0) {
                             PSGC.get(regCode, { geographic_level: 'Dist' }).then(inData => populateOptions(inData))
                         } else {
@@ -199,6 +200,15 @@ const PSGC = {
                         }
                     }
                 }
+
+                res.sort((a, b) => {
+                    let comp = 0;
+                    let nameA = a.name.toLowerCase();
+                    let nameB = b.name.toLowerCase();
+                    if (nameA > nameB) comp = 1;
+                    else if (nameA < nameB) comp = -1;
+                    return comp;
+                })
 
                 return Promise.resolve(res)
             })
