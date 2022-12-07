@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
 ---
-import PSGC from "../../src/index.js"
+import PSGC from "../../src/index.js";
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import { useEffect } from 'react'
 
 # Introduction
 
@@ -10,13 +12,15 @@ A collection of philippine geographic data based on PSGC
 ## Demo
 
 export const HtmlSample = () => {
-  PSGC.init({
-      bind: {
-          region: "#regions",
-          province: "#provinces",
-          municipality: "#municipality",
-          barangay: "#barangay",
-      }
+  useEffect(() => {
+    PSGC.init({
+        bind: {
+            region: "#regions",
+            province: "#provinces",
+            municipality: "#municipality",
+            barangay: "#barangay",
+        }
+    })
   })
   return (
     <div className="mb-3">
