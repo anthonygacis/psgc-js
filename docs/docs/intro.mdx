@@ -1,0 +1,76 @@
+---
+sidebar_position: 1
+---
+import PSGC from "../../src/index.js";
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import { useEffect } from 'react'
+
+# Introduction
+
+A collection of philippine geographic data based on PSGC
+
+## Demo
+
+export const HtmlSample = () => {
+  useEffect(() => {
+    PSGC.init({
+        bind: {
+            region: "#regions",
+            province: "#provinces",
+            municipality: "#municipality",
+            barangay: "#barangay",
+        }
+    })
+  })
+  return (
+    <div className="mb-3">
+      <select className="demo-select" id="regions"></select>
+      <select className="demo-select" id="provinces"></select>
+      <select className="demo-select" id="municipality"></select>
+      <select className="demo-select" id="barangay"></select>
+    </div>
+  )
+}
+
+<HtmlSample/>
+
+
+```html
+<!-- HTML Markup -->
+<select id="regions"></select>
+<select id="provinces"></select>
+<select id="municipality"></select>
+<select id="barangay"></select>
+```
+
+```js
+PSGC.init({
+    bind: {
+        region: "#regions",
+        province: "#provinces",
+        municipality: "#municipality",
+        barangay: "#barangay",
+    }
+})
+```
+
+## Latest Update
+
+As of **3Q 2022** publication
+
+## Features
+
+- New PSGC 10-digit code
+- Collection of geographic data
+  - Barangay
+  - City
+  - District
+  - Municipality
+  - Sub Municipality
+  - Province
+  - Region
+- Other information such as:
+  - Old names (if available)
+  - Income Classification
+  - Urban / Rural (based on 2015 population)
+  - Population (2020)
