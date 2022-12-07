@@ -2,35 +2,41 @@ const { mapKeys } = require('lodash');
 const xlsx = require('xlsx');
 const fs = require('fs');
 
-const wb = xlsx.readFile('./PSGC-4Q-2021.xlsx');
+const wb = xlsx.readFile('./src/data/PSGC-3Q-2022.xlsx');
 const ws = wb.Sheets['PSGC'];
 const data = xlsx.utils.sheet_to_json(ws).map(row => mapKeys(row, (value, key) => {
     return key.toLowerCase().replace(/ /g, '_');
 }));
 let regions = {}
 let sgus = {}
-for (let index = 1; index <= 17; index++) {
+for (let index = 1; index <= 19; index++) {
     let fData = {}
     let regData = data.filter((item) => {
         // only those entries with correspondence code
         if (item.code) {
             let numCode = parseInt(item.code)
-            let regCode = index * 10000000
-            if (numCode >= regCode && numCode < (regCode + 10000000)) {
+            let regCode = index * 100000000
+            if (numCode >= regCode && numCode < (regCode + 100000000)) {
                 if (item.geographic_level) {
                     let code = item.code.toString()
                     let tempCode = ''
                     if (item.geographic_level == 'Reg') {
-                        tempCode = code.substring(0, 2)
+                        tempCode = code.substring(0, 3)
                         regions[tempCode] = {
                             ...item
                         }
                     }
+                    if (item.geographic_level == 'SGU') {
+                        tempCode = item.code.toString()
+                        sgus[tempCode] = {
+                            ...item
+                        }
+                    }
                     if (item.geographic_level == 'Prov' || item.geographic_level == 'Dist') {
-                        tempCode = code.substring(0, 4)
+                        tempCode = code.substring(0, 5)
                     }
                     if (item.geographic_level == 'Mun' || item.geographic_level == 'City' || item.geographic_level == 'SubMun') {
-                        tempCode = code.substring(0, 6)
+                        tempCode = code.substring(0, 7)
                     }
                     if (item.geographic_level == 'Bgy') {
                         tempCode = code
@@ -43,14 +49,8 @@ for (let index = 1; index <= 17; index++) {
                 }
                 return item
             }
-        } else {
-            if (item.geographic_level == 'SGU') {
-                tempCode = item.psgc_10_digit.toString()
-                sgus[tempCode] = {
-                    ...item
-                }
-            }
         }
+
         return false
     })
     fs.writeFileSync('./src/extract/geo-reg-' + index + '.json', JSON.stringify(fData, null, 4));

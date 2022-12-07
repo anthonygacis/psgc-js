@@ -4,10 +4,11 @@ A collection of philippine geographic data based on PSGC
 
 ## Latest Update
 
-- As of **4Q 2021** publication
-- Added psgc 10-digit code
+- As of **3Q 2022** publication
 
 ## Features
+
+- New PSGC 10-digit code
 
 - Collection of geographic data
   - Barangay
@@ -292,4 +293,4 @@ You can all also get the region code by taking the first two digits of the code.
 
 ## Reference
 
-- [PSGC Publication](https://psa.gov.ph/classification/psgc/)
+- [PSA-PSGC Publications](https://psa.gov.ph/classification/psgc/)

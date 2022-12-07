@@ -1,6 +1,6 @@
 const path = require("path")
 const pjson = require('./package.json');
-
+// TODO remove this config if done migrating to vite
 module.exports = {
     entry: path.resolve(__dirname, "src/index.js"),
     output: {

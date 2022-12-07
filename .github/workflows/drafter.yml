@@ -6,13 +6,20 @@ on:
       - main
   pull_request:
     types: [opened, reopened, synchronize]
+    
+permissions:
+  contents: read
 
 jobs:
   update_release_draft:
+    permissions:
+      contents: write
+      pull-requests: write
     runs-on: ubuntu-latest
     steps:
-      - uses: release-drafter/release-drafter@v5
+      - uses: release-drafter/release-drafter@master
         with:
-          disable-autolabeler: false
+          disable-autolabeler: true
+          commitish: main
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTION_AUTH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
