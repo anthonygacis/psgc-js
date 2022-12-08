@@ -4,10 +4,17 @@ sidebar_position: 1
 import PSGC from "../../src/index.js";
 import BrowserOnly from '@docusaurus/BrowserOnly';
 import { useEffect } from 'react'
+import pkg from '../../package.json'
 
 # Introduction
 
+export const LatestVersion = () => {
+  return <b>Version: {pkg.version}</b>
+}
+
 A collection of philippine geographic data based on PSGC
+
+<LatestVersion />
 
 ## Demo
 
