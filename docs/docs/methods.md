@@ -19,13 +19,13 @@ Output:
 
 ```json
 [
-{
-    code: 100000000,
-    name: 'Region X (Northern Mindanao)',
-    geographic_level: 'Reg',
-    population_2015: 4689302,
-    population_2020: 5022768
-},
+    {
+        code: 100000000,
+        name: 'Region X (Northern Mindanao)',
+        geographic_level: 'Reg',
+        population_2015: 4689302,
+        population_2020: 5022768
+    },
     {
         code: 110000000,
         name: 'Region XI (Davao Region)',
@@ -48,7 +48,7 @@ Region code (refer to <a href="#region-code-reference">Region Code Reference</a>
 ```json
 // A filter object
 {
-    // available values: <i>Prov, Dist, Mun, SubMun and Bgy</i>
+    // available values: Prov, Dist, Mun, SubMun and Bgy
     geographic_level: "value"
     search: {
         code: "geo code",
