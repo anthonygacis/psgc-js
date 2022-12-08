@@ -22,4 +22,44 @@ describe("psgc-js", () => {
             ])
         );
     });
+
+    test('ncr should contain cities', async () => {
+        let data = await PSGC.get("13", {
+            geographic_level: "Dist"
+        })
+        expect(data.length).toBeGreaterThan(0)
+    });
+
+    test('ncr should contain first district', async () => {
+        let data = await PSGC.get("13", {
+            geographic_level: "Dist"
+        })
+        expect(data).toEqual(
+            expect.arrayContaining([
+                expect.objectContaining({
+                    correspondence_code: 133900000,
+                    name: 'NCR, City of Manila, First District (Not a Province)',
+                    geographic_level: 'Dist'
+                })
+            ])
+        );
+    });
+
+    test('ncr first district should contain city of manila', async () => {
+        let data = await PSGC.get("13", {
+            search: {
+                code: '13390',
+                type: 'Mun'
+            }
+        })
+        expect(data).toEqual(
+            expect.arrayContaining([
+                expect.objectContaining({
+                    correspondence_code: 133900000,
+                    name: 'City of Manila',
+                    geographic_level: 'City'
+                })
+            ])
+        );
+    });
 })
