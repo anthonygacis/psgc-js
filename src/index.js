@@ -26,8 +26,9 @@ const onChangeElement = (elem) => {
                 if (regCode) {
                     const populateOptions = (filteredData) => {
                         filteredData.forEach(function (prov) {
-                            let isDefault = _objProvinces[0].dataset?.defaultValue == prov.code
-                            let key = _addNameToKey ? prov.code + ':' + prov.name.replace(/\s/g, '-').toLowerCase() : prov.code
+                            let tempCode = prov.code ? prov.code : prov.correspondence_code
+                            let isDefault = _objProvinces[0].dataset?.defaultValue == tempCode
+                            let key = _addNameToKey ? tempCode + ':' + prov.name.replace(/\s/g, '-').toLowerCase() : tempCode
                             _objProvinces[0].add(new Option(prov.name, key, isDefault, isDefault))
                             if (isDefault) {
                                 onChangeElement(_objProvinces[0])
@@ -38,7 +39,6 @@ const onChangeElement = (elem) => {
                     }
                     // populate for province/district
                     PSGC.get(regCode, { geographic_level: 'Prov' }).then(outData => {
-                        console.log(outData)
                         if (outData.length == 0) {
                             PSGC.get(regCode, { geographic_level: 'Dist' }).then(inData => populateOptions(inData))
                         } else {
@@ -99,6 +99,15 @@ const onChangeElement = (elem) => {
             }
         }
     }
+}
+
+const sort = (a, b) => {
+    let comp = 0;
+    let nameA = a.name.toLowerCase();
+    let nameB = b.name.toLowerCase();
+    if (nameA > nameB) comp = 1;
+    else if (nameA < nameB) comp = -1;
+    return comp;
 }
 
 const PSGC = {
@@ -181,7 +190,7 @@ const PSGC = {
                     for (let [index, item] of Object.entries(content.default)) {
                         if (item.geographic_level) {
                             if (item.geographic_level == 'City' || item.geographic_level == 'Mun' || item.geographic_level == 'SubMun') {
-                                if (item.code.toString().startsWith(provCode)) {
+                                if (item.code.toString().startsWith(provCode) || item.correspondence_code.toString().startsWith(provCode)) {
                                     res.push(item)
                                 }
                             }
@@ -193,7 +202,6 @@ const PSGC = {
                         if (item.geographic_level) {
                             if (item.geographic_level == 'Bgy') {
                                 if (item.code.toString().startsWith(munCode)) {
-                                    console.log(item.code)
                                     res.push(item)
                                 }
                             }
@@ -201,14 +209,7 @@ const PSGC = {
                     }
                 }
 
-                res.sort((a, b) => {
-                    let comp = 0;
-                    let nameA = a.name.toLowerCase();
-                    let nameB = b.name.toLowerCase();
-                    if (nameA > nameB) comp = 1;
-                    else if (nameA < nameB) comp = -1;
-                    return comp;
-                })
+                res.sort(sort)
 
                 return Promise.resolve(res)
             })
@@ -222,6 +223,9 @@ const PSGC = {
                         tempRes.push(value)
                     }
                 }
+
+                tempRes.sort(sort)
+
                 return Promise.resolve(tempRes)
             })
         }

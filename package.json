@@ -17,7 +17,7 @@
     }
   },
   "scripts": {
-    "extract": "node src/extract/extract.js",
+    "extract": "node src/extract/extract.cjs",
     "dev": "vite",
     "preview": "vite preview",
     "build": "rimraf dist && vite build",

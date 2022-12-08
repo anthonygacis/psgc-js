@@ -13,12 +13,14 @@ for (let index = 1; index <= 19; index++) {
     let fData = {}
     let regData = data.filter((item) => {
         // only those entries with correspondence code
-        if (item.code) {
-            let numCode = parseInt(item.code)
-            let regCode = index * 100000000
-            if (numCode >= regCode && numCode < (regCode + 100000000)) {
+        if (item.code || item.correspondence_code) {
+            let numCode = index != '13' ? parseInt(item.code) : parseInt(item.correspondence_code)
+            let multiplier = 100000000
+            if (index == 13) multiplier = 10000000
+            let regCode = index * multiplier
+            if (numCode >= regCode && numCode < (regCode + multiplier)) {
                 if (item.geographic_level) {
-                    let code = item.code.toString()
+                    let code = index != 13 ? item.code.toString() : item.correspondence_code.toString()
                     let tempCode = ''
                     if (item.geographic_level == 'Reg') {
                         tempCode = code.substring(0, 3)
