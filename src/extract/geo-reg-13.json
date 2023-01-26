@@ -42,7 +42,7 @@
         "correspondence_code": 133900000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "Special",
+        "income\r\nclassification": "Special",
         "population_2015": 1780148,
         "population_2020": 1846513
     },
@@ -164,7 +164,7 @@
         "correspondence_code": 137401000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 386276,
         "population_2020": 425758
     },
@@ -174,7 +174,7 @@
         "correspondence_code": 137402000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 450741,
         "population_2020": 456059
     },
@@ -184,7 +184,7 @@
         "correspondence_code": 137403000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 755300,
         "population_2020": 803159
     },
@@ -194,7 +194,7 @@
         "correspondence_code": 137404000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "Special",
+        "income\r\nclassification": "Special",
         "population_2015": 2936116,
         "population_2020": 2960048
     },
@@ -204,7 +204,7 @@
         "correspondence_code": 137405000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 122180,
         "population_2020": 126347
     },
@@ -214,7 +214,7 @@
         "correspondence_code": 137501000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 1583978,
         "population_2020": 1661584
     },
@@ -224,7 +224,7 @@
         "correspondence_code": 137502000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 365525,
         "population_2020": 380522
     },
@@ -234,7 +234,7 @@
         "correspondence_code": 137503000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "population_2015": 249463,
         "population_2020": 247543
     },
@@ -244,7 +244,7 @@
         "correspondence_code": 137504000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 620422,
         "population_2020": 714978
     },
@@ -254,7 +254,7 @@
         "correspondence_code": 137601000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 588894,
         "population_2020": 606293
     },
@@ -264,7 +264,7 @@
         "correspondence_code": 137602000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 582602,
         "population_2020": 629616
     },
@@ -274,7 +274,7 @@
         "correspondence_code": 137603000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 504509,
         "population_2020": 543445
     },
@@ -284,7 +284,7 @@
         "correspondence_code": 137604000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 665822,
         "population_2020": 689992
     },
@@ -294,7 +294,7 @@
         "correspondence_code": 137605000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 416522,
         "population_2020": 440656
     },
@@ -303,7 +303,7 @@
         "name": "Pateros",
         "correspondence_code": 137606000,
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 63840,
         "population_2020": 65227
     },
@@ -313,7 +313,7 @@
         "correspondence_code": 137607000,
         "geographic_level": "City",
         "city_class": "HUC",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "population_2015": 804915,
         "population_2020": 886722
     },

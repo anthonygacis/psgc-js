@@ -14,7 +14,7 @@ const clearOptions = (...obj) => {
         })
     }
 }
-
+ 
 const onChangeElement = (elem) => {
     if (elem) {
         const regCode = elem.value.substring(0, 2)
@@ -38,9 +38,9 @@ const onChangeElement = (elem) => {
                         _objProvinces[0].addEventListener('change', (e) => onChangeElement(e.target))
                     }
                     // populate for province/district
-                    PSGC.get(regCode, { geographic_level: 'Prov' }).then(outData => {
+                    PSGC.get(regCode, {geographic_level: 'Prov'}).then(outData => {
                         if (outData.length == 0) {
-                            PSGC.get(regCode, { geographic_level: 'Dist' }).then(inData => populateOptions(inData))
+                            PSGC.get(regCode, {geographic_level: 'Dist'}).then(inData => populateOptions(inData))
                         } else {
                             populateOptions(outData)
                         }
@@ -112,7 +112,7 @@ const sort = (a, b) => {
 
 const PSGC = {
     /**
-     * 
+     *
      * @param {object} options Required. Options for initializing psgc
      */
     init: (options) => {
@@ -172,9 +172,9 @@ const PSGC = {
     },
 
     /**
-     * 
-     * @param {string} region region code
-     * @param {string} filters filter options
+     *
+     * @param regionCode
+     * @param {{geographic_level: string}} filters filter options
      */
     get: (regionCode, filters) => {
         if (filters && filters.search) {
@@ -196,8 +196,7 @@ const PSGC = {
                             }
                         }
                     }
-                }
-                else if (type == 'Bgy') {
+                } else if (type == 'Bgy') {
                     for (let [index, item] of Object.entries(content.default)) {
                         if (item.geographic_level) {
                             if (item.geographic_level == 'Bgy') {

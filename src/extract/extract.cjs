@@ -1,8 +1,8 @@
-const { mapKeys } = require('lodash');
+const {mapKeys} = require('lodash');
 const xlsx = require('xlsx');
 const fs = require('fs');
 
-const wb = xlsx.readFile('./src/data/PSGC-3Q-2022.xlsx');
+const wb = xlsx.readFile('./src/data/PSGC-4Q-2022.xlsx');
 const ws = wb.Sheets['PSGC'];
 const data = xlsx.utils.sheet_to_json(ws).map(row => mapKeys(row, (value, key) => {
     return key.toLowerCase().replace(/ /g, '_');
