@@ -13,7 +13,7 @@
         "name": "Albay",
         "correspondence_code": "050500000",
         "geographic_level": "Prov",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 1314826,
         "population_2020": 1374768
@@ -23,7 +23,7 @@
         "name": "Bacacay",
         "correspondence_code": "050501000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 68906,
         "population_2020": 72485
@@ -558,7 +558,7 @@
         "name": "Camalig",
         "correspondence_code": "050502000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 66904,
         "population_2020": 72042
@@ -1026,7 +1026,7 @@
         "correspondence_code": "050503000",
         "geographic_level": "Mun",
         "old_names": "Locsin",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 126595,
         "population_2020": 133893
@@ -1524,7 +1524,7 @@
         "name": "Guinobatan",
         "correspondence_code": "050504000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 82361,
         "population_2020": 85786
@@ -1933,7 +1933,7 @@
         "name": "Jovellar",
         "correspondence_code": "050505000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 17308,
         "population_2020": 17795
@@ -2160,7 +2160,7 @@
         "correspondence_code": "050506000",
         "geographic_level": "City",
         "city_class": "CC",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 196639,
         "population_2020": 209533,
@@ -2864,7 +2864,7 @@
         "name": "Libon",
         "correspondence_code": "050507000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 75172,
         "population_2020": 75073
@@ -3306,7 +3306,7 @@
         "correspondence_code": "050508000",
         "geographic_level": "City",
         "city_class": "CC",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 111399,
         "population_2020": 118096
@@ -3814,7 +3814,7 @@
         "name": "Malilipot",
         "correspondence_code": "050509000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 37785,
         "population_2020": 40857
@@ -3992,7 +3992,7 @@
         "name": "Malinao",
         "correspondence_code": "050510000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 45301,
         "population_2020": 47395
@@ -4263,7 +4263,7 @@
         "name": "Manito",
         "correspondence_code": "050511000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 24707,
         "population_2020": 26162
@@ -4409,7 +4409,7 @@
         "name": "Oas",
         "correspondence_code": "050512000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 67960,
         "population_2020": 66084
@@ -4898,7 +4898,7 @@
         "name": "Pio Duran",
         "correspondence_code": "050513000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 46693,
         "population_2020": 49070
@@ -5211,7 +5211,7 @@
         "name": "Polangui",
         "correspondence_code": "050514000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 88221,
         "population_2020": 89176
@@ -5620,7 +5620,7 @@
         "name": "Rapu-Rapu",
         "correspondence_code": "050515000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 36920,
         "population_2020": 36151
@@ -5937,7 +5937,7 @@
         "correspondence_code": "050516000",
         "geographic_level": "Mun",
         "old_names": "Libog",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 34967,
         "population_2020": 37765
@@ -6165,7 +6165,7 @@
         "correspondence_code": "050517000",
         "geographic_level": "City",
         "city_class": "CC",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 133868,
         "population_2020": 140961
@@ -6611,7 +6611,7 @@
         "name": "Tiwi",
         "correspondence_code": "050518000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 53120,
         "population_2020": 56444
@@ -6848,7 +6848,7 @@
         "name": "Camarines Norte",
         "correspondence_code": "051600000",
         "geographic_level": "Prov",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 583313,
         "population_2020": 629699
@@ -6858,7 +6858,7 @@
         "name": "Basud",
         "correspondence_code": "051601000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 41017,
         "population_2020": 45133
@@ -7129,7 +7129,7 @@
         "name": "Capalonga",
         "correspondence_code": "051602000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 32215,
         "population_2020": 36223
@@ -7337,7 +7337,7 @@
         "name": "Daet ",
         "correspondence_code": "051603000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 104799,
         "population_2020": 111700,
@@ -7584,7 +7584,7 @@
         "correspondence_code": "051604000",
         "geographic_level": "Mun",
         "old_names": "Imelda",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 14063,
         "population_2020": 15757
@@ -7703,7 +7703,7 @@
         "name": "Jose Panganiban",
         "correspondence_code": "051605000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 59639,
         "population_2020": 63662
@@ -7956,7 +7956,7 @@
         "name": "Labo",
         "correspondence_code": "051606000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 101082,
         "population_2020": 109245
@@ -8440,7 +8440,7 @@
         "name": "Mercedes",
         "correspondence_code": "051607000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 50841,
         "population_2020": 55334
@@ -8692,7 +8692,7 @@
         "name": "Paracale",
         "correspondence_code": "051608000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 59149,
         "population_2020": 60198
@@ -8945,7 +8945,7 @@
         "name": "San Vicente",
         "correspondence_code": "051609000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 10396,
         "population_2020": 12579
@@ -9039,7 +9039,7 @@
         "name": "Santa Elena",
         "correspondence_code": "051610000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 40786,
         "population_2020": 43582
@@ -9221,7 +9221,7 @@
         "name": "Talisay",
         "correspondence_code": "051611000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 25841,
         "population_2020": 27244
@@ -9366,7 +9366,7 @@
         "name": "Vinzons",
         "correspondence_code": "051612000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 43485,
         "population_2020": 49042
@@ -9550,7 +9550,7 @@
         "name": "Camarines Sur",
         "correspondence_code": "051700000",
         "geographic_level": "Prov",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 1952544,
         "population_2020": 2068244
@@ -9560,7 +9560,7 @@
         "name": "Baao",
         "correspondence_code": "051701000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 58849,
         "population_2020": 61493
@@ -9853,7 +9853,7 @@
         "name": "Balatan",
         "correspondence_code": "051702000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 30922,
         "population_2020": 30669
@@ -10019,7 +10019,7 @@
         "name": "Bato",
         "correspondence_code": "051703000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 52137,
         "population_2020": 52155
@@ -10334,7 +10334,7 @@
         "name": "Bombon",
         "correspondence_code": "051704000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 16512,
         "population_2020": 17995
@@ -10420,7 +10420,7 @@
         "name": "Buhi",
         "correspondence_code": "051705000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 77143,
         "population_2020": 81306
@@ -10785,7 +10785,7 @@
         "name": "Bula",
         "correspondence_code": "051706000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 69430,
         "population_2020": 73143
@@ -11095,7 +11095,7 @@
         "name": "Cabusao",
         "correspondence_code": "051707000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 18397,
         "population_2020": 19257
@@ -11187,7 +11187,7 @@
         "name": "Calabanga",
         "correspondence_code": "051708000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 83033,
         "population_2020": 88906
@@ -11639,7 +11639,7 @@
         "name": "Camaligan",
         "correspondence_code": "051709000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 24109,
         "population_2020": 25036
@@ -11773,7 +11773,7 @@
         "name": "Canaman",
         "correspondence_code": "051710000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 34210,
         "population_2020": 36205
@@ -12004,7 +12004,7 @@
         "name": "Caramoan",
         "correspondence_code": "051711000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 47605,
         "population_2020": 51728
@@ -12459,7 +12459,7 @@
         "name": "Del Gallego",
         "correspondence_code": "051712000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 25397,
         "population_2020": 26403
@@ -12759,7 +12759,7 @@
         "name": "Gainza",
         "correspondence_code": "051713000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 11262,
         "population_2020": 11584
@@ -12843,7 +12843,7 @@
         "name": "Garchitorena",
         "correspondence_code": "051714000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 27010,
         "population_2020": 29436
@@ -13065,7 +13065,7 @@
         "name": "Goa",
         "correspondence_code": "051715000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 63308,
         "population_2020": 71368
@@ -13396,7 +13396,7 @@
         "correspondence_code": "051716000",
         "geographic_level": "City",
         "city_class": "CC",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 111757,
         "population_2020": 114457
@@ -13733,7 +13733,7 @@
         "name": "Lagonoy",
         "correspondence_code": "051717000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 55465,
         "population_2020": 56714
@@ -14093,7 +14093,7 @@
         "name": "Libmanan",
         "correspondence_code": "051718000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 108716,
         "population_2020": 112994
@@ -14779,7 +14779,7 @@
         "name": "Lupi",
         "correspondence_code": "051719000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 32167,
         "population_2020": 33897
@@ -15134,7 +15134,7 @@
         "name": "Magarao",
         "correspondence_code": "051720000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 25694,
         "population_2020": 26742
@@ -15287,7 +15287,7 @@
         "name": "Milaor",
         "correspondence_code": "051721000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 31150,
         "population_2020": 33963
@@ -15484,7 +15484,7 @@
         "name": "Minalabac",
         "correspondence_code": "051722000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 52390,
         "population_2020": 53981
@@ -15724,7 +15724,7 @@
         "name": "Nabua",
         "correspondence_code": "051723000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 83874,
         "population_2020": 86490
@@ -16131,7 +16131,7 @@
         "correspondence_code": "051724000",
         "geographic_level": "City",
         "city_class": "ICC",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 196003,
         "population_2020": 209170
@@ -16385,7 +16385,7 @@
         "name": "Ocampo",
         "correspondence_code": "051725000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 45934,
         "population_2020": 51073
@@ -16620,7 +16620,7 @@
         "name": "Pamplona",
         "correspondence_code": "051726000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 36390,
         "population_2020": 39333
@@ -16784,7 +16784,7 @@
         "name": "Pasacao",
         "correspondence_code": "051727000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 49035,
         "population_2020": 53461
@@ -16969,7 +16969,7 @@
         "name": "Pili ",
         "correspondence_code": "051728000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 89545,
         "population_2020": 99196,
@@ -17221,7 +17221,7 @@
         "correspondence_code": "051729000",
         "geographic_level": "Mun",
         "old_names": "Parubcan",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 20996,
         "population_2020": 22591
@@ -17394,7 +17394,7 @@
         "name": "Ragay",
         "correspondence_code": "051730000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 58214,
         "population_2020": 59770
@@ -17748,7 +17748,7 @@
         "name": "Sagñay",
         "correspondence_code": "051731000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 34546,
         "population_2020": 36841
@@ -17933,7 +17933,7 @@
         "name": "San Fernando",
         "correspondence_code": "051732000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 35258,
         "population_2020": 38626
@@ -18145,7 +18145,7 @@
         "name": "San Jose",
         "correspondence_code": "051733000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 40623,
         "population_2020": 43973
@@ -18422,7 +18422,7 @@
         "name": "Sipocot",
         "correspondence_code": "051734000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 64855,
         "population_2020": 68169
@@ -18848,7 +18848,7 @@
         "name": "Siruma",
         "correspondence_code": "051735000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 17764,
         "population_2020": 19419
@@ -19057,7 +19057,7 @@
         "name": "Tigaon",
         "correspondence_code": "051736000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 55272,
         "population_2020": 60524
@@ -19274,7 +19274,7 @@
         "name": "Tinambac",
         "correspondence_code": "051737000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 67572,
         "population_2020": 70176
@@ -19690,7 +19690,7 @@
         "name": "Catanduanes",
         "correspondence_code": "052000000",
         "geographic_level": "Prov",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 260964,
         "population_2020": 271879
@@ -19700,7 +19700,7 @@
         "name": "Bagamanoc",
         "correspondence_code": "052001000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 11551,
         "population_2020": 11086
@@ -19875,7 +19875,7 @@
         "name": "Baras",
         "correspondence_code": "052002000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 12848,
         "population_2020": 13484
@@ -20146,7 +20146,7 @@
         "name": "Bato",
         "correspondence_code": "052003000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 21279,
         "population_2020": 21748
@@ -20400,7 +20400,7 @@
         "name": "Caramoran",
         "correspondence_code": "052004000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 30056,
         "population_2020": 32114
@@ -20657,7 +20657,7 @@
         "name": "Gigmoto",
         "correspondence_code": "052005000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 8368,
         "population_2020": 8712
@@ -20748,7 +20748,7 @@
         "name": "Pandan",
         "correspondence_code": "052006000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 20516,
         "population_2020": 21473
@@ -21003,7 +21003,7 @@
         "correspondence_code": "052007000",
         "geographic_level": "Mun",
         "old_names": "Payo",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 9287,
         "population_2020": 9713
@@ -21232,7 +21232,7 @@
         "correspondence_code": "052008000",
         "geographic_level": "Mun",
         "old_names": "Calolbon",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 36779,
         "population_2020": 38480
@@ -21593,7 +21593,7 @@
         "name": "San Miguel",
         "correspondence_code": "052009000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 15006,
         "population_2020": 15680
@@ -21823,7 +21823,7 @@
         "name": "Viga",
         "correspondence_code": "052010000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 21624,
         "population_2020": 22869
@@ -22120,7 +22120,7 @@
         "name": "Virac ",
         "correspondence_code": "052011000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 73650,
         "population_2020": 76520,
@@ -22712,7 +22712,7 @@
         "name": "Masbate",
         "correspondence_code": "054100000",
         "geographic_level": "Prov",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 892393,
         "population_2020": 908920
@@ -22722,7 +22722,7 @@
         "name": "Aroroy",
         "correspondence_code": "054101000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 86168,
         "population_2020": 88351
@@ -23103,7 +23103,7 @@
         "name": "Baleno",
         "correspondence_code": "054102000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 26096,
         "population_2020": 28855
@@ -23329,7 +23329,7 @@
         "name": "Balud",
         "correspondence_code": "054103000",
         "geographic_level": "Mun",
-        "income_classification": "4th*",
+        "income\r\nclassification": "4th*",
         "urban_rural": "",
         "population_2015": 38124,
         "population_2020": 40155
@@ -23632,7 +23632,7 @@
         "name": "Batuan",
         "correspondence_code": "054104000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 15086,
         "population_2020": 14610
@@ -23768,7 +23768,7 @@
         "name": "Cataingan",
         "correspondence_code": "054105000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 50327,
         "population_2020": 50623
@@ -24102,7 +24102,7 @@
         "name": "Cawayan",
         "correspondence_code": "054106000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 67033,
         "population_2020": 69265
@@ -24446,7 +24446,7 @@
         "name": "Claveria",
         "correspondence_code": "054107000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 43693,
         "population_2020": 42142
@@ -24656,7 +24656,7 @@
         "name": "Dimasalang",
         "correspondence_code": "054108000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 26192,
         "population_2020": 24909
@@ -24848,7 +24848,7 @@
         "name": "Esperanza",
         "correspondence_code": "054109000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 18568,
         "population_2020": 17534
@@ -25038,7 +25038,7 @@
         "name": "Mandaon",
         "correspondence_code": "054110000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 41262,
         "population_2020": 44122
@@ -25283,7 +25283,7 @@
         "correspondence_code": "054111000",
         "geographic_level": "City",
         "city_class": "CC",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 95389,
         "population_2020": 104522,
@@ -25568,7 +25568,7 @@
         "name": "Milagros",
         "correspondence_code": "054112000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 57473,
         "population_2020": 57538
@@ -25824,7 +25824,7 @@
         "name": "Mobo",
         "correspondence_code": "054113000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 38813,
         "population_2020": 40823
@@ -26095,7 +26095,7 @@
         "name": "Monreal",
         "correspondence_code": "054114000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 26614,
         "population_2020": 25164
@@ -26204,7 +26204,7 @@
         "name": "Palanas",
         "correspondence_code": "054115000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 26222,
         "population_2020": 27322
@@ -26432,7 +26432,7 @@
         "correspondence_code": "054116000",
         "geographic_level": "Mun",
         "old_names": "Limbuhan",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 23236,
         "population_2020": 23744
@@ -26604,7 +26604,7 @@
         "name": "Placer",
         "correspondence_code": "054117000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 55826,
         "population_2020": 56340
@@ -26929,7 +26929,7 @@
         "name": "San Fernando",
         "correspondence_code": "054118000",
         "geographic_level": "Mun",
-        "income_classification": "5th*",
+        "income\r\nclassification": "5th*",
         "urban_rural": "",
         "population_2015": 23057,
         "population_2020": 21600
@@ -27177,7 +27177,7 @@
         "name": "San Jacinto",
         "correspondence_code": "054119000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 30372,
         "population_2020": 29686
@@ -27380,7 +27380,7 @@
         "name": "San Pascual",
         "correspondence_code": "054120000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 46674,
         "population_2020": 44449
@@ -27592,7 +27592,7 @@
         "name": "Uson",
         "correspondence_code": "054121000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 56168,
         "population_2020": 57166
@@ -27917,7 +27917,7 @@
         "name": "Sorsogon",
         "correspondence_code": "056200000",
         "geographic_level": "Prov",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 792949,
         "population_2020": 828655
@@ -27927,7 +27927,7 @@
         "name": "Barcelona",
         "correspondence_code": "056202000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 20990,
         "population_2020": 20987
@@ -28162,7 +28162,7 @@
         "name": "Bulan",
         "correspondence_code": "056203000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 100076,
         "population_2020": 105190
@@ -28751,7 +28751,7 @@
         "name": "Bulusan",
         "correspondence_code": "056204000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 22884,
         "population_2020": 23932
@@ -28986,7 +28986,7 @@
         "name": "Casiguran",
         "correspondence_code": "056205000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 32842,
         "population_2020": 35602
@@ -29226,7 +29226,7 @@
         "name": "Castilla",
         "correspondence_code": "056206000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 57827,
         "population_2020": 60635
@@ -29542,7 +29542,7 @@
         "name": "Donsol",
         "correspondence_code": "056207000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 49711,
         "population_2020": 50281
@@ -30017,7 +30017,7 @@
         "name": "Gubat",
         "correspondence_code": "056208000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 59534,
         "population_2020": 60294
@@ -30413,7 +30413,7 @@
         "name": "Irosin",
         "correspondence_code": "056209000",
         "geographic_level": "Mun",
-        "income_classification": "2nd",
+        "income\r\nclassification": "2nd",
         "urban_rural": "",
         "population_2015": 56662,
         "population_2020": 59267
@@ -30680,7 +30680,7 @@
         "name": "Juban",
         "correspondence_code": "056210000",
         "geographic_level": "Mun",
-        "income_classification": "4th",
+        "income\r\nclassification": "4th",
         "urban_rural": "",
         "population_2015": 32320,
         "population_2020": 35297
@@ -30915,7 +30915,7 @@
         "name": "Magallanes",
         "correspondence_code": "056211000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 37038,
         "population_2020": 37411
@@ -31231,7 +31231,7 @@
         "name": "Matnog",
         "correspondence_code": "056212000",
         "geographic_level": "Mun",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 41101,
         "population_2020": 41989
@@ -31606,7 +31606,7 @@
         "name": "Pilar",
         "correspondence_code": "056213000",
         "geographic_level": "Mun",
-        "income_classification": "1st",
+        "income\r\nclassification": "1st",
         "urban_rural": "",
         "population_2015": 74564,
         "population_2020": 75793
@@ -32064,7 +32064,7 @@
         "name": "Prieto Diaz",
         "correspondence_code": "056214000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 22442,
         "population_2020": 22644
@@ -32282,7 +32282,7 @@
         "name": "Santa Magdalena",
         "correspondence_code": "056215000",
         "geographic_level": "Mun",
-        "income_classification": "5th",
+        "income\r\nclassification": "5th",
         "urban_rural": "",
         "population_2015": 16848,
         "population_2020": 17096
@@ -32420,7 +32420,7 @@
         "correspondence_code": "056216000",
         "geographic_level": "City",
         "city_class": "CC",
-        "income_classification": "3rd",
+        "income\r\nclassification": "3rd",
         "urban_rural": "",
         "population_2015": 168110,
         "population_2020": 182237,
