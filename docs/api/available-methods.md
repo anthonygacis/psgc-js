@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Available Methods
 
 ## PSGC.getAllRegions()
@@ -41,7 +37,7 @@ Output:
 
 ### region
 
-Region code (refer to <a href="#region-code-reference">Region Code Reference</a>
+Region code (refer to <a href="/api/code-reference#region-codes">Region Code Reference</a>
 
 ### filters
 

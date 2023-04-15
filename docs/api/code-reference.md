@@ -1,8 +1,6 @@
----
-sidebar_position: 4
----
-
 # Region Code Reference
+
+## Region Codes
 
 You can all also get the region code by taking the first two digits of the code. Example **"050000000"** for Bicol, the Region code will be **"05"**
 

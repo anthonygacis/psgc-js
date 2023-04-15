@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Get Started
 
 Install psgs-js with npm
@@ -59,16 +55,19 @@ If you want to add a default value, then just add `data-default-value` attribute
 
 Then it will select the region matching the default value. You can also apply that to other fields such as province, municipality and barangay.
 
-**Note!** As of now, the default value will follow the hierarchy.
+::: warning Note!
+As of now, the default value will follow the hierarchy.
 
 `region > province/district > municipality/city > barangay`
+:::
 
 However, if the default value is missing in between then it will not work like this one.
 
-```html
+```html {2-3}
 <select id="regions" data-default-value="050000000"></select><br />
-<!-- The municipality and barangay will not work since there is no default value for province -->
-<select id="provinces"></select><br />
+<!-- The municipality and barangay will not work --> 
+<!-- since there's no default value for province --> 
+<select id="provinces"></select><br /> // [!code error]
 <select id="municipality" data-default-value="056212000"></select><br />
 <select id="barangay" data-default-value="056212034"></select>
 ```
