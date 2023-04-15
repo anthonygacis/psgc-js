@@ -1,0 +1,6 @@
+breaking: 'breaking*'
+feature: [ 'feature*', 'feat*' ]
+update: [ 'update*' ]
+fix: 'fix*'
+chore: [ 'chore*', 'docs*' ]
+dependencies: [ 'dep*', 'dependencies*' ]

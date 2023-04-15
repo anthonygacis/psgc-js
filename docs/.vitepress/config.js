@@ -8,11 +8,15 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/logo.png' }]
   ],
   cleanUrls: true,
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo.png",
     siteTitle: "PSGC-JS",
-
+    editLink: {
+      pattern: 'https://github.com/anthonygacis/psgc-js/edit/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    },
     nav: [
       { text: 'Home', link: '/' }
     ],

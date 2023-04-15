@@ -12,8 +12,10 @@ categories:
     labels: ['breaking']
   - title: '🚀 New'
     labels: ['feature']
+  - title: '⚙️ Minor Updates'
+    labels: ['update']
   - title: '🐛 Bug Fixes'
-    labels: ['bug']
+    labels: ['fix']
   - title: '🧰 Maintenance'
     labels: ['maintenance']
   - title: '📄 Chore'
@@ -31,11 +33,13 @@ version-resolver:
       - 'feature'
   patch:
     labels:
-      - 'bug'
+      - 'fix'
       - 'maintenance'
       - 'docs'
+      - 'chore'
       - 'dependencies'
       - 'security'
+      - 'update'
 
 exclude-labels:
   - 'skip-changelog'
