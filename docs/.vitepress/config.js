@@ -14,22 +14,33 @@ export default defineConfig({
     siteTitle: "PSGC-JS",
 
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Home', link: '/' }
     ],
+
+    footer: {
+      message: 'Released under the MIT License',
+      copyright: 'Copyright © 2021-present Anthony S. Gacis'
+    },
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Introduction',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Demo', link: '/introduction/demo' },
+          { text: 'Installation', link: '/introduction/installation' },
+        ]
+      },
+      {
+        text: 'API',
+        items: [
+          { text: 'Available Methods', link: '/api/available-methods' },
+          { text: 'Region Code Reference', link: '/api/code-reference' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/anthonygacis/psgc-js' }
     ]
   }
 })
