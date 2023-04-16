@@ -14,7 +14,7 @@ const clearOptions = (...obj) => {
         })
     }
 }
- 
+
 const onChangeElement = (elem) => {
     if (elem) {
         const regCode = elem.value.substring(0, 2)
@@ -38,9 +38,9 @@ const onChangeElement = (elem) => {
                         _objProvinces[0].addEventListener('change', (e) => onChangeElement(e.target))
                     }
                     // populate for province/district
-                    PSGC.get(regCode, {geographic_level: 'Prov'}).then(outData => {
+                    PSGC.get(regCode, { geographic_level: 'Prov' }).then(outData => {
                         if (outData.length == 0) {
-                            PSGC.get(regCode, {geographic_level: 'Dist'}).then(inData => populateOptions(inData))
+                            PSGC.get(regCode, { geographic_level: 'Dist' }).then(inData => populateOptions(inData))
                         } else {
                             populateOptions(outData)
                         }
