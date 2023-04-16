@@ -23,3 +23,31 @@ jobs:
           commitish: main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      -   name: Checkout repo
+          uses: actions/checkout@v3
+          with:
+              fetch-depth: 0
+      -   name: Setup Node
+          uses: actions/setup-node@v3
+          with:
+              node-version: 18
+      -   name: NPM Install
+          run: npm ci
+      -   name: Run package update
+          run: |
+              TEMP_VERSION=${{ steps.draft_release.outputs.tag_name }}
+              FINAL_VERSION="${TEMP_VERSION//v/}"
+              npm run update:package -- -e "this.version='${FINAL_VERSION}'"
+      -   name: Check if there is a change
+          id: verify_diff
+          run: |
+              git diff --quiet package.json || echo "changed=true" >> $GITHUB_OUTPUT
+      -   name: Commit and push changes
+          if: steps.verify_diff.outputs.changed == 'true'
+          env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          run: |
+              git config user.name "Anthony Gacis"
+              git config user.email "30620409+anthonygacis@users.noreply.github.com"
+              git commit -am "Update package.json version"
+              git push
