@@ -15,12 +15,14 @@ jobs:
       pull-requests: write
     runs-on: ubuntu-latest
     steps:
-      - uses: release-drafter/release-drafter@v5
-        with:
-          disable-autolabeler: true
-          commitish: main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      -   name: Draft Release
+          id: draft_release
+          uses: release-drafter/release-drafter@v5
+          with:
+              disable-autolabeler: true
+              commitish: main
+          env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       -   name: Checkout repo
           uses: actions/checkout@v3
           with:
