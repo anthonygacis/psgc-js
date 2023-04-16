@@ -1,3 +1,5 @@
+<img src="https://banners.beyondco.de/PSGC-JS.png?theme=light&packageManager=npm+install&packageName=%40ageesea%2Fpsgc-js&pattern=architect&style=style_1&description=A+collection+of+philippine+geographic+data+based+on+PSGC&md=1&showWatermark=0&fontSize=100px&images=location-marker">
+
 # PSGC JS
 
 A collection of philippine geographic data based on PSGC
