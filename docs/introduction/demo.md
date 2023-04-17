@@ -8,7 +8,7 @@
 
 A collection of philippine geographic data based on PSGC
 
-<b>Version: {{ pkg.version }}</b>
+**Version: {{ pkg.version }}**
 
 ## Demo
 

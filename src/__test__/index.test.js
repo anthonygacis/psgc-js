@@ -2,12 +2,12 @@ import { describe, expect, test } from "vitest";
 import PSGC from '../index'
 
 describe("psgc-js", () => {
-    test('getAllRegion should return 17 regions', async () => {
+    test('getAllRegion() should return 17 regions', async () => {
         let data = await PSGC.getAllRegions()
         expect(data.length).toEqual(17)
     });
 
-    test('get should return sorsogon data', async () => {
+    test('get() should return provinces from bicol region', async () => {
         let data = await PSGC.get("05", {
             geographic_level: "Prov"
         })
@@ -18,6 +18,39 @@ describe("psgc-js", () => {
                     code: '0506200000',
                     name: 'Sorsogon',
                     correspondence_code: '056200000'
+                })
+            ])
+        );
+    });
+
+    test('get() should return cities from bicol region', async () => {
+        let data = await PSGC.get("05", {
+            geographic_level: "City"
+        })
+
+        console.log(data)
+        expect(data).toEqual(
+            expect.arrayContaining([
+                expect.objectContaining({
+                    code: '0506216000',
+                    name: 'City of Sorsogon',
+                    correspondence_code: '056216000'
+                })
+            ])
+        );
+    });
+
+    test('get() should return brgys from bicol region', async () => {
+        let data = await PSGC.get("05", {
+            geographic_level: "Bgy"
+        })
+
+        expect(data).toEqual(
+            expect.arrayContaining([
+                expect.objectContaining({
+                    code: '0501723003',
+                    name: 'Antipolo Young',
+                    correspondence_code: '051723003'
                 })
             ])
         );

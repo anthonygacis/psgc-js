@@ -70,7 +70,7 @@
     },
     "1400101": {
         "code": "1400101000",
-        "name": "Bangued ",
+        "name": "Bangued",
         "correspondence_code": 140101000,
         "geographic_level": "Mun",
         "income_classification": "1st",
@@ -422,7 +422,7 @@
     },
     "1401110": {
         "code": "1401110000",
-        "name": "La Trinidad ",
+        "name": "La Trinidad",
         "correspondence_code": 141110000,
         "geographic_level": "Mun",
         "income_classification": "1st",
@@ -503,7 +503,7 @@
     },
     "1402704": {
         "code": "1402704000",
-        "name": "Lagawe ",
+        "name": "Lagawe",
         "correspondence_code": 142704000,
         "geographic_level": "Mun",
         "income_classification": "4th",
@@ -636,7 +636,7 @@
     },
     "1403213": {
         "code": "1403213000",
-        "name": "City of Tabuk ",
+        "name": "City of Tabuk",
         "correspondence_code": 143213000,
         "geographic_level": "City",
         "city_class": "CC",
@@ -698,7 +698,7 @@
     },
     "1404404": {
         "code": "1404404000",
-        "name": "Bontoc ",
+        "name": "Bontoc",
         "correspondence_code": 144404000,
         "geographic_level": "Mun",
         "income_classification": "2nd",
@@ -800,7 +800,7 @@
     },
     "1408104": {
         "code": "1408104000",
-        "name": "Kabugao ",
+        "name": "Kabugao",
         "correspondence_code": 148104000,
         "geographic_level": "Mun",
         "income_classification": "1st",
@@ -1111,7 +1111,7 @@
     },
     "1400101029": {
         "code": "1400101029",
-        "name": "Zone 6 Pob. ",
+        "name": "Zone 6 Pob.",
         "correspondence_code": 140101029,
         "geographic_level": "Bgy",
         "old_names": "Sinapangan",
@@ -1430,7 +1430,7 @@
     },
     "1400104004": {
         "code": "1400104004",
-        "name": "Lamao ",
+        "name": "Lamao",
         "correspondence_code": 140104004,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1467,7 +1467,7 @@
     },
     "1400105004": {
         "code": "1400105004",
-        "name": "Tui ",
+        "name": "Tui",
         "correspondence_code": 140105004,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1495,7 +1495,7 @@
     },
     "1400106004": {
         "code": "1400106004",
-        "name": "Caupasan ",
+        "name": "Caupasan",
         "correspondence_code": 140106004,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2329,7 +2329,7 @@
     },
     "1400115008": {
         "code": "1400115008",
-        "name": "Malibcong ",
+        "name": "Malibcong",
         "correspondence_code": 140115008,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2393,7 +2393,7 @@
     },
     "1400116004": {
         "code": "1400116004",
-        "name": "Ayyeng ",
+        "name": "Ayyeng",
         "correspondence_code": 140116004,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2883,7 +2883,7 @@
     },
     "1400120003": {
         "code": "1400120003",
-        "name": "Gangal ",
+        "name": "Gangal",
         "correspondence_code": 140120003,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4843,7 +4843,7 @@
     },
     "1401114006": {
         "code": "1401114006",
-        "name": "Caponga ",
+        "name": "Caponga",
         "correspondence_code": 141114006,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -6742,7 +6742,7 @@
     },
     "1403208011": {
         "code": "1403208011",
-        "name": "Guina-ang ",
+        "name": "Guina-ang",
         "correspondence_code": 143208011,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6977,7 +6977,7 @@
     },
     "1403209022": {
         "code": "1403209022",
-        "name": "Taga ",
+        "name": "Taga",
         "correspondence_code": 143209022,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -7005,7 +7005,7 @@
     },
     "1403211001": {
         "code": "1403211001",
-        "name": "Babalag East ",
+        "name": "Babalag East",
         "correspondence_code": 143211001,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -7087,7 +7087,7 @@
     },
     "1403211015": {
         "code": "1403211015",
-        "name": "Babalag West ",
+        "name": "Babalag West",
         "correspondence_code": 143211015,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -7376,7 +7376,7 @@
     },
     "1403213029": {
         "code": "1403213029",
-        "name": "Dagupan Centro ",
+        "name": "Dagupan Centro",
         "correspondence_code": 143213029,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -7928,7 +7928,7 @@
     },
     "1404401011": {
         "code": "1404401011",
-        "name": "Gawana ",
+        "name": "Gawana",
         "correspondence_code": 144401011,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -8265,7 +8265,7 @@
     },
     "1404403015": {
         "code": "1404403015",
-        "name": "Kin-iway ",
+        "name": "Kin-iway",
         "correspondence_code": 144403015,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -8870,7 +8870,7 @@
     },
     "1404409008": {
         "code": "1404409008",
-        "name": "Dagdag ",
+        "name": "Dagdag",
         "correspondence_code": 144409008,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -8880,7 +8880,7 @@
     },
     "1404409009": {
         "code": "1404409009",
-        "name": "Demang ",
+        "name": "Demang",
         "correspondence_code": 144409009,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -10274,7 +10274,7 @@
     },
     "1408107005": {
         "code": "1408107005",
-        "name": "Marcela ",
+        "name": "Marcela",
         "correspondence_code": 148107005,
         "geographic_level": "Bgy",
         "urban_rural": "R",

@@ -178,7 +178,6 @@ const PSGC = {
      */
     get: (regionCode, filters) => {
         if (filters && filters.search) {
-            // let data = require(`./extract/geo-reg-${parseInt(regionCode)}.json`)
             let data = import(`./extract/geo-reg-${parseInt(regionCode)}.json`)
             return data.then(content => {
                 let code = filters.search.code
@@ -213,7 +212,6 @@ const PSGC = {
                 return Promise.resolve(res)
             })
         } else {
-            // let content = require(`./extract/geo-reg-${parseInt(regionCode)}.json`);
             let res = import(`./extract/geo-reg-${parseInt(regionCode)}.json`)
             return res.then(content => {
                 let tempRes = []
@@ -231,5 +229,4 @@ const PSGC = {
     }
 }
 
-// module.exports = PSGC
 export default PSGC

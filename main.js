@@ -8,3 +8,7 @@ PSGC.init({
         barangay: "#barangay",
     }
 })
+
+console.log(await PSGC.get("05", {
+    geographic_level: "Prov"
+}))
