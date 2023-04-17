@@ -5,7 +5,20 @@ export default defineConfig({
   title: "PSGC-JS",
   description: "A collection of philippine geographic data based on PSGC",
   head: [
-    ['link', { rel: 'icon', href: '/logo.png' }]
+    [
+      'link',
+      {
+        rel: 'icon',
+        href: '/logo.png'
+      }
+    ],
+    [
+      'meta',
+      {
+        name: 'google-site-verification',
+        content: 'lke6qpq4v2yAc5ez9ztO0Rc0FmiTpSuCcyu1AK9x4sM'
+      }
+    ],
   ],
   cleanUrls: true,
   lastUpdated: true,
