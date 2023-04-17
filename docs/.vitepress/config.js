@@ -48,6 +48,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'API Usage',
+        items: [
+          { text: 'Using Geographic Level', link: '/usage/using-geographic-level' },
+        ]
+      },
+      {
         text: 'API',
         items: [
           { text: 'Available Methods', link: '/api/available-methods' },

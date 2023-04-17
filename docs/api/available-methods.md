@@ -1,5 +1,9 @@
 # Available Methods
 
+::: warning Note!
+All methods return a `Promise` type, just use `async-await`
+:::
+
 ## PSGC.getAllRegions()
 
 A method that returns all regions in the Philippines
