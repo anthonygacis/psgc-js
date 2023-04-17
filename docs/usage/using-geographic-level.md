@@ -4,6 +4,10 @@
 
 # Using Geographic Level Option
 
+::: tip Note!
+We will be using region V as sample here which has a short code of `05`
+:::
+
 ## Retrieve all provinces from a region
 
 <GeographicLevel geo-code="05" type="prov"/>
@@ -38,7 +42,7 @@ let provinces = await PSGC.get("05", {
 
 ```js
 // example code
-let provinces = await PSGC.get("05", {
+let cities = await PSGC.get("05", {
     geographic_level: "City"
 })
 ```
