@@ -81,7 +81,7 @@
     },
     "1204704": {
         "code": "1204704000",
-        "name": "City of Kidapawan ",
+        "name": "City of Kidapawan",
         "correspondence_code": 124704000,
         "geographic_level": "City",
         "city_class": "CC",
@@ -243,7 +243,7 @@
     },
     "1206306": {
         "code": "1206306000",
-        "name": "City of Koronadal ",
+        "name": "City of Koronadal",
         "correspondence_code": 126306000,
         "geographic_level": "City",
         "city_class": "CC",
@@ -375,7 +375,7 @@
     },
     "1206504": {
         "code": "1206504000",
-        "name": "Isulan ",
+        "name": "Isulan",
         "correspondence_code": 126504000,
         "geographic_level": "Mun",
         "income_classification": "1st",
@@ -468,7 +468,7 @@
     },
     "1208001": {
         "code": "1208001000",
-        "name": "Alabel ",
+        "name": "Alabel",
         "correspondence_code": 128001000,
         "geographic_level": "Mun",
         "income_classification": "1st",
@@ -596,7 +596,7 @@
     },
     "1204701006": {
         "code": "1204701006",
-        "name": "Kitacubong ",
+        "name": "Kitacubong",
         "correspondence_code": 124701006,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -4880,7 +4880,7 @@
     },
     "1206302002": {
         "code": "1206302002",
-        "name": "Benitez ",
+        "name": "Benitez",
         "correspondence_code": 126302002,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4936,7 +4936,7 @@
     },
     "1206302008": {
         "code": "1206302008",
-        "name": "Improgo Village ",
+        "name": "Improgo Village",
         "correspondence_code": 126302008,
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5032,7 +5032,7 @@
     },
     "1206302018": {
         "code": "1206302018",
-        "name": "Reyes ",
+        "name": "Reyes",
         "correspondence_code": 126302018,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -5230,7 +5230,7 @@
     },
     "1206306016": {
         "code": "1206306016",
-        "name": "Zone I ",
+        "name": "Zone I",
         "correspondence_code": 126306016,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -5240,7 +5240,7 @@
     },
     "1206306017": {
         "code": "1206306017",
-        "name": "Zone II ",
+        "name": "Zone II",
         "correspondence_code": 126306017,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -5250,7 +5250,7 @@
     },
     "1206306018": {
         "code": "1206306018",
-        "name": "Zone III ",
+        "name": "Zone III",
         "correspondence_code": 126306018,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -5260,7 +5260,7 @@
     },
     "1206306019": {
         "code": "1206306019",
-        "name": "Zone IV ",
+        "name": "Zone IV",
         "correspondence_code": 126306019,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -5761,7 +5761,7 @@
     },
     "1206313019": {
         "code": "1206313019",
-        "name": "Libertad ",
+        "name": "Libertad",
         "correspondence_code": 126313019,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -6087,7 +6087,7 @@
     },
     "1206316002": {
         "code": "1206316002",
-        "name": "Edwards ",
+        "name": "Edwards",
         "correspondence_code": 126316002,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -7233,7 +7233,7 @@
     },
     "1206504011": {
         "code": "1206504011",
-        "name": "Kalawag I ",
+        "name": "Kalawag I",
         "correspondence_code": 126504011,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -7243,7 +7243,7 @@
     },
     "1206504012": {
         "code": "1206504012",
-        "name": "Kalawag II ",
+        "name": "Kalawag II",
         "correspondence_code": 126504012,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -7253,7 +7253,7 @@
     },
     "1206504013": {
         "code": "1206504013",
-        "name": "Kalawag III ",
+        "name": "Kalawag III",
         "correspondence_code": 126504013,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -7805,7 +7805,7 @@
     },
     "1206507010": {
         "code": "1206507010",
-        "name": "Tamnag ",
+        "name": "Tamnag",
         "correspondence_code": 126507010,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -9746,7 +9746,7 @@
     },
     "1208005008": {
         "code": "1208005008",
-        "name": "Malalag ",
+        "name": "Malalag",
         "correspondence_code": 128005008,
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -10284,7 +10284,7 @@
     },
     "1230800007": {
         "code": "1230800007",
-        "name": "Dadiangas East ",
+        "name": "Dadiangas East",
         "correspondence_code": 126303007,
         "geographic_level": "Bgy",
         "urban_rural": "U",

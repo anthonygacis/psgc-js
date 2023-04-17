@@ -39,7 +39,7 @@
     },
     "0802601002": {
         "code": "0802601002",
-        "name": "Balud ",
+        "name": "Balud",
         "correspondence_code": "082601002",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -131,7 +131,7 @@
     },
     "0802601014": {
         "code": "0802601014",
-        "name": "Central ",
+        "name": "Central",
         "correspondence_code": "082601014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -150,7 +150,7 @@
     },
     "0802601016": {
         "code": "0802601016",
-        "name": "Garden ",
+        "name": "Garden",
         "correspondence_code": "082601016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -178,7 +178,7 @@
     },
     "0802601022": {
         "code": "0802601022",
-        "name": "Rawis ",
+        "name": "Rawis",
         "correspondence_code": "082601022",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -487,7 +487,7 @@
     },
     "0802604": {
         "code": "0802604000",
-        "name": "City of Borongan ",
+        "name": "City of Borongan",
         "correspondence_code": "082604000",
         "geographic_level": "City",
         "city_class": "CC",
@@ -796,7 +796,7 @@
     },
     "0802604034": {
         "code": "0802604034",
-        "name": "Purok D1 ",
+        "name": "Purok D1",
         "correspondence_code": "082604034",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -806,7 +806,7 @@
     },
     "0802604035": {
         "code": "0802604035",
-        "name": "Purok A ",
+        "name": "Purok A",
         "correspondence_code": "082604035",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -816,7 +816,7 @@
     },
     "0802604036": {
         "code": "0802604036",
-        "name": "Purok B ",
+        "name": "Purok B",
         "correspondence_code": "082604036",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -826,7 +826,7 @@
     },
     "0802604037": {
         "code": "0802604037",
-        "name": "Purok C ",
+        "name": "Purok C",
         "correspondence_code": "082604037",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -836,7 +836,7 @@
     },
     "0802604038": {
         "code": "0802604038",
-        "name": "Purok D2 ",
+        "name": "Purok D2",
         "correspondence_code": "082604038",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -846,7 +846,7 @@
     },
     "0802604039": {
         "code": "0802604039",
-        "name": "Purok E ",
+        "name": "Purok E",
         "correspondence_code": "082604039",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -856,7 +856,7 @@
     },
     "0802604040": {
         "code": "0802604040",
-        "name": "Purok F ",
+        "name": "Purok F",
         "correspondence_code": "082604040",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -866,7 +866,7 @@
     },
     "0802604041": {
         "code": "0802604041",
-        "name": "Purok G ",
+        "name": "Purok G",
         "correspondence_code": "082604041",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -876,7 +876,7 @@
     },
     "0802604042": {
         "code": "0802604042",
-        "name": "Purok H ",
+        "name": "Purok H",
         "correspondence_code": "082604042",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1500,7 +1500,7 @@
     },
     "0802606022": {
         "code": "0802606022",
-        "name": "Barangay 1 ",
+        "name": "Barangay 1",
         "correspondence_code": "082606022",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1510,7 +1510,7 @@
     },
     "0802606023": {
         "code": "0802606023",
-        "name": "Barangay 10 ",
+        "name": "Barangay 10",
         "correspondence_code": "082606023",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1520,7 +1520,7 @@
     },
     "0802606024": {
         "code": "0802606024",
-        "name": "Barangay 11 ",
+        "name": "Barangay 11",
         "correspondence_code": "082606024",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1530,7 +1530,7 @@
     },
     "0802606025": {
         "code": "0802606025",
-        "name": "Barangay 12 ",
+        "name": "Barangay 12",
         "correspondence_code": "082606025",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1540,7 +1540,7 @@
     },
     "0802606026": {
         "code": "0802606026",
-        "name": "Barangay 13 ",
+        "name": "Barangay 13",
         "correspondence_code": "082606026",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1550,7 +1550,7 @@
     },
     "0802606027": {
         "code": "0802606027",
-        "name": "Barangay 14 ",
+        "name": "Barangay 14",
         "correspondence_code": "082606027",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1560,7 +1560,7 @@
     },
     "0802606028": {
         "code": "0802606028",
-        "name": "Barangay 15 ",
+        "name": "Barangay 15",
         "correspondence_code": "082606028",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1570,7 +1570,7 @@
     },
     "0802606029": {
         "code": "0802606029",
-        "name": "Barangay 2 ",
+        "name": "Barangay 2",
         "correspondence_code": "082606029",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1580,7 +1580,7 @@
     },
     "0802606030": {
         "code": "0802606030",
-        "name": "Barangay 3 ",
+        "name": "Barangay 3",
         "correspondence_code": "082606030",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1590,7 +1590,7 @@
     },
     "0802606031": {
         "code": "0802606031",
-        "name": "Barangay 4 ",
+        "name": "Barangay 4",
         "correspondence_code": "082606031",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1600,7 +1600,7 @@
     },
     "0802606032": {
         "code": "0802606032",
-        "name": "Barangay 5 ",
+        "name": "Barangay 5",
         "correspondence_code": "082606032",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1610,7 +1610,7 @@
     },
     "0802606033": {
         "code": "0802606033",
-        "name": "Barangay 6 ",
+        "name": "Barangay 6",
         "correspondence_code": "082606033",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1620,7 +1620,7 @@
     },
     "0802606034": {
         "code": "0802606034",
-        "name": "Barangay 7 ",
+        "name": "Barangay 7",
         "correspondence_code": "082606034",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1630,7 +1630,7 @@
     },
     "0802606035": {
         "code": "0802606035",
-        "name": "Barangay 8 ",
+        "name": "Barangay 8",
         "correspondence_code": "082606035",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -1640,7 +1640,7 @@
     },
     "0802606036": {
         "code": "0802606036",
-        "name": "Barangay 9 ",
+        "name": "Barangay 9",
         "correspondence_code": "082606036",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2050,7 +2050,7 @@
     },
     "0802608001": {
         "code": "0802608001",
-        "name": "Barangay 1 ",
+        "name": "Barangay 1",
         "correspondence_code": "082608001",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2060,7 +2060,7 @@
     },
     "0802608002": {
         "code": "0802608002",
-        "name": "Barangay 2 ",
+        "name": "Barangay 2",
         "correspondence_code": "082608002",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2070,7 +2070,7 @@
     },
     "0802608003": {
         "code": "0802608003",
-        "name": "Barangay 3 ",
+        "name": "Barangay 3",
         "correspondence_code": "082608003",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2080,7 +2080,7 @@
     },
     "0802608004": {
         "code": "0802608004",
-        "name": "Barangay 4 ",
+        "name": "Barangay 4",
         "correspondence_code": "082608004",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2090,7 +2090,7 @@
     },
     "0802608005": {
         "code": "0802608005",
-        "name": "Barangay 5 ",
+        "name": "Barangay 5",
         "correspondence_code": "082608005",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2100,7 +2100,7 @@
     },
     "0802608006": {
         "code": "0802608006",
-        "name": "Barangay 6 ",
+        "name": "Barangay 6",
         "correspondence_code": "082608006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2110,7 +2110,7 @@
     },
     "0802608007": {
         "code": "0802608007",
-        "name": "Barangay 7 ",
+        "name": "Barangay 7",
         "correspondence_code": "082608007",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2202,7 +2202,7 @@
     },
     "0802608019": {
         "code": "0802608019",
-        "name": "Barangay 8 ",
+        "name": "Barangay 8",
         "correspondence_code": "082608019",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2457,7 +2457,7 @@
     },
     "0802609028": {
         "code": "0802609028",
-        "name": "Lupok ",
+        "name": "Lupok",
         "correspondence_code": "082609028",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2846,7 +2846,7 @@
     },
     "0802610008": {
         "code": "0802610008",
-        "name": "Barangay 1 ",
+        "name": "Barangay 1",
         "correspondence_code": "082610008",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2856,7 +2856,7 @@
     },
     "0802610009": {
         "code": "0802610009",
-        "name": "Barangay 2 ",
+        "name": "Barangay 2",
         "correspondence_code": "082610009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2866,7 +2866,7 @@
     },
     "0802610010": {
         "code": "0802610010",
-        "name": "Barangay 3 ",
+        "name": "Barangay 3",
         "correspondence_code": "082610010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2876,7 +2876,7 @@
     },
     "0802610011": {
         "code": "0802610011",
-        "name": "Barangay 4 ",
+        "name": "Barangay 4",
         "correspondence_code": "082610011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2968,7 +2968,7 @@
     },
     "0802611015": {
         "code": "0802611015",
-        "name": "Barangay 1 ",
+        "name": "Barangay 1",
         "correspondence_code": "082611015",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2978,7 +2978,7 @@
     },
     "0802611016": {
         "code": "0802611016",
-        "name": "Barangay 2 ",
+        "name": "Barangay 2",
         "correspondence_code": "082611016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2988,7 +2988,7 @@
     },
     "0802611017": {
         "code": "0802611017",
-        "name": "Barangay 3 ",
+        "name": "Barangay 3",
         "correspondence_code": "082611017",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -2998,7 +2998,7 @@
     },
     "0802611018": {
         "code": "0802611018",
-        "name": "Barangay 4 ",
+        "name": "Barangay 4",
         "correspondence_code": "082611018",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3334,7 +3334,7 @@
     },
     "0802613017": {
         "code": "0802613017",
-        "name": "Barangay 1 ",
+        "name": "Barangay 1",
         "correspondence_code": "082613017",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3344,7 +3344,7 @@
     },
     "0802613018": {
         "code": "0802613018",
-        "name": "Barangay 2 ",
+        "name": "Barangay 2",
         "correspondence_code": "082613018",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3354,7 +3354,7 @@
     },
     "0802613019": {
         "code": "0802613019",
-        "name": "Barangay 3 ",
+        "name": "Barangay 3",
         "correspondence_code": "082613019",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3364,7 +3364,7 @@
     },
     "0802613020": {
         "code": "0802613020",
-        "name": "Barangay 4 ",
+        "name": "Barangay 4",
         "correspondence_code": "082613020",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3374,7 +3374,7 @@
     },
     "0802613021": {
         "code": "0802613021",
-        "name": "Barangay 5 ",
+        "name": "Barangay 5",
         "correspondence_code": "082613021",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3384,7 +3384,7 @@
     },
     "0802613022": {
         "code": "0802613022",
-        "name": "Barangay 6 ",
+        "name": "Barangay 6",
         "correspondence_code": "082613022",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3394,7 +3394,7 @@
     },
     "0802613023": {
         "code": "0802613023",
-        "name": "Barangay 7 ",
+        "name": "Barangay 7",
         "correspondence_code": "082613023",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3404,7 +3404,7 @@
     },
     "0802613024": {
         "code": "0802613024",
-        "name": "Barangay 8 ",
+        "name": "Barangay 8",
         "correspondence_code": "082613024",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3414,7 +3414,7 @@
     },
     "0802613025": {
         "code": "0802613025",
-        "name": "Barangay 9 ",
+        "name": "Barangay 9",
         "correspondence_code": "082613025",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3424,7 +3424,7 @@
     },
     "0802613026": {
         "code": "0802613026",
-        "name": "Barangay 10 ",
+        "name": "Barangay 10",
         "correspondence_code": "082613026",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3434,7 +3434,7 @@
     },
     "0802613027": {
         "code": "0802613027",
-        "name": "Barangay 11 ",
+        "name": "Barangay 11",
         "correspondence_code": "082613027",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3444,7 +3444,7 @@
     },
     "0802613028": {
         "code": "0802613028",
-        "name": "Barangay 12 ",
+        "name": "Barangay 12",
         "correspondence_code": "082613028",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3563,7 +3563,7 @@
     },
     "0802614008": {
         "code": "0802614008",
-        "name": "Barangay 1 ",
+        "name": "Barangay 1",
         "correspondence_code": "082614008",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -3573,7 +3573,7 @@
     },
     "0802614009": {
         "code": "0802614009",
-        "name": "Barangay 2 ",
+        "name": "Barangay 2",
         "correspondence_code": "082614009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4011,7 +4011,7 @@
     },
     "0802617004": {
         "code": "0802617004",
-        "name": "Balocawe ",
+        "name": "Balocawe",
         "correspondence_code": "082617004",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4075,7 +4075,7 @@
     },
     "0802617011": {
         "code": "0802617011",
-        "name": "Butnga ",
+        "name": "Butnga",
         "correspondence_code": "082617011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4121,7 +4121,7 @@
     },
     "0802617016": {
         "code": "0802617016",
-        "name": "Camanga ",
+        "name": "Camanga",
         "correspondence_code": "082617016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4248,7 +4248,7 @@
     },
     "0802617031": {
         "code": "0802617031",
-        "name": "Paypayon ",
+        "name": "Paypayon",
         "correspondence_code": "082617031",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4258,7 +4258,7 @@
     },
     "0802617033": {
         "code": "0802617033",
-        "name": "Riverside ",
+        "name": "Riverside",
         "correspondence_code": "082617033",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4322,7 +4322,7 @@
     },
     "0802617041": {
         "code": "0802617041",
-        "name": "Tawagan ",
+        "name": "Tawagan",
         "correspondence_code": "082617041",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4332,7 +4332,7 @@
     },
     "0802617043": {
         "code": "0802617043",
-        "name": "Tiguib ",
+        "name": "Tiguib",
         "correspondence_code": "082617043",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4361,7 +4361,7 @@
     },
     "0802617046": {
         "code": "0802617046",
-        "name": "San Roque ",
+        "name": "San Roque",
         "correspondence_code": "082617046",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4399,7 +4399,7 @@
     },
     "0802618003": {
         "code": "0802618003",
-        "name": "Barangay No. 1 ",
+        "name": "Barangay No. 1",
         "correspondence_code": "082618003",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4409,7 +4409,7 @@
     },
     "0802618004": {
         "code": "0802618004",
-        "name": "Barangay No. 2 ",
+        "name": "Barangay No. 2",
         "correspondence_code": "082618004",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4419,7 +4419,7 @@
     },
     "0802618005": {
         "code": "0802618005",
-        "name": "Barangay No. 3 ",
+        "name": "Barangay No. 3",
         "correspondence_code": "082618005",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4429,7 +4429,7 @@
     },
     "0802618006": {
         "code": "0802618006",
-        "name": "Barangay No. 4 ",
+        "name": "Barangay No. 4",
         "correspondence_code": "082618006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4439,7 +4439,7 @@
     },
     "0802618007": {
         "code": "0802618007",
-        "name": "Barangay No. 5 ",
+        "name": "Barangay No. 5",
         "correspondence_code": "082618007",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4587,7 +4587,7 @@
     },
     "0802618024": {
         "code": "0802618024",
-        "name": "Barangay No. 6 ",
+        "name": "Barangay No. 6",
         "correspondence_code": "082618024",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4597,7 +4597,7 @@
     },
     "0802618025": {
         "code": "0802618025",
-        "name": "Barangay No. 7 ",
+        "name": "Barangay No. 7",
         "correspondence_code": "082618025",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4671,7 +4671,7 @@
     },
     "0802619006": {
         "code": "0802619006",
-        "name": "Barangay 1 ",
+        "name": "Barangay 1",
         "correspondence_code": "082619006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4681,7 +4681,7 @@
     },
     "0802619007": {
         "code": "0802619007",
-        "name": "Barangay 13 ",
+        "name": "Barangay 13",
         "correspondence_code": "082619007",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4691,7 +4691,7 @@
     },
     "0802619008": {
         "code": "0802619008",
-        "name": "Barangay 2 ",
+        "name": "Barangay 2",
         "correspondence_code": "082619008",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4701,7 +4701,7 @@
     },
     "0802619009": {
         "code": "0802619009",
-        "name": "Barangay 3 ",
+        "name": "Barangay 3",
         "correspondence_code": "082619009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4711,7 +4711,7 @@
     },
     "0802619010": {
         "code": "0802619010",
-        "name": "Barangay 4 ",
+        "name": "Barangay 4",
         "correspondence_code": "082619010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4721,7 +4721,7 @@
     },
     "0802619011": {
         "code": "0802619011",
-        "name": "Barangay 5 ",
+        "name": "Barangay 5",
         "correspondence_code": "082619011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4731,7 +4731,7 @@
     },
     "0802619012": {
         "code": "0802619012",
-        "name": "Barangay 6 ",
+        "name": "Barangay 6",
         "correspondence_code": "082619012",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4741,7 +4741,7 @@
     },
     "0802619013": {
         "code": "0802619013",
-        "name": "Barangay 7 ",
+        "name": "Barangay 7",
         "correspondence_code": "082619013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4751,7 +4751,7 @@
     },
     "0802619014": {
         "code": "0802619014",
-        "name": "Barangay 8 ",
+        "name": "Barangay 8",
         "correspondence_code": "082619014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4761,7 +4761,7 @@
     },
     "0802619015": {
         "code": "0802619015",
-        "name": "Barangay 9 ",
+        "name": "Barangay 9",
         "correspondence_code": "082619015",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4771,7 +4771,7 @@
     },
     "0802619016": {
         "code": "0802619016",
-        "name": "Barangay 10 ",
+        "name": "Barangay 10",
         "correspondence_code": "082619016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4781,7 +4781,7 @@
     },
     "0802619017": {
         "code": "0802619017",
-        "name": "Barangay 11 ",
+        "name": "Barangay 11",
         "correspondence_code": "082619017",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -4791,7 +4791,7 @@
     },
     "0802619018": {
         "code": "0802619018",
-        "name": "Barangay 12 ",
+        "name": "Barangay 12",
         "correspondence_code": "082619018",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5256,7 +5256,7 @@
     },
     "0802621010": {
         "code": "0802621010",
-        "name": "Barangay No. 1 ",
+        "name": "Barangay No. 1",
         "correspondence_code": "082621010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5266,7 +5266,7 @@
     },
     "0802621011": {
         "code": "0802621011",
-        "name": "Barangay No. 2 ",
+        "name": "Barangay No. 2",
         "correspondence_code": "082621011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5276,7 +5276,7 @@
     },
     "0802621012": {
         "code": "0802621012",
-        "name": "Barangay No. 3 ",
+        "name": "Barangay No. 3",
         "correspondence_code": "082621012",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5286,7 +5286,7 @@
     },
     "0802621013": {
         "code": "0802621013",
-        "name": "Barangay No. 4 ",
+        "name": "Barangay No. 4",
         "correspondence_code": "082621013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5296,7 +5296,7 @@
     },
     "0802621014": {
         "code": "0802621014",
-        "name": "Barangay No. 5 ",
+        "name": "Barangay No. 5",
         "correspondence_code": "082621014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5352,7 +5352,7 @@
     },
     "0802622002": {
         "code": "0802622002",
-        "name": "Baybay ",
+        "name": "Baybay",
         "correspondence_code": "082622002",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5380,7 +5380,7 @@
     },
     "0802622005": {
         "code": "0802622005",
-        "name": "Loyola Heights ",
+        "name": "Loyola Heights",
         "correspondence_code": "082622005",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5399,7 +5399,7 @@
     },
     "0802622007": {
         "code": "0802622007",
-        "name": "Maglipay ",
+        "name": "Maglipay",
         "correspondence_code": "082622007",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5409,7 +5409,7 @@
     },
     "0802622008": {
         "code": "0802622008",
-        "name": "Maramara ",
+        "name": "Maramara",
         "correspondence_code": "082622008",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5419,7 +5419,7 @@
     },
     "0802622009": {
         "code": "0802622009",
-        "name": "Riverside ",
+        "name": "Riverside",
         "correspondence_code": "082622009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5492,7 +5492,7 @@
     },
     "0802622017": {
         "code": "0802622017",
-        "name": "Tabi ",
+        "name": "Tabi",
         "correspondence_code": "082622017",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5502,7 +5502,7 @@
     },
     "0802622018": {
         "code": "0802622018",
-        "name": "Abucay ",
+        "name": "Abucay",
         "correspondence_code": "082622018",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5849,7 +5849,7 @@
     },
     "0803701011": {
         "code": "0803701011",
-        "name": "Bito ",
+        "name": "Bito",
         "correspondence_code": "083701011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5886,7 +5886,7 @@
     },
     "0803701015": {
         "code": "0803701015",
-        "name": "Buntay ",
+        "name": "Buntay",
         "correspondence_code": "083701015",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5914,7 +5914,7 @@
     },
     "0803701018": {
         "code": "0803701018",
-        "name": "Can-uguib ",
+        "name": "Can-uguib",
         "correspondence_code": "083701018",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -5978,7 +5978,7 @@
     },
     "0803701025": {
         "code": "0803701025",
-        "name": "Guintagbucan ",
+        "name": "Guintagbucan",
         "correspondence_code": "083701025",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6042,7 +6042,7 @@
     },
     "0803701032": {
         "code": "0803701032",
-        "name": "Loyonsawang ",
+        "name": "Loyonsawang",
         "correspondence_code": "083701032",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -6107,7 +6107,7 @@
     },
     "0803701039": {
         "code": "0803701039",
-        "name": "Nalibunan ",
+        "name": "Nalibunan",
         "correspondence_code": "083701039",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6225,7 +6225,7 @@
     },
     "0803701052": {
         "code": "0803701052",
-        "name": "Santa Fe ",
+        "name": "Santa Fe",
         "correspondence_code": "083701052",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6235,7 +6235,7 @@
     },
     "0803701053": {
         "code": "0803701053",
-        "name": "Santa Lucia ",
+        "name": "Santa Lucia",
         "correspondence_code": "083701053",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6244,7 +6244,7 @@
     },
     "0803701054": {
         "code": "0803701054",
-        "name": "Santo Niño ",
+        "name": "Santo Niño",
         "correspondence_code": "083701054",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6326,7 +6326,7 @@
     },
     "0803701063": {
         "code": "0803701063",
-        "name": "Victory ",
+        "name": "Victory",
         "correspondence_code": "083701063",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6725,7 +6725,7 @@
     },
     "0803702044": {
         "code": "0803702044",
-        "name": "Santo Niño ",
+        "name": "Santo Niño",
         "correspondence_code": "083702044",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6771,7 +6771,7 @@
     },
     "0803702049": {
         "code": "0803702049",
-        "name": "Blumentritt ",
+        "name": "Blumentritt",
         "correspondence_code": "083702049",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6781,7 +6781,7 @@
     },
     "0803702050": {
         "code": "0803702050",
-        "name": "Holy Child I ",
+        "name": "Holy Child I",
         "correspondence_code": "083702050",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6791,7 +6791,7 @@
     },
     "0803702051": {
         "code": "0803702051",
-        "name": "Holy Child II ",
+        "name": "Holy Child II",
         "correspondence_code": "083702051",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6801,7 +6801,7 @@
     },
     "0803702052": {
         "code": "0803702052",
-        "name": "Milagrosa ",
+        "name": "Milagrosa",
         "correspondence_code": "083702052",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -6821,7 +6821,7 @@
     },
     "0803702054": {
         "code": "0803702054",
-        "name": "San Roque ",
+        "name": "San Roque",
         "correspondence_code": "083702054",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -7630,7 +7630,7 @@
     },
     "0803707006": {
         "code": "0803707006",
-        "name": "Bagong Bayan District ",
+        "name": "Bagong Bayan District",
         "correspondence_code": "083707006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -7703,7 +7703,7 @@
     },
     "0803707015": {
         "code": "0803707015",
-        "name": "Guerrero District ",
+        "name": "Guerrero District",
         "correspondence_code": "083707015",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -7713,7 +7713,7 @@
     },
     "0803707016": {
         "code": "0803707016",
-        "name": "Iniguihan District ",
+        "name": "Iniguihan District",
         "correspondence_code": "083707016",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -7778,7 +7778,7 @@
     },
     "0803707023": {
         "code": "0803707023",
-        "name": "Kalanggaman District ",
+        "name": "Kalanggaman District",
         "correspondence_code": "083707023",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -7833,7 +7833,7 @@
     },
     "0803707031": {
         "code": "0803707031",
-        "name": "Tinago District ",
+        "name": "Tinago District",
         "correspondence_code": "083707031",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -10168,7 +10168,7 @@
     },
     "0803715006": {
         "code": "0803715006",
-        "name": "Baybay ",
+        "name": "Baybay",
         "correspondence_code": "083715006",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -10295,7 +10295,7 @@
     },
     "0803715020": {
         "code": "0803715020",
-        "name": "Jugaban ",
+        "name": "Jugaban",
         "correspondence_code": "083715020",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -10395,7 +10395,7 @@
     },
     "0803715031": {
         "code": "0803715031",
-        "name": "Ponong ",
+        "name": "Ponong",
         "correspondence_code": "083715031",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -10414,7 +10414,7 @@
     },
     "0803715033": {
         "code": "0803715033",
-        "name": "San Mateo ",
+        "name": "San Mateo",
         "correspondence_code": "083715033",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -10433,7 +10433,7 @@
     },
     "0803715035": {
         "code": "0803715035",
-        "name": "Sawang ",
+        "name": "Sawang",
         "correspondence_code": "083715035",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11364,7 +11364,7 @@
     },
     "0803718022": {
         "code": "0803718022",
-        "name": "Barbo ",
+        "name": "Barbo",
         "correspondence_code": "083718022",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11374,7 +11374,7 @@
     },
     "0803718023": {
         "code": "0803718023",
-        "name": "Buntay ",
+        "name": "Buntay",
         "correspondence_code": "083718023",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11384,7 +11384,7 @@
     },
     "0803718024": {
         "code": "0803718024",
-        "name": "Cambula District ",
+        "name": "Cambula District",
         "correspondence_code": "083718024",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11394,7 +11394,7 @@
     },
     "0803718025": {
         "code": "0803718025",
-        "name": "Candao ",
+        "name": "Candao",
         "correspondence_code": "083718025",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11404,7 +11404,7 @@
     },
     "0803718026": {
         "code": "0803718026",
-        "name": "Catmonan ",
+        "name": "Catmonan",
         "correspondence_code": "083718026",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11414,7 +11414,7 @@
     },
     "0803718027": {
         "code": "0803718027",
-        "name": "Combis ",
+        "name": "Combis",
         "correspondence_code": "083718027",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11424,7 +11424,7 @@
     },
     "0803718028": {
         "code": "0803718028",
-        "name": "Highway ",
+        "name": "Highway",
         "correspondence_code": "083718028",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11434,7 +11434,7 @@
     },
     "0803718029": {
         "code": "0803718029",
-        "name": "Market Site ",
+        "name": "Market Site",
         "correspondence_code": "083718029",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -11444,7 +11444,7 @@
     },
     "0803718030": {
         "code": "0803718030",
-        "name": "San Miguel ",
+        "name": "San Miguel",
         "correspondence_code": "083718030",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11454,7 +11454,7 @@
     },
     "0803718031": {
         "code": "0803718031",
-        "name": "Serrano ",
+        "name": "Serrano",
         "correspondence_code": "083718031",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11464,7 +11464,7 @@
     },
     "0803718032": {
         "code": "0803718032",
-        "name": "Sungi ",
+        "name": "Sungi",
         "correspondence_code": "083718032",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -11845,7 +11845,7 @@
     },
     "0803719028": {
         "code": "0803719028",
-        "name": "Central Barangay ",
+        "name": "Central Barangay",
         "correspondence_code": "083719028",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -11855,7 +11855,7 @@
     },
     "0803719029": {
         "code": "0803719029",
-        "name": "Eastern Barangay ",
+        "name": "Eastern Barangay",
         "correspondence_code": "083719029",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -11865,7 +11865,7 @@
     },
     "0803719030": {
         "code": "0803719030",
-        "name": "Western Barangay ",
+        "name": "Western Barangay",
         "correspondence_code": "083719030",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -12572,7 +12572,7 @@
     },
     "0803722013": {
         "code": "0803722013",
-        "name": "Marvel ",
+        "name": "Marvel",
         "correspondence_code": "083722013",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -12636,7 +12636,7 @@
     },
     "0803722021": {
         "code": "0803722021",
-        "name": "Santo Niño ",
+        "name": "Santo Niño",
         "correspondence_code": "083722021",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -12917,7 +12917,7 @@
     },
     "0803723027": {
         "code": "0803723027",
-        "name": "District I ",
+        "name": "District I",
         "correspondence_code": "083723027",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -12927,7 +12927,7 @@
     },
     "0803723028": {
         "code": "0803723028",
-        "name": "District II ",
+        "name": "District II",
         "correspondence_code": "083723028",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -12937,7 +12937,7 @@
     },
     "0803723029": {
         "code": "0803723029",
-        "name": "District III ",
+        "name": "District III",
         "correspondence_code": "083723029",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -12947,7 +12947,7 @@
     },
     "0803723030": {
         "code": "0803723030",
-        "name": "District IV ",
+        "name": "District IV",
         "correspondence_code": "083723030",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -15077,7 +15077,7 @@
     },
     "0803733009": {
         "code": "0803733009",
-        "name": "Bonoy ",
+        "name": "Bonoy",
         "correspondence_code": "083733009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -15087,7 +15087,7 @@
     },
     "0803733010": {
         "code": "0803733010",
-        "name": "Mansalip ",
+        "name": "Mansalip",
         "correspondence_code": "083733010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -15097,7 +15097,7 @@
     },
     "0803733011": {
         "code": "0803733011",
-        "name": "Riverside ",
+        "name": "Riverside",
         "correspondence_code": "083733011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -15107,7 +15107,7 @@
     },
     "0803733012": {
         "code": "0803733012",
-        "name": "Talisay ",
+        "name": "Talisay",
         "correspondence_code": "083733012",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -15325,7 +15325,7 @@
     },
     "0803734016": {
         "code": "0803734016",
-        "name": "San Isidro ",
+        "name": "San Isidro",
         "correspondence_code": "083734016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -15335,7 +15335,7 @@
     },
     "0803734017": {
         "code": "0803734017",
-        "name": "San Pedro ",
+        "name": "San Pedro",
         "correspondence_code": "083734017",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -15345,7 +15345,7 @@
     },
     "0803734018": {
         "code": "0803734018",
-        "name": "Santo Niño ",
+        "name": "Santo Niño",
         "correspondence_code": "083734018",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -16796,7 +16796,7 @@
     },
     "0803739020": {
         "code": "0803739020",
-        "name": "Buri ",
+        "name": "Buri",
         "correspondence_code": "083739020",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -16806,7 +16806,7 @@
     },
     "0803739021": {
         "code": "0803739021",
-        "name": "Cavite East ",
+        "name": "Cavite East",
         "correspondence_code": "083739021",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -16816,7 +16816,7 @@
     },
     "0803739022": {
         "code": "0803739022",
-        "name": "Cavite West ",
+        "name": "Cavite West",
         "correspondence_code": "083739022",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -16826,7 +16826,7 @@
     },
     "0803739023": {
         "code": "0803739023",
-        "name": "Luntad ",
+        "name": "Luntad",
         "correspondence_code": "083739023",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -16836,7 +16836,7 @@
     },
     "0803739024": {
         "code": "0803739024",
-        "name": "Santa Cruz ",
+        "name": "Santa Cruz",
         "correspondence_code": "083739024",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -16900,7 +16900,7 @@
     },
     "0803739031": {
         "code": "0803739031",
-        "name": "San Miguel ",
+        "name": "San Miguel",
         "correspondence_code": "083739031",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17073,7 +17073,7 @@
     },
     "0803740016": {
         "code": "0803740016",
-        "name": "Guiwan 1 ",
+        "name": "Guiwan 1",
         "correspondence_code": "083740016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17083,7 +17083,7 @@
     },
     "0803740017": {
         "code": "0803740017",
-        "name": "Guiwan 2 ",
+        "name": "Guiwan 2",
         "correspondence_code": "083740017",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17193,7 +17193,7 @@
     },
     "0803740030": {
         "code": "0803740030",
-        "name": "Central 1 ",
+        "name": "Central 1",
         "correspondence_code": "083740030",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -17203,7 +17203,7 @@
     },
     "0803740031": {
         "code": "0803740031",
-        "name": "Central 2 ",
+        "name": "Central 2",
         "correspondence_code": "083740031",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -17596,7 +17596,7 @@
     },
     "0803741022": {
         "code": "0803741022",
-        "name": "District 1 ",
+        "name": "District 1",
         "correspondence_code": "083741022",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17606,7 +17606,7 @@
     },
     "0803741023": {
         "code": "0803741023",
-        "name": "District 2 ",
+        "name": "District 2",
         "correspondence_code": "083741023",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17616,7 +17616,7 @@
     },
     "0803741024": {
         "code": "0803741024",
-        "name": "District 3 ",
+        "name": "District 3",
         "correspondence_code": "083741024",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17626,7 +17626,7 @@
     },
     "0803741025": {
         "code": "0803741025",
-        "name": "District 4 ",
+        "name": "District 4",
         "correspondence_code": "083741025",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17709,7 +17709,7 @@
     },
     "0803742004": {
         "code": "0803742004",
-        "name": "Bawod ",
+        "name": "Bawod",
         "correspondence_code": "083742004",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17746,7 +17746,7 @@
     },
     "0803742009": {
         "code": "0803742009",
-        "name": "Capiñahan ",
+        "name": "Capiñahan",
         "correspondence_code": "083742009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17756,7 +17756,7 @@
     },
     "0803742010": {
         "code": "0803742010",
-        "name": "Crossing ",
+        "name": "Crossing",
         "correspondence_code": "083742010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -18148,7 +18148,7 @@
     },
     "0803744009": {
         "code": "0803744009",
-        "name": "Zone 1 ",
+        "name": "Zone 1",
         "correspondence_code": "083744009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -18158,7 +18158,7 @@
     },
     "0803744010": {
         "code": "0803744010",
-        "name": "Zone 2 ",
+        "name": "Zone 2",
         "correspondence_code": "083744010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -18168,7 +18168,7 @@
     },
     "0803744011": {
         "code": "0803744011",
-        "name": "Zone 3 ",
+        "name": "Zone 3",
         "correspondence_code": "083744011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -18546,7 +18546,7 @@
     },
     "0831600": {
         "code": "0831600000",
-        "name": "City of Tacloban ",
+        "name": "City of Tacloban",
         "correspondence_code": "083747000",
         "geographic_level": "City",
         "city_class": "HUC",
@@ -20189,7 +20189,7 @@
     },
     "0803748040": {
         "code": "0803748040",
-        "name": "Buntay ",
+        "name": "Buntay",
         "correspondence_code": "083748040",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -20199,7 +20199,7 @@
     },
     "0803748041": {
         "code": "0803748041",
-        "name": "Canramos ",
+        "name": "Canramos",
         "correspondence_code": "083748041",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -20209,7 +20209,7 @@
     },
     "0803748042": {
         "code": "0803748042",
-        "name": "Licod ",
+        "name": "Licod",
         "correspondence_code": "083748042",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -20219,7 +20219,7 @@
     },
     "0803748043": {
         "code": "0803748043",
-        "name": "San Miguel ",
+        "name": "San Miguel",
         "correspondence_code": "083748043",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -20247,7 +20247,7 @@
     },
     "0803748046": {
         "code": "0803748046",
-        "name": "San Roque ",
+        "name": "San Roque",
         "correspondence_code": "083748046",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -20522,7 +20522,7 @@
     },
     "0803750004": {
         "code": "0803750004",
-        "name": "San Antonio ",
+        "name": "San Antonio",
         "correspondence_code": "083750004",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -20550,7 +20550,7 @@
     },
     "0803750007": {
         "code": "0803750007",
-        "name": "San Vicente ",
+        "name": "San Vicente",
         "correspondence_code": "083750007",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -20560,7 +20560,7 @@
     },
     "0803750008": {
         "code": "0803750008",
-        "name": "Santo Niño ",
+        "name": "Santo Niño",
         "correspondence_code": "083750008",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -20688,7 +20688,7 @@
     },
     "0803751013": {
         "code": "0803751013",
-        "name": "Fatima ",
+        "name": "Fatima",
         "correspondence_code": "083751013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -20971,7 +20971,7 @@
     },
     "0804801008": {
         "code": "0804801008",
-        "name": "Kinabranan Zone I ",
+        "name": "Kinabranan Zone I",
         "correspondence_code": "084801008",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21017,7 +21017,7 @@
     },
     "0804801015": {
         "code": "0804801015",
-        "name": "Sabang Zone I ",
+        "name": "Sabang Zone I",
         "correspondence_code": "084801015",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -21072,7 +21072,7 @@
     },
     "0804801021": {
         "code": "0804801021",
-        "name": "Kinabranan Zone II ",
+        "name": "Kinabranan Zone II",
         "correspondence_code": "084801021",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -21082,7 +21082,7 @@
     },
     "0804801022": {
         "code": "0804801022",
-        "name": "Sabang Zone II ",
+        "name": "Sabang Zone II",
         "correspondence_code": "084801022",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21240,7 +21240,7 @@
     },
     "0804803006": {
         "code": "0804803006",
-        "name": "Gen. Lucban ",
+        "name": "Gen. Lucban",
         "correspondence_code": "084803006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -21317,7 +21317,7 @@
     },
     "0804803016": {
         "code": "0804803016",
-        "name": "San Juan ",
+        "name": "San Juan",
         "correspondence_code": "084803016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -21327,7 +21327,7 @@
     },
     "0804803018": {
         "code": "0804803018",
-        "name": "Santa Clara ",
+        "name": "Santa Clara",
         "correspondence_code": "084803018",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -21482,7 +21482,7 @@
     },
     "0804805": {
         "code": "0804805000",
-        "name": "Catarman ",
+        "name": "Catarman",
         "correspondence_code": "084805000",
         "geographic_level": "Mun",
         "income_classification": "1st",
@@ -21839,7 +21839,7 @@
     },
     "0804805062": {
         "code": "0804805062",
-        "name": "Acacia ",
+        "name": "Acacia",
         "correspondence_code": "084805062",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21849,7 +21849,7 @@
     },
     "0804805063": {
         "code": "0804805063",
-        "name": "Talisay ",
+        "name": "Talisay",
         "correspondence_code": "084805063",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -21859,7 +21859,7 @@
     },
     "0804805064": {
         "code": "0804805064",
-        "name": "Molave ",
+        "name": "Molave",
         "correspondence_code": "084805064",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21869,7 +21869,7 @@
     },
     "0804805065": {
         "code": "0804805065",
-        "name": "Yakal ",
+        "name": "Yakal",
         "correspondence_code": "084805065",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21879,7 +21879,7 @@
     },
     "0804805066": {
         "code": "0804805066",
-        "name": "Ipil-ipil ",
+        "name": "Ipil-ipil",
         "correspondence_code": "084805066",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21889,7 +21889,7 @@
     },
     "0804805067": {
         "code": "0804805067",
-        "name": "Jose Abad Santos ",
+        "name": "Jose Abad Santos",
         "correspondence_code": "084805067",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -21899,7 +21899,7 @@
     },
     "0804805068": {
         "code": "0804805068",
-        "name": "Kasoy ",
+        "name": "Kasoy",
         "correspondence_code": "084805068",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -21909,7 +21909,7 @@
     },
     "0804805069": {
         "code": "0804805069",
-        "name": "Lapu-lapu ",
+        "name": "Lapu-lapu",
         "correspondence_code": "084805069",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21919,7 +21919,7 @@
     },
     "0804805070": {
         "code": "0804805070",
-        "name": "Santol ",
+        "name": "Santol",
         "correspondence_code": "084805070",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21929,7 +21929,7 @@
     },
     "0804805071": {
         "code": "0804805071",
-        "name": "Narra ",
+        "name": "Narra",
         "correspondence_code": "084805071",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21939,7 +21939,7 @@
     },
     "0804805072": {
         "code": "0804805072",
-        "name": "Calachuchi ",
+        "name": "Calachuchi",
         "correspondence_code": "084805072",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21949,7 +21949,7 @@
     },
     "0804805073": {
         "code": "0804805073",
-        "name": "Sampaguita ",
+        "name": "Sampaguita",
         "correspondence_code": "084805073",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21959,7 +21959,7 @@
     },
     "0804805074": {
         "code": "0804805074",
-        "name": "Mabolo ",
+        "name": "Mabolo",
         "correspondence_code": "084805074",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21969,7 +21969,7 @@
     },
     "0804805075": {
         "code": "0804805075",
-        "name": "Jose P. Rizal ",
+        "name": "Jose P. Rizal",
         "correspondence_code": "084805075",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -21988,7 +21988,7 @@
     },
     "0804805077": {
         "code": "0804805077",
-        "name": "Dalakit ",
+        "name": "Dalakit",
         "correspondence_code": "084805077",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -22371,7 +22371,7 @@
     },
     "0804806045": {
         "code": "0804806045",
-        "name": "Barangay 1 ",
+        "name": "Barangay 1",
         "correspondence_code": "084806045",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22381,7 +22381,7 @@
     },
     "0804806046": {
         "code": "0804806046",
-        "name": "Barangay 2 ",
+        "name": "Barangay 2",
         "correspondence_code": "084806046",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22391,7 +22391,7 @@
     },
     "0804806047": {
         "code": "0804806047",
-        "name": "Barangay 3 ",
+        "name": "Barangay 3",
         "correspondence_code": "084806047",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22401,7 +22401,7 @@
     },
     "0804806048": {
         "code": "0804806048",
-        "name": "Barangay 4 ",
+        "name": "Barangay 4",
         "correspondence_code": "084806048",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22411,7 +22411,7 @@
     },
     "0804806049": {
         "code": "0804806049",
-        "name": "Barangay 5 ",
+        "name": "Barangay 5",
         "correspondence_code": "084806049",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22421,7 +22421,7 @@
     },
     "0804806050": {
         "code": "0804806050",
-        "name": "Barangay 6 ",
+        "name": "Barangay 6",
         "correspondence_code": "084806050",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22431,7 +22431,7 @@
     },
     "0804806051": {
         "code": "0804806051",
-        "name": "Barangay 7 ",
+        "name": "Barangay 7",
         "correspondence_code": "084806051",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22441,7 +22441,7 @@
     },
     "0804806052": {
         "code": "0804806052",
-        "name": "Barangay 8 ",
+        "name": "Barangay 8",
         "correspondence_code": "084806052",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22597,7 +22597,7 @@
     },
     "0804807018": {
         "code": "0804807018",
-        "name": "Gamay Central ",
+        "name": "Gamay Central",
         "correspondence_code": "084807018",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22607,7 +22607,7 @@
     },
     "0804807019": {
         "code": "0804807019",
-        "name": "Gamay Occidental I ",
+        "name": "Gamay Occidental I",
         "correspondence_code": "084807019",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22617,7 +22617,7 @@
     },
     "0804807020": {
         "code": "0804807020",
-        "name": "Gamay Oriental I ",
+        "name": "Gamay Oriental I",
         "correspondence_code": "084807020",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22645,7 +22645,7 @@
     },
     "0804807023": {
         "code": "0804807023",
-        "name": "Baybay District ",
+        "name": "Baybay District",
         "correspondence_code": "084807023",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22655,7 +22655,7 @@
     },
     "0804807024": {
         "code": "0804807024",
-        "name": "Burabod ",
+        "name": "Burabod",
         "correspondence_code": "084807024",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22674,7 +22674,7 @@
     },
     "0804807026": {
         "code": "0804807026",
-        "name": "Libertad ",
+        "name": "Libertad",
         "correspondence_code": "084807026",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22684,7 +22684,7 @@
     },
     "0804807027": {
         "code": "0804807027",
-        "name": "Occidental II ",
+        "name": "Occidental II",
         "correspondence_code": "084807027",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22694,7 +22694,7 @@
     },
     "0804807028": {
         "code": "0804807028",
-        "name": "Oriental II ",
+        "name": "Oriental II",
         "correspondence_code": "084807028",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22759,7 +22759,7 @@
     },
     "0804808006": {
         "code": "0804808006",
-        "name": "Baybay ",
+        "name": "Baybay",
         "correspondence_code": "084808006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22950,7 +22950,7 @@
     },
     "0804808029": {
         "code": "0804808029",
-        "name": "Guilaoangi ",
+        "name": "Guilaoangi",
         "correspondence_code": "084808029",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -22996,7 +22996,7 @@
     },
     "0804808034": {
         "code": "0804808034",
-        "name": "Little Venice ",
+        "name": "Little Venice",
         "correspondence_code": "084808034",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -23108,7 +23108,7 @@
     },
     "0804808046": {
         "code": "0804808046",
-        "name": "San Miguel Heights ",
+        "name": "San Miguel Heights",
         "correspondence_code": "084808046",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -23181,7 +23181,7 @@
     },
     "0804808057": {
         "code": "0804808057",
-        "name": "Tumaguingting ",
+        "name": "Tumaguingting",
         "correspondence_code": "084808057",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -23292,7 +23292,7 @@
     },
     "0804809007": {
         "code": "0804809007",
-        "name": "Lapinig Del Sur ",
+        "name": "Lapinig Del Sur",
         "correspondence_code": "084809007",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -23302,7 +23302,7 @@
     },
     "0804809008": {
         "code": "0804809008",
-        "name": "Lapinig Del Norte ",
+        "name": "Lapinig Del Norte",
         "correspondence_code": "084809008",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -23520,7 +23520,7 @@
     },
     "0804810016": {
         "code": "0804810016",
-        "name": "H. Jolejole District ",
+        "name": "H. Jolejole District",
         "correspondence_code": "084810016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -23683,7 +23683,7 @@
     },
     "0804810034": {
         "code": "0804810034",
-        "name": "Quirino District ",
+        "name": "Quirino District",
         "correspondence_code": "084810034",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -23901,7 +23901,7 @@
     },
     "0804811004": {
         "code": "0804811004",
-        "name": "Caburihan ",
+        "name": "Caburihan",
         "correspondence_code": "084811004",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -23911,7 +23911,7 @@
     },
     "0804811005": {
         "code": "0804811005",
-        "name": "Caragas ",
+        "name": "Caragas",
         "correspondence_code": "084811005",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -23921,7 +23921,7 @@
     },
     "0804811006": {
         "code": "0804811006",
-        "name": "Cataogan ",
+        "name": "Cataogan",
         "correspondence_code": "084811006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -24003,7 +24003,7 @@
     },
     "0804811015": {
         "code": "0804811015",
-        "name": "Ocad ",
+        "name": "Ocad",
         "correspondence_code": "084811015",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -24158,7 +24158,7 @@
     },
     "0804812005": {
         "code": "0804812005",
-        "name": "Del Norte ",
+        "name": "Del Norte",
         "correspondence_code": "084812005",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -24168,7 +24168,7 @@
     },
     "0804812006": {
         "code": "0804812006",
-        "name": "Del Sur ",
+        "name": "Del Sur",
         "correspondence_code": "084812006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -24232,7 +24232,7 @@
     },
     "0804812013": {
         "code": "0804812013",
-        "name": "Santa Potenciana ",
+        "name": "Santa Potenciana",
         "correspondence_code": "084812013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -24297,7 +24297,7 @@
     },
     "0804813006": {
         "code": "0804813006",
-        "name": "Chitongco ",
+        "name": "Chitongco",
         "correspondence_code": "084813006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -24325,7 +24325,7 @@
     },
     "0804813009": {
         "code": "0804813009",
-        "name": "Eco ",
+        "name": "Eco",
         "correspondence_code": "084813009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -24480,7 +24480,7 @@
     },
     "0804814001": {
         "code": "0804814001",
-        "name": "Asum ",
+        "name": "Asum",
         "correspondence_code": "084814001",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -24562,7 +24562,7 @@
     },
     "0804814010": {
         "code": "0804814010",
-        "name": "Laniwan ",
+        "name": "Laniwan",
         "correspondence_code": "084814010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -24743,7 +24743,7 @@
     },
     "0804814032": {
         "code": "0804814032",
-        "name": "Tambangan ",
+        "name": "Tambangan",
         "correspondence_code": "084814032",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -24753,7 +24753,7 @@
     },
     "0804814033": {
         "code": "0804814033",
-        "name": "Tinampo ",
+        "name": "Tinampo",
         "correspondence_code": "084814033",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25171,7 +25171,7 @@
     },
     "0804817006": {
         "code": "0804817006",
-        "name": "Ward I ",
+        "name": "Ward I",
         "correspondence_code": "084817006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25208,7 +25208,7 @@
     },
     "0804817010": {
         "code": "0804817010",
-        "name": "Ward II ",
+        "name": "Ward II",
         "correspondence_code": "084817010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25218,7 +25218,7 @@
     },
     "0804817011": {
         "code": "0804817011",
-        "name": "Ward III ",
+        "name": "Ward III",
         "correspondence_code": "084817011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25482,7 +25482,7 @@
     },
     "0804819027": {
         "code": "0804819027",
-        "name": "Barangay North ",
+        "name": "Barangay North",
         "correspondence_code": "084819027",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25492,7 +25492,7 @@
     },
     "0804819028": {
         "code": "0804819028",
-        "name": "Barangay South ",
+        "name": "Barangay South",
         "correspondence_code": "084819028",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25502,7 +25502,7 @@
     },
     "0804819029": {
         "code": "0804819029",
-        "name": "Barangay East ",
+        "name": "Barangay East",
         "correspondence_code": "084819029",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25512,7 +25512,7 @@
     },
     "0804819030": {
         "code": "0804819030",
-        "name": "Barangay West ",
+        "name": "Barangay West",
         "correspondence_code": "084819030",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25622,7 +25622,7 @@
     },
     "0804820011": {
         "code": "0804820011",
-        "name": "Zone 1 ",
+        "name": "Zone 1",
         "correspondence_code": "084820011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25632,7 +25632,7 @@
     },
     "0804820012": {
         "code": "0804820012",
-        "name": "Zone 2 ",
+        "name": "Zone 2",
         "correspondence_code": "084820012",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25642,7 +25642,7 @@
     },
     "0804820013": {
         "code": "0804820013",
-        "name": "Zone 3 ",
+        "name": "Zone 3",
         "correspondence_code": "084820013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25652,7 +25652,7 @@
     },
     "0804820014": {
         "code": "0804820014",
-        "name": "Zone 4 ",
+        "name": "Zone 4",
         "correspondence_code": "084820014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25662,7 +25662,7 @@
     },
     "0804820015": {
         "code": "0804820015",
-        "name": "Zone 5 ",
+        "name": "Zone 5",
         "correspondence_code": "084820015",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25672,7 +25672,7 @@
     },
     "0804820016": {
         "code": "0804820016",
-        "name": "Zone 6 ",
+        "name": "Zone 6",
         "correspondence_code": "084820016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -25930,7 +25930,7 @@
     },
     "0804822019": {
         "code": "0804822019",
-        "name": "Suba ",
+        "name": "Suba",
         "correspondence_code": "084822019",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -26103,7 +26103,7 @@
     },
     "0804823012": {
         "code": "0804823012",
-        "name": "Zone I ",
+        "name": "Zone I",
         "correspondence_code": "084823012",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -26113,7 +26113,7 @@
     },
     "0804823013": {
         "code": "0804823013",
-        "name": "Zone II ",
+        "name": "Zone II",
         "correspondence_code": "084823013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -26123,7 +26123,7 @@
     },
     "0804823014": {
         "code": "0804823014",
-        "name": "Zone III ",
+        "name": "Zone III",
         "correspondence_code": "084823014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -26251,7 +26251,7 @@
     },
     "0804824010": {
         "code": "0804824010",
-        "name": "Lope De Vega ",
+        "name": "Lope De Vega",
         "correspondence_code": "084824010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -26898,7 +26898,7 @@
     },
     "0806002034": {
         "code": "0806002034",
-        "name": "Baybay ",
+        "name": "Baybay",
         "correspondence_code": "086002034",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -26908,7 +26908,7 @@
     },
     "0806002035": {
         "code": "0806002035",
-        "name": "Buscada ",
+        "name": "Buscada",
         "correspondence_code": "086002035",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -26918,7 +26918,7 @@
     },
     "0806002036": {
         "code": "0806002036",
-        "name": "Lawa-an ",
+        "name": "Lawa-an",
         "correspondence_code": "086002036",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -26928,7 +26928,7 @@
     },
     "0806002037": {
         "code": "0806002037",
-        "name": "Loyo ",
+        "name": "Loyo",
         "correspondence_code": "086002037",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -26938,7 +26938,7 @@
     },
     "0806002038": {
         "code": "0806002038",
-        "name": "Mercado ",
+        "name": "Mercado",
         "correspondence_code": "086002038",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -26948,7 +26948,7 @@
     },
     "0806002039": {
         "code": "0806002039",
-        "name": "Palaypay ",
+        "name": "Palaypay",
         "correspondence_code": "086002039",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -26958,7 +26958,7 @@
     },
     "0806002040": {
         "code": "0806002040",
-        "name": "Sulod ",
+        "name": "Sulod",
         "correspondence_code": "086002040",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -27159,7 +27159,7 @@
     },
     "0806003010": {
         "code": "0806003010",
-        "name": "Balud ",
+        "name": "Balud",
         "correspondence_code": "086003010",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -27466,7 +27466,7 @@
     },
     "0806003048": {
         "code": "0806003048",
-        "name": "Central ",
+        "name": "Central",
         "correspondence_code": "086003048",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -27683,7 +27683,7 @@
     },
     "0806003074": {
         "code": "0806003074",
-        "name": "Aguit-itan ",
+        "name": "Aguit-itan",
         "correspondence_code": "086003074",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -28002,7 +28002,7 @@
     },
     "0806003114": {
         "code": "0806003114",
-        "name": "Oquendo ",
+        "name": "Oquendo",
         "correspondence_code": "086003114",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -28369,7 +28369,7 @@
     },
     "0806003158": {
         "code": "0806003158",
-        "name": "Awang East ",
+        "name": "Awang East",
         "correspondence_code": "086003158",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -28379,7 +28379,7 @@
     },
     "0806003159": {
         "code": "0806003159",
-        "name": "Awang West ",
+        "name": "Awang West",
         "correspondence_code": "086003159",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -28759,7 +28759,7 @@
     },
     "0806004028": {
         "code": "0806004028",
-        "name": "Barangay 1 ",
+        "name": "Barangay 1",
         "correspondence_code": "086004028",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -28769,7 +28769,7 @@
     },
     "0806004029": {
         "code": "0806004029",
-        "name": "Barangay 2 ",
+        "name": "Barangay 2",
         "correspondence_code": "086004029",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -28779,7 +28779,7 @@
     },
     "0806004030": {
         "code": "0806004030",
-        "name": "Barangay 3 ",
+        "name": "Barangay 3",
         "correspondence_code": "086004030",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -28789,7 +28789,7 @@
     },
     "0806004031": {
         "code": "0806004031",
-        "name": "Barangay 4 ",
+        "name": "Barangay 4",
         "correspondence_code": "086004031",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -28799,7 +28799,7 @@
     },
     "0806004032": {
         "code": "0806004032",
-        "name": "Barangay 5 ",
+        "name": "Barangay 5",
         "correspondence_code": "086004032",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -28809,7 +28809,7 @@
     },
     "0806004033": {
         "code": "0806004033",
-        "name": "Barangay 6 ",
+        "name": "Barangay 6",
         "correspondence_code": "086004033",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -28819,7 +28819,7 @@
     },
     "0806004034": {
         "code": "0806004034",
-        "name": "Barangay 7 ",
+        "name": "Barangay 7",
         "correspondence_code": "086004034",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -28901,7 +28901,7 @@
     },
     "0806005": {
         "code": "0806005000",
-        "name": "City of Catbalogan ",
+        "name": "City of Catbalogan",
         "correspondence_code": "086005000",
         "geographic_level": "City",
         "city_class": "CC",
@@ -29021,7 +29021,7 @@
     },
     "0806005014": {
         "code": "0806005014",
-        "name": "Canlapwas ",
+        "name": "Canlapwas",
         "correspondence_code": "086005014",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -30004,7 +30004,7 @@
     },
     "0806007008": {
         "code": "0806007008",
-        "name": "Burabod I ",
+        "name": "Burabod I",
         "correspondence_code": "086007008",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -30014,7 +30014,7 @@
     },
     "0806007009": {
         "code": "0806007009",
-        "name": "Burabod II ",
+        "name": "Burabod II",
         "correspondence_code": "086007009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -30123,7 +30123,7 @@
     },
     "0806007031": {
         "code": "0806007031",
-        "name": "Dumalo-ong ",
+        "name": "Dumalo-ong",
         "correspondence_code": "086007031",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -30223,7 +30223,7 @@
     },
     "0806007052": {
         "code": "0806007052",
-        "name": "Minda ",
+        "name": "Minda",
         "correspondence_code": "086007052",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -30523,7 +30523,7 @@
     },
     "0806007094": {
         "code": "0806007094",
-        "name": "Adela Heights ",
+        "name": "Adela Heights",
         "correspondence_code": "086007094",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31007,7 +31007,7 @@
     },
     "0806009024": {
         "code": "0806009024",
-        "name": "Barangay No. 1 ",
+        "name": "Barangay No. 1",
         "correspondence_code": "086009024",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31017,7 +31017,7 @@
     },
     "0806009025": {
         "code": "0806009025",
-        "name": "Barangay No. 2 ",
+        "name": "Barangay No. 2",
         "correspondence_code": "086009025",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31027,7 +31027,7 @@
     },
     "0806009026": {
         "code": "0806009026",
-        "name": "Barangay No. 3 ",
+        "name": "Barangay No. 3",
         "correspondence_code": "086009026",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31037,7 +31037,7 @@
     },
     "0806009027": {
         "code": "0806009027",
-        "name": "Barangay No. 4 ",
+        "name": "Barangay No. 4",
         "correspondence_code": "086009027",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31047,7 +31047,7 @@
     },
     "0806009028": {
         "code": "0806009028",
-        "name": "Barangay No. 5 ",
+        "name": "Barangay No. 5",
         "correspondence_code": "086009028",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31057,7 +31057,7 @@
     },
     "0806009029": {
         "code": "0806009029",
-        "name": "Barangay No. 6 ",
+        "name": "Barangay No. 6",
         "correspondence_code": "086009029",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31067,7 +31067,7 @@
     },
     "0806009030": {
         "code": "0806009030",
-        "name": "Barangay No. 7 ",
+        "name": "Barangay No. 7",
         "correspondence_code": "086009030",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31077,7 +31077,7 @@
     },
     "0806009031": {
         "code": "0806009031",
-        "name": "Barangay No. 8 ",
+        "name": "Barangay No. 8",
         "correspondence_code": "086009031",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31223,7 +31223,7 @@
     },
     "0806010009": {
         "code": "0806010009",
-        "name": "Pinamitinan ",
+        "name": "Pinamitinan",
         "correspondence_code": "086010009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31863,7 +31863,7 @@
     },
     "0806013002": {
         "code": "0806013002",
-        "name": "Barangay I ",
+        "name": "Barangay I",
         "correspondence_code": "086013002",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -31873,7 +31873,7 @@
     },
     "0806013003": {
         "code": "0806013003",
-        "name": "Barangay II ",
+        "name": "Barangay II",
         "correspondence_code": "086013003",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -32154,7 +32154,7 @@
     },
     "0806014010": {
         "code": "0806014010",
-        "name": "Barangay 1 ",
+        "name": "Barangay 1",
         "correspondence_code": "086014010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -32164,7 +32164,7 @@
     },
     "0806014011": {
         "code": "0806014011",
-        "name": "Barangay 2 ",
+        "name": "Barangay 2",
         "correspondence_code": "086014011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -32174,7 +32174,7 @@
     },
     "0806014012": {
         "code": "0806014012",
-        "name": "Barangay 3 ",
+        "name": "Barangay 3",
         "correspondence_code": "086014012",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -32184,7 +32184,7 @@
     },
     "0806014013": {
         "code": "0806014013",
-        "name": "Barangay 4 ",
+        "name": "Barangay 4",
         "correspondence_code": "086014013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -32421,7 +32421,7 @@
     },
     "0806016009": {
         "code": "0806016009",
-        "name": "Cautod ",
+        "name": "Cautod",
         "correspondence_code": "086016009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -32566,7 +32566,7 @@
     },
     "0806016025": {
         "code": "0806016025",
-        "name": "Monbon ",
+        "name": "Monbon",
         "correspondence_code": "086016025",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -33022,7 +33022,7 @@
     },
     "0806017038": {
         "code": "0806017038",
-        "name": "Rosal Pob. ",
+        "name": "Rosal Pob.",
         "correspondence_code": "086017038",
         "geographic_level": "Bgy",
         "old_names": "Zone IV",
@@ -33070,7 +33070,7 @@
     },
     "0806018003": {
         "code": "0806018003",
-        "name": "Basud ",
+        "name": "Basud",
         "correspondence_code": "086018003",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -33116,7 +33116,7 @@
     },
     "0806018008": {
         "code": "0806018008",
-        "name": "Ilo ",
+        "name": "Ilo",
         "correspondence_code": "086018008",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -33834,7 +33834,7 @@
     },
     "0806021019": {
         "code": "0806021019",
-        "name": "Mercado ",
+        "name": "Mercado",
         "correspondence_code": "086021019",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -33844,7 +33844,7 @@
     },
     "0806021020": {
         "code": "0806021020",
-        "name": "Miramar ",
+        "name": "Miramar",
         "correspondence_code": "086021020",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -33899,7 +33899,7 @@
     },
     "0806021026": {
         "code": "0806021026",
-        "name": "Central ",
+        "name": "Central",
         "correspondence_code": "086021026",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -33973,7 +33973,7 @@
     },
     "0806021040": {
         "code": "0806021040",
-        "name": "Soledad ",
+        "name": "Soledad",
         "correspondence_code": "086021040",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -33983,7 +33983,7 @@
     },
     "0806021041": {
         "code": "0806021041",
-        "name": "Tayud ",
+        "name": "Tayud",
         "correspondence_code": "086021041",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -34767,7 +34767,7 @@
     },
     "0806024011": {
         "code": "0806024011",
-        "name": "Sugod ",
+        "name": "Sugod",
         "correspondence_code": "086024011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -34787,7 +34787,7 @@
     },
     "0806024014": {
         "code": "0806024014",
-        "name": "San Jose ",
+        "name": "San Jose",
         "correspondence_code": "086024014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -35023,7 +35023,7 @@
     },
     "0806025024": {
         "code": "0806025024",
-        "name": "San Jorge I ",
+        "name": "San Jorge I",
         "correspondence_code": "086025024",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -35142,7 +35142,7 @@
     },
     "0806025037": {
         "code": "0806025037",
-        "name": "Mancol ",
+        "name": "Mancol",
         "correspondence_code": "086025037",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -35170,7 +35170,7 @@
     },
     "0806025040": {
         "code": "0806025040",
-        "name": "San Jorge II ",
+        "name": "San Jorge II",
         "correspondence_code": "086025040",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -35271,7 +35271,7 @@
     },
     "0806026013": {
         "code": "0806026013",
-        "name": "Canlapwas ",
+        "name": "Canlapwas",
         "correspondence_code": "086026013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -36276,7 +36276,7 @@
     },
     "0806404008": {
         "code": "0806404008",
-        "name": "District I ",
+        "name": "District I",
         "correspondence_code": "086404008",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -36286,7 +36286,7 @@
     },
     "0806404009": {
         "code": "0806404009",
-        "name": "District II ",
+        "name": "District II",
         "correspondence_code": "086404009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -36296,7 +36296,7 @@
     },
     "0806404010": {
         "code": "0806404010",
-        "name": "District III ",
+        "name": "District III",
         "correspondence_code": "086404010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -36415,7 +36415,7 @@
     },
     "0806405005": {
         "code": "0806405005",
-        "name": "Jubas ",
+        "name": "Jubas",
         "correspondence_code": "086405005",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -36488,7 +36488,7 @@
     },
     "0806405013": {
         "code": "0806405013",
-        "name": "Talisay ",
+        "name": "Talisay",
         "correspondence_code": "086405013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -36734,7 +36734,7 @@
     },
     "0806407": {
         "code": "0806407000",
-        "name": "City of Maasin ",
+        "name": "City of Maasin",
         "correspondence_code": "086407000",
         "geographic_level": "City",
         "city_class": "CC",
@@ -36746,7 +36746,7 @@
     },
     "0806407001": {
         "code": "0806407001",
-        "name": "Abgao ",
+        "name": "Abgao",
         "correspondence_code": "086407001",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -37080,7 +37080,7 @@
     },
     "0806407038": {
         "code": "0806407038",
-        "name": "Mambajao ",
+        "name": "Mambajao",
         "correspondence_code": "086407038",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -37099,7 +37099,7 @@
     },
     "0806407040": {
         "code": "0806407040",
-        "name": "Mantahan ",
+        "name": "Mantahan",
         "correspondence_code": "086407040",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -37271,7 +37271,7 @@
     },
     "0806407059": {
         "code": "0806407059",
-        "name": "Tagnipa ",
+        "name": "Tagnipa",
         "correspondence_code": "086407059",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -37317,7 +37317,7 @@
     },
     "0806407064": {
         "code": "0806407064",
-        "name": "Tunga-tunga ",
+        "name": "Tunga-tunga",
         "correspondence_code": "086407064",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -37636,7 +37636,7 @@
     },
     "0806408030": {
         "code": "0806408030",
-        "name": "Santa Cruz ",
+        "name": "Santa Cruz",
         "correspondence_code": "086408030",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -37646,7 +37646,7 @@
     },
     "0806408031": {
         "code": "0806408031",
-        "name": "Santo Rosario ",
+        "name": "Santo Rosario",
         "correspondence_code": "086408031",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -37711,7 +37711,7 @@
     },
     "0806409005": {
         "code": "0806409005",
-        "name": "Cabul-anonan ",
+        "name": "Cabul-anonan",
         "correspondence_code": "086409005",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -37811,7 +37811,7 @@
     },
     "0806409016": {
         "code": "0806409016",
-        "name": "Pasil ",
+        "name": "Pasil",
         "correspondence_code": "086409016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -37830,7 +37830,7 @@
     },
     "0806409018": {
         "code": "0806409018",
-        "name": "San Antonio ",
+        "name": "San Antonio",
         "correspondence_code": "086409018",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -37885,7 +37885,7 @@
     },
     "0806409024": {
         "code": "0806409024",
-        "name": "Taliwa ",
+        "name": "Taliwa",
         "correspondence_code": "086409024",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -38430,7 +38430,7 @@
     },
     "0806412010": {
         "code": "0806412010",
-        "name": "Himatagon ",
+        "name": "Himatagon",
         "correspondence_code": "086412010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -38648,7 +38648,7 @@
     },
     "0806413003": {
         "code": "0806413003",
-        "name": "Central ",
+        "name": "Central",
         "correspondence_code": "086413003",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -38658,7 +38658,7 @@
     },
     "0806413004": {
         "code": "0806413004",
-        "name": "Dakit ",
+        "name": "Dakit",
         "correspondence_code": "086413004",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -38749,7 +38749,7 @@
     },
     "0806413014": {
         "code": "0806413014",
-        "name": "Ubos ",
+        "name": "Ubos",
         "correspondence_code": "086413014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -38914,7 +38914,7 @@
     },
     "0806414009": {
         "code": "0806414009",
-        "name": "San Jose ",
+        "name": "San Jose",
         "correspondence_code": "086414009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -38933,7 +38933,7 @@
     },
     "0806414011": {
         "code": "0806414011",
-        "name": "Santa Cruz ",
+        "name": "Santa Cruz",
         "correspondence_code": "086414011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -38943,7 +38943,7 @@
     },
     "0806414012": {
         "code": "0806414012",
-        "name": "Santo Niño ",
+        "name": "Santo Niño",
         "correspondence_code": "086414012",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -39542,7 +39542,7 @@
     },
     "0806417027": {
         "code": "0806417027",
-        "name": "Zone I ",
+        "name": "Zone I",
         "correspondence_code": "086417027",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -39552,7 +39552,7 @@
     },
     "0806417028": {
         "code": "0806417028",
-        "name": "Zone II ",
+        "name": "Zone II",
         "correspondence_code": "086417028",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -39562,7 +39562,7 @@
     },
     "0806417029": {
         "code": "0806417029",
-        "name": "Zone III ",
+        "name": "Zone III",
         "correspondence_code": "086417029",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -39572,7 +39572,7 @@
     },
     "0806417030": {
         "code": "0806417030",
-        "name": "Zone IV ",
+        "name": "Zone IV",
         "correspondence_code": "086417030",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -39582,7 +39582,7 @@
     },
     "0806417031": {
         "code": "0806417031",
-        "name": "Zone V ",
+        "name": "Zone V",
         "correspondence_code": "086417031",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -39738,7 +39738,7 @@
     },
     "0806418002": {
         "code": "0806418002",
-        "name": "Banday ",
+        "name": "Banday",
         "correspondence_code": "086418002",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -39748,7 +39748,7 @@
     },
     "0806418003": {
         "code": "0806418003",
-        "name": "Bogo ",
+        "name": "Bogo",
         "correspondence_code": "086418003",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -39776,7 +39776,7 @@
     },
     "0806418006": {
         "code": "0806418006",
-        "name": "Cambite ",
+        "name": "Cambite",
         "correspondence_code": "086418006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40268,7 +40268,7 @@
     },
     "0807802008": {
         "code": "0807802008",
-        "name": "San Isidro ",
+        "name": "San Isidro",
         "correspondence_code": "087802008",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40278,7 +40278,7 @@
     },
     "0807802009": {
         "code": "0807802009",
-        "name": "San Roque ",
+        "name": "San Roque",
         "correspondence_code": "087802009",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40362,7 +40362,7 @@
     },
     "0807803007": {
         "code": "0807803007",
-        "name": "Esperanza ",
+        "name": "Esperanza",
         "correspondence_code": "087803007",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40399,7 +40399,7 @@
     },
     "0807803011": {
         "code": "0807803011",
-        "name": "Magbangon ",
+        "name": "Magbangon",
         "correspondence_code": "087803011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40537,7 +40537,7 @@
     },
     "0807804012": {
         "code": "0807804012",
-        "name": "Palanay ",
+        "name": "Palanay",
         "correspondence_code": "087804012",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40547,7 +40547,7 @@
     },
     "0807804013": {
         "code": "0807804013",
-        "name": "Palengke ",
+        "name": "Palengke",
         "correspondence_code": "087804013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40584,7 +40584,7 @@
     },
     "0807804017": {
         "code": "0807804017",
-        "name": "Victory ",
+        "name": "Victory",
         "correspondence_code": "087804017",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40641,7 +40641,7 @@
     },
     "0807805004": {
         "code": "0807805004",
-        "name": "Bool Central ",
+        "name": "Bool Central",
         "correspondence_code": "087805004",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40651,7 +40651,7 @@
     },
     "0807805005": {
         "code": "0807805005",
-        "name": "Bool East ",
+        "name": "Bool East",
         "correspondence_code": "087805005",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40661,7 +40661,7 @@
     },
     "0807805006": {
         "code": "0807805006",
-        "name": "Bool West ",
+        "name": "Bool West",
         "correspondence_code": "087805006",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40707,7 +40707,7 @@
     },
     "0807805011": {
         "code": "0807805011",
-        "name": "Marvel ",
+        "name": "Marvel",
         "correspondence_code": "087805011",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40735,7 +40735,7 @@
     },
     "0807805014": {
         "code": "0807805014",
-        "name": "Culaba Central ",
+        "name": "Culaba Central",
         "correspondence_code": "087805014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -40763,7 +40763,7 @@
     },
     "0807805017": {
         "code": "0807805017",
-        "name": "Virginia ",
+        "name": "Virginia",
         "correspondence_code": "087805017",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -41111,7 +41111,7 @@
     },
     "0807808": {
         "code": "0807808000",
-        "name": "Naval ",
+        "name": "Naval",
         "correspondence_code": "087808000",
         "geographic_level": "Mun",
         "income_classification": "2nd",
@@ -41194,7 +41194,7 @@
     },
     "0807808009": {
         "code": "0807808009",
-        "name": "Padre Inocentes Garcia ",
+        "name": "Padre Inocentes Garcia",
         "correspondence_code": "087808009",
         "geographic_level": "Bgy",
         "urban_rural": "U",

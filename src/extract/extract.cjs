@@ -1,4 +1,4 @@
-const {mapKeys} = require('lodash');
+const { mapKeys } = require('lodash');
 const xlsx = require('xlsx');
 const fs = require('fs');
 
@@ -19,6 +19,7 @@ for (let index = 1; index <= 19; index++) {
             if (index == 13) multiplier = 10000000
             let regCode = index * multiplier
             if (numCode >= regCode && numCode < (regCode + multiplier)) {
+                item.name = item.name.trim()
                 if (item.geographic_level) {
                     let code = index != 13 ? item.code.toString() : item.correspondence_code.toString()
                     let tempCode = ''
