@@ -1,14 +1,15 @@
 <script setup>
-    import PSGC from "../../src/index.js";
+    import PSGC from "../../src/index.js"
     import pkg from '../../package.json'
     import Demo from "./Demo.vue"
+    import Version from "./Version.vue"
 </script>
 
 # Introduction
 
 A collection of philippine geographic data based on PSGC
 
-**Version: {{ pkg.version }}**
+<Version />
 
 ## Demo
 
