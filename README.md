@@ -21,7 +21,7 @@ A collection of philippine geographic data based on PSGC
 
 ## Latest Update
 
-As of **4Q 2022** publication
+As of **1Q 2023** publication
 
 ## Get Started
 

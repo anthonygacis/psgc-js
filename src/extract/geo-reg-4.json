@@ -2341,6 +2341,7 @@
         "name": "City of Calaca",
         "correspondence_code": "041007000",
         "geographic_level": "City",
+        "city_class": "CC",
         "income_classification": "1st (as Mun)",
         "urban_rural": "",
         "population_2015": 81859,
