@@ -6177,9 +6177,10 @@
     },
     "0301420007": {
         "code": "0301420007",
-        "name": "Muzon",
+        "name": "Muzon Proper",
         "correspondence_code": "031420007",
         "geographic_level": "Bgy",
+        "old_names": "Muzon",
         "urban_rural": "U",
         "population_2015": 106603,
         "population_2020": 127506
@@ -6651,6 +6652,33 @@
         "urban_rural": "R",
         "population_2015": 2326,
         "population_2020": 2470
+    },
+    "0301420060": {
+        "code": "0301420060",
+        "name": "Muzon East",
+        "geographic_level": "Bgy",
+        "old_names": "Muzon",
+        "urban_rural": "-",
+        "population_2015": "-",
+        "population_2020": "-"
+    },
+    "0301420061": {
+        "code": "0301420061",
+        "name": "Muzon South",
+        "geographic_level": "Bgy",
+        "old_names": "Muzon",
+        "urban_rural": "-",
+        "population_2015": "-",
+        "population_2020": "-"
+    },
+    "0301420062": {
+        "code": "0301420062",
+        "name": "Muzon West",
+        "geographic_level": "Bgy",
+        "old_names": "Muzon",
+        "urban_rural": "-",
+        "population_2015": "-",
+        "population_2020": "-"
     },
     "0301421": {
         "code": "0301421000",

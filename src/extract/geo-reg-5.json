@@ -17345,7 +17345,7 @@
     },
     "0501729014": {
         "code": "0501729014",
-        "name": "Pagsangahan",
+        "name": "Pagsangaan",
         "correspondence_code": "051729014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17372,7 +17372,7 @@
     },
     "0501729018": {
         "code": "0501729018",
-        "name": "Santa Maria",
+        "name": "Sta. Maria",
         "correspondence_code": "051729018",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -26428,7 +26428,7 @@
     },
     "0504116": {
         "code": "0504116000",
-        "name": "Pio V. Corpuz",
+        "name": "Pio V. Corpus",
         "correspondence_code": "054116000",
         "geographic_level": "Mun",
         "old_names": "Limbuhan",
