@@ -19,6 +19,6 @@ hero:
 features:
   - icon: 🚀
     title: Latest Update
-    details: As of 1Q 2023 publication
+    details: As of 2Q 2023 publication
 ---
 
