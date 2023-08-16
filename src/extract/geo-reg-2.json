@@ -685,7 +685,7 @@
     },
     "0201502014": {
         "code": "0201502014",
-        "name": "Jurisdiction",
+        "name": "Jurisdiccion",
         "correspondence_code": "021502014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -9120,7 +9120,7 @@
     },
     "0203103010": {
         "code": "0203103010",
-        "name": "Dalig-Kalinga",
+        "name": "Dalig Kalinga",
         "correspondence_code": "023103010",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -9174,7 +9174,7 @@
     },
     "0203103016": {
         "code": "0203103016",
-        "name": "Rizaluna",
+        "name": "Rizalina",
         "correspondence_code": "023103016",
         "geographic_level": "Bgy",
         "old_names": "Lapuz",
@@ -13133,7 +13133,7 @@
     },
     "0203115033": {
         "code": "0203115033",
-        "name": "Pongpongan",
+        "name": "Pungpongan",
         "correspondence_code": "023115033",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -13444,7 +13444,7 @@
     },
     "0203117002": {
         "code": "0203117002",
-        "name": "Eleonor",
+        "name": "Eleanor",
         "correspondence_code": "023117002",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -13750,7 +13750,7 @@
     },
     "0203118025": {
         "code": "0203118025",
-        "name": "Santo Rosario",
+        "name": "Sto. Rosario",
         "correspondence_code": "023118025",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -13795,7 +13795,7 @@
     },
     "0203118030": {
         "code": "0203118030",
-        "name": "Caloocan",
+        "name": "Calaocan",
         "correspondence_code": "023118030",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -14366,7 +14366,7 @@
     },
     "0203121016": {
         "code": "0203121016",
-        "name": "Diddadungan",
+        "name": "Didaddungan",
         "correspondence_code": "023121016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -14652,7 +14652,7 @@
     },
     "0203123013": {
         "code": "0203123013",
-        "name": "Santa Catalina",
+        "name": "Sta. Catalina",
         "correspondence_code": "023123013",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -14680,7 +14680,7 @@
     },
     "0203123016": {
         "code": "0203123016",
-        "name": "Santo Domingo",
+        "name": "Sto. Domingo",
         "correspondence_code": "023123016",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -15030,7 +15030,7 @@
     },
     "0203125012": {
         "code": "0203125012",
-        "name": "Napaccu Grande",
+        "name": "Nappaccu Grande",
         "correspondence_code": "023125012",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -15039,7 +15039,7 @@
     },
     "0203125013": {
         "code": "0203125013",
-        "name": "Napaccu Pequeño",
+        "name": "Nappaccu Pequeño",
         "correspondence_code": "023125013",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -15048,7 +15048,7 @@
     },
     "0203125014": {
         "code": "0203125014",
-        "name": "Salucong",
+        "name": "Sallucong",
         "correspondence_code": "023125014",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -16120,7 +16120,7 @@
     },
     "0203130019": {
         "code": "0203130019",
-        "name": "Santa Cruz",
+        "name": "Sta. Cruz",
         "correspondence_code": "023130019",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -17951,7 +17951,7 @@
     },
     "0203137027": {
         "code": "0203137027",
-        "name": "Santa Visitacion",
+        "name": "Sta. Visitacion",
         "correspondence_code": "023137027",
         "geographic_level": "Bgy",
         "old_names": "Maggayu",
@@ -18100,7 +18100,7 @@
     },
     "0203137046": {
         "code": "0203137046",
-        "name": "Santa Catalina",
+        "name": "Sta. Catalina",
         "correspondence_code": "023137046",
         "geographic_level": "Bgy",
         "urban_rural": "R",
@@ -18109,7 +18109,7 @@
     },
     "0203137047": {
         "code": "0203137047",
-        "name": "Santo Niño",
+        "name": "Sto. Niño",
         "correspondence_code": "023137047",
         "geographic_level": "Bgy",
         "urban_rural": "R",
