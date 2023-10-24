@@ -10764,33 +10764,6 @@
         "population_2015": 600609,
         "population_2020": 664625
     },
-    "0402103001": {
-        "code": "0402103001",
-        "name": "Alima",
-        "correspondence_code": "042103001",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 5853,
-        "population_2020": 5639
-    },
-    "0402103002": {
-        "code": "0402103002",
-        "name": "Aniban I",
-        "correspondence_code": "042103002",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 3372,
-        "population_2020": 3341
-    },
-    "0402103003": {
-        "code": "0402103003",
-        "name": "Banalo",
-        "correspondence_code": "042103003",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2847,
-        "population_2020": 2848
-    },
     "0402103004": {
         "code": "0402103004",
         "name": "Bayanan",
@@ -10799,24 +10772,6 @@
         "urban_rural": "U",
         "population_2015": 11522,
         "population_2020": 11168
-    },
-    "0402103005": {
-        "code": "0402103005",
-        "name": "Daang Bukid",
-        "correspondence_code": "042103005",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2967,
-        "population_2020": 2839
-    },
-    "0402103006": {
-        "code": "0402103006",
-        "name": "Digman",
-        "correspondence_code": "042103006",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2249,
-        "population_2020": 2078
     },
     "0402103007": {
         "code": "0402103007",
@@ -10836,37 +10791,9 @@
         "population_2015": 17747,
         "population_2020": 19965
     },
-    "0402103009": {
-        "code": "0402103009",
-        "name": "Kaingin",
-        "correspondence_code": "042103009",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 3688,
-        "population_2020": 3503,
-        "status": "Pob."
-    },
-    "0402103010": {
-        "code": "0402103010",
-        "name": "Ligas I",
-        "correspondence_code": "042103010",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 4375,
-        "population_2020": 4796
-    },
-    "0402103011": {
-        "code": "0402103011",
-        "name": "Mabolo I",
-        "correspondence_code": "042103011",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 997,
-        "population_2020": 1430
-    },
     "0402103012": {
         "code": "0402103012",
-        "name": "Maliksi I",
+        "name": "Maliksi 1",
         "correspondence_code": "042103012",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -10875,7 +10802,7 @@
     },
     "0402103013": {
         "code": "0402103013",
-        "name": "Mambog I",
+        "name": "Mambog 1",
         "correspondence_code": "042103013",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -10891,33 +10818,15 @@
         "population_2015": 11926,
         "population_2020": 16627
     },
-    "0402103015": {
-        "code": "0402103015",
-        "name": "Niog I",
-        "correspondence_code": "042103015",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 5769,
-        "population_2020": 5119
-    },
     "0402103018": {
         "code": "0402103018",
-        "name": "P.F. Espiritu I",
+        "name": "P.F. Espiritu 1",
         "correspondence_code": "042103018",
         "geographic_level": "Bgy",
         "old_names": "Panapaan",
         "urban_rural": "U",
         "population_2015": 4070,
         "population_2020": 4304
-    },
-    "0402103019": {
-        "code": "0402103019",
-        "name": "Real I",
-        "correspondence_code": "042103019",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 4890,
-        "population_2020": 5282
     },
     "0402103020": {
         "code": "0402103020",
@@ -10930,48 +10839,12 @@
     },
     "0402103021": {
         "code": "0402103021",
-        "name": "San Nicolas I",
+        "name": "San Nicolas 1",
         "correspondence_code": "042103021",
         "geographic_level": "Bgy",
         "urban_rural": "U",
         "population_2015": 7235,
         "population_2020": 8003
-    },
-    "0402103022": {
-        "code": "0402103022",
-        "name": "Sineguelasan",
-        "correspondence_code": "042103022",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 6073,
-        "population_2020": 5561
-    },
-    "0402103023": {
-        "code": "0402103023",
-        "name": "Tabing Dagat",
-        "correspondence_code": "042103023",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 3902,
-        "population_2020": 3424
-    },
-    "0402103024": {
-        "code": "0402103024",
-        "name": "Talaba I",
-        "correspondence_code": "042103024",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2757,
-        "population_2020": 1851
-    },
-    "0402103025": {
-        "code": "0402103025",
-        "name": "Zapote I",
-        "correspondence_code": "042103025",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 6244,
-        "population_2020": 5846
     },
     "0402103026": {
         "code": "0402103026",
@@ -11000,51 +10873,6 @@
         "population_2015": 12763,
         "population_2020": 10610
     },
-    "0402103029": {
-        "code": "0402103029",
-        "name": "Aniban II",
-        "correspondence_code": "042103029",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 3267,
-        "population_2020": 3278
-    },
-    "0402103030": {
-        "code": "0402103030",
-        "name": "Aniban III",
-        "correspondence_code": "042103030",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 900,
-        "population_2020": 837
-    },
-    "0402103031": {
-        "code": "0402103031",
-        "name": "Aniban IV",
-        "correspondence_code": "042103031",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2003,
-        "population_2020": 1902
-    },
-    "0402103032": {
-        "code": "0402103032",
-        "name": "Aniban V",
-        "correspondence_code": "042103032",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2659,
-        "population_2020": 2714
-    },
-    "0402103033": {
-        "code": "0402103033",
-        "name": "Campo Santo",
-        "correspondence_code": "042103033",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 1418,
-        "population_2020": 1329
-    },
     "0402103034": {
         "code": "0402103034",
         "name": "Habay II",
@@ -11054,72 +10882,19 @@
         "population_2015": 11276,
         "population_2020": 11888
     },
-    "0402103035": {
-        "code": "0402103035",
-        "name": "Ligas II",
-        "correspondence_code": "042103035",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 4918,
-        "population_2020": 5031
-    },
     "0402103036": {
         "code": "0402103036",
-        "name": "Ligas III",
+        "name": "Ligas 2",
         "correspondence_code": "042103036",
         "geographic_level": "Bgy",
+        "old_names": "Ligas III",
         "urban_rural": "U",
         "population_2015": 7989,
         "population_2020": 8219
     },
-    "0402103037": {
-        "code": "0402103037",
-        "name": "Mabolo II",
-        "correspondence_code": "042103037",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 1335,
-        "population_2020": 1306
-    },
-    "0402103038": {
-        "code": "0402103038",
-        "name": "Mabolo III",
-        "correspondence_code": "042103038",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2123,
-        "population_2020": 2335
-    },
-    "0402103039": {
-        "code": "0402103039",
-        "name": "Maliksi II",
-        "correspondence_code": "042103039",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2375,
-        "population_2020": 2781
-    },
-    "0402103040": {
-        "code": "0402103040",
-        "name": "Maliksi III",
-        "correspondence_code": "042103040",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 5643,
-        "population_2020": 6117
-    },
-    "0402103041": {
-        "code": "0402103041",
-        "name": "Mambog II",
-        "correspondence_code": "042103041",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 5083,
-        "population_2020": 7129
-    },
     "0402103042": {
         "code": "0402103042",
-        "name": "Mambog III",
+        "name": "Mambog 3",
         "correspondence_code": "042103042",
         "geographic_level": "Bgy",
         "urban_rural": "U",
@@ -11128,21 +10903,12 @@
     },
     "0402103043": {
         "code": "0402103043",
-        "name": "Mambog IV",
+        "name": "Mambog 4",
         "correspondence_code": "042103043",
         "geographic_level": "Bgy",
         "urban_rural": "U",
         "population_2015": 9434,
         "population_2020": 13868
-    },
-    "0402103044": {
-        "code": "0402103044",
-        "name": "Mambog V",
-        "correspondence_code": "042103044",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 3238,
-        "population_2020": 3832
     },
     "0402103045": {
         "code": "0402103045",
@@ -11198,122 +10964,35 @@
         "population_2015": 11789,
         "population_2020": 12883
     },
-    "0402103051": {
-        "code": "0402103051",
-        "name": "Niog II",
-        "correspondence_code": "042103051",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 6651,
-        "population_2020": 7007
-    },
-    "0402103052": {
-        "code": "0402103052",
-        "name": "Niog III",
-        "correspondence_code": "042103052",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 5478,
-        "population_2020": 4600
-    },
-    "0402103053": {
-        "code": "0402103053",
-        "name": "P.F. Espiritu II",
-        "correspondence_code": "042103053",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2358,
-        "population_2020": 1741
-    },
-    "0402103054": {
-        "code": "0402103054",
-        "name": "P.F. Espiritu III",
-        "correspondence_code": "042103054",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 4341,
-        "population_2020": 5247
-    },
     "0402103055": {
         "code": "0402103055",
-        "name": "P.F. Espiritu IV",
+        "name": "P.F. Espiritu 3",
         "correspondence_code": "042103055",
         "geographic_level": "Bgy",
+        "old_names": "P.F. Espiritu IV",
         "urban_rural": "U",
         "population_2015": 10482,
         "population_2020": 11694
     },
-    "0402103056": {
-        "code": "0402103056",
-        "name": "P.F. Espiritu V",
-        "correspondence_code": "042103056",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 5627,
-        "population_2020": 5640
-    },
-    "0402103057": {
-        "code": "0402103057",
-        "name": "P.F. Espiritu VI",
-        "correspondence_code": "042103057",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 2981,
-        "population_2020": 2767
-    },
     "0402103058": {
         "code": "0402103058",
-        "name": "P.F. Espiritu VII",
+        "name": "P.F. Espiritu 5",
         "correspondence_code": "042103058",
         "geographic_level": "Bgy",
+        "old_names": "P.F. Espiritu VII",
         "urban_rural": "U",
         "population_2015": 3160,
         "population_2020": 3682
     },
     "0402103059": {
         "code": "0402103059",
-        "name": "P.F. Espiritu VIII",
+        "name": "P.F. Espiritu 6",
         "correspondence_code": "042103059",
         "geographic_level": "Bgy",
+        "old_names": "P.F. Espiritu VIII",
         "urban_rural": "U",
         "population_2015": 5300,
         "population_2020": 7876
-    },
-    "0402103060": {
-        "code": "0402103060",
-        "name": "Real II",
-        "correspondence_code": "042103060",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 4223,
-        "population_2020": 4699
-    },
-    "0402103061": {
-        "code": "0402103061",
-        "name": "Salinas II",
-        "correspondence_code": "042103061",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 4630,
-        "population_2020": 5777
-    },
-    "0402103062": {
-        "code": "0402103062",
-        "name": "Salinas III",
-        "correspondence_code": "042103062",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 1563,
-        "population_2020": 1813
-    },
-    "0402103063": {
-        "code": "0402103063",
-        "name": "Salinas IV",
-        "correspondence_code": "042103063",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 1320,
-        "population_2020": 1335
     },
     "0402103064": {
         "code": "0402103064",
@@ -11335,100 +11014,174 @@
     },
     "0402103066": {
         "code": "0402103066",
-        "name": "Talaba II",
+        "name": "Talaba 2",
         "correspondence_code": "042103066",
         "geographic_level": "Bgy",
         "urban_rural": "U",
         "population_2015": 11724,
         "population_2020": 14623
     },
-    "0402103067": {
-        "code": "0402103067",
-        "name": "Talaba III",
-        "correspondence_code": "042103067",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 1520,
-        "population_2020": 2202
-    },
-    "0402103068": {
-        "code": "0402103068",
-        "name": "Talaba IV",
-        "correspondence_code": "042103068",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 3001,
-        "population_2020": 3096
-    },
-    "0402103069": {
-        "code": "0402103069",
-        "name": "Talaba V",
-        "correspondence_code": "042103069",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 1786,
-        "population_2020": 1776
-    },
-    "0402103070": {
-        "code": "0402103070",
-        "name": "Talaba VI",
-        "correspondence_code": "042103070",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2489,
-        "population_2020": 2592
-    },
-    "0402103071": {
-        "code": "0402103071",
-        "name": "Talaba VII",
-        "correspondence_code": "042103071",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 3107,
-        "population_2020": 2309
-    },
-    "0402103072": {
-        "code": "0402103072",
-        "name": "Zapote II",
-        "correspondence_code": "042103072",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 4298,
-        "population_2020": 5137
-    },
-    "0402103073": {
-        "code": "0402103073",
-        "name": "Zapote III",
-        "correspondence_code": "042103073",
-        "geographic_level": "Bgy",
-        "urban_rural": "U",
-        "population_2015": 3554,
-        "population_2020": 2277
-    },
-    "0402103074": {
-        "code": "0402103074",
-        "name": "Zapote IV",
-        "correspondence_code": "042103074",
-        "geographic_level": "Bgy",
-        "urban_rural": "R",
-        "population_2015": 2121,
-        "population_2020": 2054
-    },
     "0402103075": {
         "code": "0402103075",
-        "name": "Zapote V",
+        "name": "Zapote 3",
         "correspondence_code": "042103075",
         "geographic_level": "Bgy",
+        "old_names": "Zapote V",
         "urban_rural": "U",
         "population_2015": 19340,
         "population_2020": 19117
     },
+    "0402103076": {
+        "code": "0402103076",
+        "name": "Aniban 1",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 6931,
+        "population_2020": 6892
+    },
+    "0402103077": {
+        "code": "0402103077",
+        "name": "Aniban 2",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 5270,
+        "population_2020": 5180
+    },
+    "0402103078": {
+        "code": "0402103078",
+        "name": "Kaingin Digman",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 5937,
+        "population_2020": 5581
+    },
+    "0402103079": {
+        "code": "0402103079",
+        "name": "Ligas 1",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 9293,
+        "population_2020": 9827
+    },
+    "0402103080": {
+        "code": "0402103080",
+        "name": "Mabolo",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 4455,
+        "population_2020": 5071
+    },
+    "0402103081": {
+        "code": "0402103081",
+        "name": "Maliksi 2",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 8018,
+        "population_2020": 8898
+    },
+    "0402103082": {
+        "code": "0402103082",
+        "name": "Mambog 2",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 8321,
+        "population_2020": 10961
+    },
+    "0402103083": {
+        "code": "0402103083",
+        "name": "Niog",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 17898,
+        "population_2020": 16726
+    },
+    "0402103084": {
+        "code": "0402103084",
+        "name": "P.F. Espiritu 2",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 6699,
+        "population_2020": 6988
+    },
+    "0402103085": {
+        "code": "0402103085",
+        "name": "P.F. Espiritu 4",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 8608,
+        "population_2020": 8407
+    },
+    "0402103086": {
+        "code": "0402103086",
+        "name": "Poblacion",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 8287,
+        "population_2020": 7592
+    },
+    "0402103087": {
+        "code": "0402103087",
+        "name": "Real",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 9113,
+        "population_2020": 9981
+    },
+    "0402103088": {
+        "code": "0402103088",
+        "name": "Salinas 2",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 7513,
+        "population_2020": 8925
+    },
+    "0402103089": {
+        "code": "0402103089",
+        "name": "Sinbanali",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 14773,
+        "population_2020": 14048
+    },
+    "0402103090": {
+        "code": "0402103090",
+        "name": "Talaba 1",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 7384,
+        "population_2020": 6362
+    },
+    "0402103091": {
+        "code": "0402103091",
+        "name": "Talaba 3",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 7276,
+        "population_2020": 7464
+    },
+    "0402103092": {
+        "code": "0402103092",
+        "name": "Zapote 1",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 10542,
+        "population_2020": 10983
+    },
+    "0402103093": {
+        "code": "0402103093",
+        "name": "Zapote 2",
+        "geographic_level": "Bgy",
+        "urban_rural": "-",
+        "population_2015": 5675,
+        "population_2020": 4331
+    },
     "0402104": {
         "code": "0402104000",
-        "name": "Carmona",
+        "name": "City of Carmona",
         "correspondence_code": "042104000",
-        "geographic_level": "Mun",
-        "income_classification": "1st",
+        "geographic_level": "City",
+        "city_class": "CC",
+        "income_classification": "1st (as Mun)",
         "urban_rural": "",
         "population_2015": 97557,
         "population_2020": 106256
@@ -24353,7 +24106,7 @@
     },
     "0403428016": {
         "code": "0403428016",
-        "name": "Pook",
+        "name": "Pooc",
         "correspondence_code": "043428016",
         "geographic_level": "Bgy",
         "urban_rural": "U",

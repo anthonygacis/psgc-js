@@ -13072,7 +13072,7 @@
         "population_2020": 36007
     },
     "137602003": {
-        "code": "1380300003",
+        "code": "1381500029",
         "name": "Cembo",
         "correspondence_code": 137602003,
         "geographic_level": "Bgy",
@@ -13081,7 +13081,7 @@
         "population_2020": 25049
     },
     "137602004": {
-        "code": "1380300004",
+        "code": "1381500030",
         "name": "Comembo",
         "correspondence_code": 137602004,
         "geographic_level": "Bgy",
@@ -13108,7 +13108,7 @@
         "population_2020": 4160
     },
     "137602007": {
-        "code": "1380300007",
+        "code": "1381500031",
         "name": "East Rembo",
         "correspondence_code": 137602007,
         "geographic_level": "Bgy",
@@ -13189,7 +13189,7 @@
         "population_2020": 11623
     },
     "137602016": {
-        "code": "1380300016",
+        "code": "1381500032",
         "name": "Pembo",
         "correspondence_code": 137602016,
         "geographic_level": "Bgy",
@@ -13216,7 +13216,7 @@
         "population_2020": 50722
     },
     "137602019": {
-        "code": "1380300019",
+        "code": "1381500033",
         "name": "Pitogo",
         "correspondence_code": 137602019,
         "geographic_level": "Bgy",
@@ -13234,7 +13234,7 @@
         "population_2020": 16706
     },
     "137602021": {
-        "code": "1380300021",
+        "code": "1381500034",
         "name": "Post Proper Northside",
         "correspondence_code": 137602021,
         "geographic_level": "Bgy",
@@ -13243,7 +13243,7 @@
         "population_2020": 57940
     },
     "137602022": {
-        "code": "1380300022",
+        "code": "1381500035",
         "name": "Post Proper Southside",
         "correspondence_code": 137602022,
         "geographic_level": "Bgy",
@@ -13297,13 +13297,13 @@
         "population_2020": 7218
     },
     "137602028": {
-        "code": "1380300028",
+        "code": "1381500037",
         "name": "South Cembo",
         "correspondence_code": 137602028,
         "geographic_level": "Bgy",
         "urban_rural": "U",
-        "population_2015": 15103,
-        "population_2020": 14978
+        "population_2015": 29899,
+        "population_2020": 29649
     },
     "137602029": {
         "code": "1380300029",
@@ -13333,22 +13333,22 @@
         "population_2020": 5370
     },
     "137602032": {
-        "code": "1380300032",
+        "code": "1381500038",
         "name": "West Rembo",
         "correspondence_code": 137602032,
         "geographic_level": "Bgy",
         "urban_rural": "U",
-        "population_2015": 29899,
-        "population_2020": 29649
+        "population_2015": 42635,
+        "population_2020": 44536
     },
     "137602033": {
-        "code": "1380300033",
+        "code": "1381500036",
         "name": "Rizal",
         "correspondence_code": 137602033,
         "geographic_level": "Bgy",
         "urban_rural": "U",
-        "population_2015": 42635,
-        "population_2020": 44536
+        "population_2015": 15103,
+        "population_2020": 14978
     },
     "137603001": {
         "code": "1380800001",
