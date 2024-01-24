@@ -20340,7 +20340,7 @@
     },
     "0631000097": {
         "code": "0631000097",
-        "name": "Luna",
+        "name": "Luna (Jaro)",
         "correspondence_code": "063022097",
         "geographic_level": "Bgy",
         "old_names": "Jaro",
@@ -20764,7 +20764,7 @@
     },
     "0631000151": {
         "code": "0631000151",
-        "name": "San Isidro",
+        "name": "San Isidro (Jaro)",
         "correspondence_code": "063022151",
         "geographic_level": "Bgy",
         "old_names": "Jaro",
@@ -20783,7 +20783,7 @@
     },
     "0631000154": {
         "code": "0631000154",
-        "name": "San Jose",
+        "name": "San Jose (Jaro)",
         "correspondence_code": "063022154",
         "geographic_level": "Bgy",
         "old_names": "Jaro",
@@ -20793,7 +20793,7 @@
     },
     "0631000155": {
         "code": "0631000155",
-        "name": "San Jose",
+        "name": "San Jose (Arevalo)",
         "correspondence_code": "063022155",
         "geographic_level": "Bgy",
         "old_names": "Arevalo",
@@ -20821,7 +20821,7 @@
     },
     "0631000158": {
         "code": "0631000158",
-        "name": "San Pedro",
+        "name": "San Pedro (Molo)",
         "correspondence_code": "063022158",
         "geographic_level": "Bgy",
         "old_names": "Molo",
@@ -20831,7 +20831,7 @@
     },
     "0631000159": {
         "code": "0631000159",
-        "name": "San Pedro",
+        "name": "San Pedro (Jaro)",
         "correspondence_code": "063022159",
         "geographic_level": "Bgy",
         "old_names": "Jaro",
@@ -20967,7 +20967,7 @@
     },
     "0631000175": {
         "code": "0631000175",
-        "name": "Tabuc Suba",
+        "name": "Tabuc Suba (Jaro)",
         "correspondence_code": "063022175",
         "geographic_level": "Bgy",
         "old_names": "Jaro",
@@ -21151,7 +21151,7 @@
     },
     "0631000198": {
         "code": "0631000198",
-        "name": "Luna",
+        "name": "Luna (La Paz)",
         "correspondence_code": "063022198",
         "geographic_level": "Bgy",
         "old_names": "La Paz",
@@ -21161,7 +21161,7 @@
     },
     "0631000199": {
         "code": "0631000199",
-        "name": "San Isidro",
+        "name": "San Isidro (La Paz)",
         "correspondence_code": "063022199",
         "geographic_level": "Bgy",
         "old_names": "La Paz",
@@ -21171,7 +21171,7 @@
     },
     "0631000200": {
         "code": "0631000200",
-        "name": "San Jose",
+        "name": "San Jose (City Proper)",
         "correspondence_code": "063022200",
         "geographic_level": "Bgy",
         "old_names": "City Proper",
@@ -21181,7 +21181,7 @@
     },
     "0631000201": {
         "code": "0631000201",
-        "name": "Tabuc Suba",
+        "name": "Tabuc Suba (La Paz)",
         "correspondence_code": "063022201",
         "geographic_level": "Bgy",
         "old_names": "La Paz",
