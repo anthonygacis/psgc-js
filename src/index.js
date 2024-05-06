@@ -26,7 +26,8 @@ const onChangeElement = (elem) => {
                 if (regCode) {
                     const populateOptions = (filteredData) => {
                         filteredData.forEach(function (prov) {
-                            let tempCode = prov.code ? prov.code : prov.correspondence_code
+                            // let tempCode = prov.code ? prov.code : prov.correspondence_code
+                            let tempCode = prov.correspondence_code
                             let isDefault = _objProvinces[0].dataset?.defaultValue == tempCode
                             let key = _addNameToKey ? tempCode + ':' + prov.name.replace(/\s/g, '-').toLowerCase() : tempCode
                             _objProvinces[0].add(new Option(prov.name, key, isDefault, isDefault))
@@ -62,7 +63,7 @@ const onChangeElement = (elem) => {
                     if (iData.length) {
                         iData.forEach(function (item) {
                             let isDefault = _objMunicipality[0].dataset?.defaultValue == item.code
-                            let key = _addNameToKey ? item.code + ':' + item.name.replace(/\s/g, '-').toLowerCase() : item.code
+                            let key = _addNameToKey ? item.correspondence_code + ':' + item.name.replace(/\s/g, '-').toLowerCase() : item.correspondence_code
                             _objMunicipality[0].add(new Option(item.name, key, isDefault, isDefault))
                             if (isDefault) {
                                 onChangeElement(_objMunicipality[0])
@@ -87,7 +88,7 @@ const onChangeElement = (elem) => {
                     if (mData.length) {
                         mData.forEach(function (item) {
                             let isDefault = _objBarangay[0].dataset?.defaultValue == item.code
-                            let key = _addNameToKey ? item.code + ':' + item.name.replace(/\s/g, '-').toLowerCase() : item.code
+                            let key = _addNameToKey ? item.correspondence_code + ':' + item.name.replace(/\s/g, '-').toLowerCase() : item.correspondence_code
                             _objBarangay[0].add(new Option(item.name, key, isDefault, isDefault))
                             if (isDefault) {
                                 onChangeElement(_objBarangay[0])
@@ -182,8 +183,8 @@ const PSGC = {
             return data.then(content => {
                 let code = filters.search.code
                 let type = filters.search.type
-                let provCode = code.substring(0, 5)
-                let munCode = code.substring(0, 7)
+                let provCode = code.substring(0, 4)
+                let munCode = code.substring(0, 6)
                 let res = []
                 if (type == 'City' || type == 'Mun' || type == 'SubMun') {
                     for (let [index, item] of Object.entries(content.default)) {
@@ -199,7 +200,7 @@ const PSGC = {
                     for (let [index, item] of Object.entries(content.default)) {
                         if (item.geographic_level) {
                             if (item.geographic_level == 'Bgy') {
-                                if (item.code.toString().startsWith(munCode)) {
+                                if (item.code.toString().startsWith(munCode) || item.correspondence_code.toString().startsWith(munCode)) {
                                     res.push(item)
                                 }
                             }

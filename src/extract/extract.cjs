@@ -14,14 +14,18 @@ for (let index = 1; index <= 19; index++) {
     let regData = data.filter((item) => {
         // only those entries with correspondence code
         if (item.code || item.correspondence_code) {
-            let numCode = index != '13' ? parseInt(item.code) : parseInt(item.correspondence_code)
-            let multiplier = 100000000
-            if (index == 13) multiplier = 10000000
+            // let numCode = index != '13' ? parseInt(item.code) : parseInt(item.correspondence_code)
+            let numCode = parseInt(item.correspondence_code)
+            let multiplier = 10000000
+            // let multiplier = 100000000
+            // if (index == 13) multiplier = 10000000
+
             let regCode = index * multiplier
             if (numCode >= regCode && numCode < (regCode + multiplier)) {
                 item.name = item.name.trim()
                 if (item.geographic_level) {
-                    let code = index != 13 ? item.code.toString() : item.correspondence_code.toString()
+                    // let code = index != 13 ? item.code.toString() : item.correspondence_code.toString()
+                    let code = item.correspondence_code.toString()
                     let tempCode = ''
                     if (item.geographic_level == 'Reg') {
                         tempCode = code.substring(0, 3)
@@ -36,10 +40,11 @@ for (let index = 1; index <= 19; index++) {
                         }
                     }
                     if (item.geographic_level == 'Prov' || item.geographic_level == 'Dist') {
-                        tempCode = code.substring(0, 5)
+                        // tempCode = code.substring(0, 5)
+                        tempCode = code.substring(0, 4)
                     }
                     if (item.geographic_level == 'Mun' || item.geographic_level == 'City' || item.geographic_level == 'SubMun') {
-                        tempCode = code.substring(0, 7)
+                        tempCode = code.substring(0, 6)
                     }
                     if (item.geographic_level == 'Bgy') {
                         tempCode = code

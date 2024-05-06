@@ -7,14 +7,14 @@
         "population_2015": 12877253,
         "population_2020": 13484462
     },
-    "13390": {
+    "1339": {
         "name": "NCR, City of Manila, First District (Not a Province)",
         "correspondence_code": 133900000,
         "geographic_level": "Dist",
         "population_2015": 1780148,
         "population_2020": 1846513
     },
-    "13740": {
+    "1374": {
         "code": "",
         "name": "NCR, Second District (Not a Province)",
         "correspondence_code": 137400000,
@@ -22,21 +22,21 @@
         "population_2015": 4650613,
         "population_2020": 4771371
     },
-    "13750": {
+    "1375": {
         "name": "NCR, Third District (Not a Province)",
         "correspondence_code": 137500000,
         "geographic_level": "Dist",
         "population_2015": 2819388,
         "population_2020": 3004627
     },
-    "13760": {
+    "1376": {
         "name": "NCR, Fourth District (Not a Province)",
         "correspondence_code": 137600000,
         "geographic_level": "Dist",
         "population_2015": 3627104,
         "population_2020": 3861951
     },
-    "1339000": {
+    "133900": {
         "code": "1380600000",
         "name": "City of Manila",
         "correspondence_code": 133900000,
@@ -46,7 +46,7 @@
         "population_2015": 1780148,
         "population_2020": 1846513
     },
-    "1339010": {
+    "133901": {
         "code": "1380601000",
         "name": "Tondo I/II",
         "correspondence_code": 133901000,
@@ -54,7 +54,7 @@
         "population_2015": 631363,
         "population_2020": 654220
     },
-    "1339020": {
+    "133902": {
         "code": "1380602000",
         "name": "Binondo",
         "correspondence_code": 133902000,
@@ -62,7 +62,7 @@
         "population_2015": 18040,
         "population_2020": 20491
     },
-    "1339030": {
+    "133903": {
         "code": "1380603000",
         "name": "Quiapo",
         "correspondence_code": 133903000,
@@ -70,7 +70,7 @@
         "population_2015": 28478,
         "population_2020": 29846
     },
-    "1339040": {
+    "133904": {
         "code": "1380604000",
         "name": "San Nicolas",
         "correspondence_code": 133904000,
@@ -78,7 +78,7 @@
         "population_2015": 43069,
         "population_2020": 42957
     },
-    "1339050": {
+    "133905": {
         "code": "1380605000",
         "name": "Santa Cruz",
         "correspondence_code": 133905000,
@@ -86,7 +86,7 @@
         "population_2015": 132193,
         "population_2020": 126735
     },
-    "1339060": {
+    "133906": {
         "code": "1380606000",
         "name": "Sampaloc",
         "correspondence_code": 133906000,
@@ -94,7 +94,7 @@
         "population_2015": 375119,
         "population_2020": 388305
     },
-    "1339070": {
+    "133907": {
         "code": "1380607000",
         "name": "San Miguel",
         "correspondence_code": 133907000,
@@ -102,7 +102,7 @@
         "population_2015": 17464,
         "population_2020": 18599
     },
-    "1339080": {
+    "133908": {
         "code": "1380608000",
         "name": "Ermita",
         "correspondence_code": 133908000,
@@ -110,7 +110,7 @@
         "population_2015": 10523,
         "population_2020": 19189
     },
-    "1339090": {
+    "133909": {
         "code": "1380609000",
         "name": "Intramuros",
         "correspondence_code": 133909000,
@@ -118,7 +118,7 @@
         "population_2015": 5935,
         "population_2020": 6103
     },
-    "1339100": {
+    "133910": {
         "code": "1380610000",
         "name": "Malate",
         "correspondence_code": 133910000,
@@ -126,7 +126,7 @@
         "population_2015": 86196,
         "population_2020": 99257
     },
-    "1339110": {
+    "133911": {
         "code": "1380611000",
         "name": "Paco",
         "correspondence_code": 133911000,
@@ -134,7 +134,7 @@
         "population_2015": 82466,
         "population_2020": 79839
     },
-    "1339120": {
+    "133912": {
         "code": "1380612000",
         "name": "Pandacan",
         "correspondence_code": 133912000,
@@ -142,7 +142,7 @@
         "population_2015": 87405,
         "population_2020": 84769
     },
-    "1339130": {
+    "133913": {
         "code": "1380613000",
         "name": "Port Area",
         "correspondence_code": 133913000,
@@ -150,7 +150,7 @@
         "population_2015": 66742,
         "population_2020": 72605
     },
-    "1339140": {
+    "133914": {
         "code": "1380614000",
         "name": "Santa Ana",
         "correspondence_code": 133914000,
@@ -158,7 +158,7 @@
         "population_2015": 195155,
         "population_2020": 203598
     },
-    "1374010": {
+    "137401": {
         "code": "1380500000",
         "name": "City of Mandaluyong",
         "correspondence_code": 137401000,
@@ -168,7 +168,7 @@
         "population_2015": 386276,
         "population_2020": 425758
     },
-    "1374020": {
+    "137402": {
         "code": "1380700000",
         "name": "City of Marikina",
         "correspondence_code": 137402000,
@@ -178,7 +178,7 @@
         "population_2015": 450741,
         "population_2020": 456059
     },
-    "1374030": {
+    "137403": {
         "code": "1381200000",
         "name": "City of Pasig",
         "correspondence_code": 137403000,
@@ -188,7 +188,7 @@
         "population_2015": 755300,
         "population_2020": 803159
     },
-    "1374040": {
+    "137404": {
         "code": "1381300000",
         "name": "Quezon City",
         "correspondence_code": 137404000,
@@ -198,7 +198,7 @@
         "population_2015": 2936116,
         "population_2020": 2960048
     },
-    "1374050": {
+    "137405": {
         "code": "1381400000",
         "name": "City of San Juan",
         "correspondence_code": 137405000,
@@ -208,7 +208,7 @@
         "population_2015": 122180,
         "population_2020": 126347
     },
-    "1375010": {
+    "137501": {
         "code": "1380100000",
         "name": "City of Caloocan",
         "correspondence_code": 137501000,
@@ -218,7 +218,7 @@
         "population_2015": 1583978,
         "population_2020": 1661584
     },
-    "1375020": {
+    "137502": {
         "code": "1380400000",
         "name": "City of Malabon",
         "correspondence_code": 137502000,
@@ -228,7 +228,7 @@
         "population_2015": 365525,
         "population_2020": 380522
     },
-    "1375030": {
+    "137503": {
         "code": "1380900000",
         "name": "City of Navotas",
         "correspondence_code": 137503000,
@@ -238,7 +238,7 @@
         "population_2015": 249463,
         "population_2020": 247543
     },
-    "1375040": {
+    "137504": {
         "code": "1381600000",
         "name": "City of Valenzuela",
         "correspondence_code": 137504000,
@@ -248,7 +248,7 @@
         "population_2015": 620422,
         "population_2020": 714978
     },
-    "1376010": {
+    "137601": {
         "code": "1380200000",
         "name": "City of Las Piñas",
         "correspondence_code": 137601000,
@@ -258,7 +258,7 @@
         "population_2015": 588894,
         "population_2020": 606293
     },
-    "1376020": {
+    "137602": {
         "code": "1380300000",
         "name": "City of Makati",
         "correspondence_code": 137602000,
@@ -268,7 +268,7 @@
         "population_2015": 582602,
         "population_2020": 629616
     },
-    "1376030": {
+    "137603": {
         "code": "1380800000",
         "name": "City of Muntinlupa",
         "correspondence_code": 137603000,
@@ -278,7 +278,7 @@
         "population_2015": 504509,
         "population_2020": 543445
     },
-    "1376040": {
+    "137604": {
         "code": "1381000000",
         "name": "City of Parañaque",
         "correspondence_code": 137604000,
@@ -288,7 +288,7 @@
         "population_2015": 665822,
         "population_2020": 689992
     },
-    "1376050": {
+    "137605": {
         "code": "1381100000",
         "name": "Pasay City",
         "correspondence_code": 137605000,
@@ -298,7 +298,7 @@
         "population_2015": 416522,
         "population_2020": 440656
     },
-    "1376060": {
+    "137606": {
         "code": "1381701000",
         "name": "Pateros",
         "correspondence_code": 137606000,
@@ -307,7 +307,7 @@
         "population_2015": 63840,
         "population_2020": 65227
     },
-    "1376070": {
+    "137607": {
         "code": "1381500000",
         "name": "City of Taguig",
         "correspondence_code": 137607000,
