@@ -43,6 +43,15 @@
         "population_2015": 1722006,
         "population_2020": 1797660
     },
+    "150": {
+        "code": "1900000000",
+        "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+        "correspondence_code": 150000000,
+        "geographic_level": "Reg",
+        "urban_rural": "",
+        "population_2015": 3781387,
+        "population_2020": 4404288
+    },
     "160": {
         "code": "1600000000",
         "name": "Region XIII (Caraga)",
@@ -60,15 +69,6 @@
         "urban_rural": "",
         "population_2015": 2963360,
         "population_2020": 3228558
-    },
-    "190": {
-        "code": "1900000000",
-        "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
-        "correspondence_code": 150000000,
-        "geographic_level": "Reg",
-        "urban_rural": "",
-        "population_2015": 3781387,
-        "population_2020": 4404288
     },
     "010": {
         "code": "0100000000",
